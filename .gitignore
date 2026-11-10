@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+data/raw/*
+!data/raw/README.md
+
+data/processed/*
+!data/processed/.gitkeep
