@@ -1,0 +1,63 @@
+
+services:
+  mlflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+
+    image: sales-forecast-mlflow:local
+
+    ports:
+      - "127.0.0.1:5000:5000"
+
+    volumes:
+      - ./mlflow-docker-data:/mlflow
+
+    command:
+      - python
+      - -m
+      - mlflow
+      - server
+      - --backend-store-uri
+      - sqlite:////mlflow/mlflow.db
+      - --artifacts-destination
+      - /mlflow/mlartifacts
+      - --host
+      - 0.0.0.0
+      - --port
+      - "5000"
+      - --workers
+      - "1"
+      - --allowed-hosts
+      - "127.0.0.1:5000,localhost:5000,mlflow:5000"
+
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:5000/version', timeout=5)"
+      interval: 10s
+      timeout: 7s
+      retries: 12
+      start_period: 40s
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    image: sales-forecast-api:local
+
+    ports:
+      - "127.0.0.1:8002:8000"
+
+    environment:
+      MLFLOW_TRACKING_URI: "http://mlflow:5000"
+
+    volumes:
+      - ./data/processed:/app/data/processed:ro
+
+    depends_on:
+      mlflow:
+        condition: service_healthy

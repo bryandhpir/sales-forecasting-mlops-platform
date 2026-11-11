@@ -12,3 +12,9 @@ data/raw/*
 
 data/processed/*
 !data/processed/.gitkeep
+# MLflow local tracking
+mlflow.db*
+mlartifacts/
+mlruns/
+mlflow-backup/
+mlflow-docker-data/
