@@ -39,3 +39,42 @@ jobs:
 
       - name: Run unit tests
         run: python -m pytest tests -q --ignore=tests/test_live_stack.py
+
+  docker-build:
+    name: Build and Test Docker Image
+    runs-on: ubuntu-latest
+    needs: unit-tests
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Validate Docker Compose
+        run: docker compose config --quiet
+
+      - name: Build FastAPI image
+        run: docker build -t sales-forecast-api:ci .
+
+      - name: Start FastAPI container
+        run: |
+          docker run -d \
+            --name sales-api-ci \
+            -p 127.0.0.1:8000:8000 \
+            sales-forecast-api:ci
+
+      - name: Test health endpoint
+        run: |
+          curl --fail --show-error \
+            --retry 12 \
+            --retry-delay 2 \
+            --retry-connrefused \
+            http://127.0.0.1:8000/health
+
+      - name: Show container logs
+        if: failure()
+        run: docker logs sales-api-ci
+
+      - name: Cleanup container
+        if: always()
+        run: docker rm -f sales-api-ci || true
