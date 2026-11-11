@@ -63,13 +63,31 @@ jobs:
             -p 127.0.0.1:8000:8000 \
             sales-forecast-api:ci
 
+
       - name: Test health endpoint
         run: |
-          curl --fail --show-error \
-            --retry 12 \
-            --retry-delay 2 \
-            --retry-connrefused \
-            http://127.0.0.1:8000/health
+          for attempt in $(seq 1 30); do
+            echo "Checking API health: attempt $attempt/30"
+
+            if curl --fail --silent --show-error --max-time 5 \
+              http://127.0.0.1:8000/health; then
+              echo "Health check: PASSED"
+              exit 0
+            fi
+
+            if [ "$(docker inspect --format '{{.State.Running}}' sales-api-ci)" != "true" ]; then
+              echo "Container stopped unexpectedly"
+              docker logs sales-api-ci
+              exit 1
+            fi
+
+            sleep 3
+          done
+
+          echo "Health check: FAILED"
+          docker logs sales-api-ci
+          exit 1
+
 
       - name: Show container logs
         if: failure()
