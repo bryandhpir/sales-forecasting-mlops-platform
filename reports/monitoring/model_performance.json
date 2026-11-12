@@ -1,0 +1,301 @@
+{
+  "overall": {
+    "observed_targets": 37422,
+    "scored_targets": 37422,
+    "coverage": 1.0,
+    "mae": 79.01395510964271,
+    "rmsle": 0.4488451351292396
+  },
+  "per_cutoff": [
+    {
+      "cutoff": "2017-07-25",
+      "observed_targets": 12474,
+      "scored_targets": 12474,
+      "coverage": 1.0,
+      "mae": 91.22391863429681,
+      "rmsle": 0.45025953419034837
+    },
+    {
+      "cutoff": "2017-08-01",
+      "observed_targets": 12474,
+      "scored_targets": 12474,
+      "coverage": 1.0,
+      "mae": 76.25394000755531,
+      "rmsle": 0.45909425379075525
+    },
+    {
+      "cutoff": "2017-08-08",
+      "observed_targets": 12474,
+      "scored_targets": 12474,
+      "coverage": 1.0,
+      "mae": 69.564006687076,
+      "rmsle": 0.436903517947105
+    }
+  ],
+  "per_family": [
+    {
+      "family_code": 12,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 673.0265898718885,
+      "rmsle": 0.1981018641412477
+    },
+    {
+      "family_code": 3,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 585.5908877992331,
+      "rmsle": 0.24004272394494236
+    },
+    {
+      "family_code": 7,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 428.2251138047637,
+      "rmsle": 0.4363785305166416
+    },
+    {
+      "family_code": 30,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 280.1323862688339,
+      "rmsle": 0.17299797671965594
+    },
+    {
+      "family_code": 8,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 89.51152200352453,
+      "rmsle": 0.16141333932977722
+    },
+    {
+      "family_code": 5,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 62.8425215354242,
+      "rmsle": 0.1770019972664273
+    },
+    {
+      "family_code": 25,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 59.91388585960533,
+      "rmsle": 0.2612258789280299
+    },
+    {
+      "family_code": 24,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 58.48098938125627,
+      "rmsle": 0.2308537495451441
+    },
+    {
+      "family_code": 18,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 56.782167763990586,
+      "rmsle": 0.24380959786366257
+    },
+    {
+      "family_code": 28,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 54.232450238502054,
+      "rmsle": 0.22520416771555152
+    },
+    {
+      "family_code": 9,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 41.39934453911018,
+      "rmsle": 0.19709515822845616
+    },
+    {
+      "family_code": 10,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 38.69647821113209,
+      "rmsle": 0.33099905585867284
+    },
+    {
+      "family_code": 31,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 34.885279453370494,
+      "rmsle": 1.1609167891471448
+    },
+    {
+      "family_code": 22,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 29.27835914956998,
+      "rmsle": 0.5045908637574842
+    },
+    {
+      "family_code": 11,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 24.864486416888127,
+      "rmsle": 0.29827050444561054
+    },
+    {
+      "family_code": 29,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 15.287030031485665,
+      "rmsle": 0.2877999559011136
+    },
+    {
+      "family_code": 16,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 12.235892864660443,
+      "rmsle": 0.49721499966010857
+    },
+    {
+      "family_code": 13,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 12.022833908764353,
+      "rmsle": 0.6107352291281802
+    },
+    {
+      "family_code": 15,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 10.765898099710995,
+      "rmsle": 0.49026764642687043
+    },
+    {
+      "family_code": 6,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 5.517132256763994,
+      "rmsle": 0.5666828112944781
+    },
+    {
+      "family_code": 32,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 4.940623946327793,
+      "rmsle": 0.5214241411682947
+    },
+    {
+      "family_code": 20,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 4.764472648796007,
+      "rmsle": 0.4335262221959523
+    },
+    {
+      "family_code": 19,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 3.9113966366768804,
+      "rmsle": 0.5050837840782663
+    },
+    {
+      "family_code": 21,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 3.7611942959788283,
+      "rmsle": 0.6588362794532534
+    },
+    {
+      "family_code": 27,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 3.6481227580075624,
+      "rmsle": 0.479805708635016
+    },
+    {
+      "family_code": 0,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 2.923063245284987,
+      "rmsle": 0.5214501659399657
+    },
+    {
+      "family_code": 26,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 2.8238753033502544,
+      "rmsle": 0.4820562568768076
+    },
+    {
+      "family_code": 23,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 2.729640165207652,
+      "rmsle": 0.528404699732546
+    },
+    {
+      "family_code": 2,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 2.5300705089918933,
+      "rmsle": 0.5372189581195451
+    },
+    {
+      "family_code": 14,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 1.0922139539881248,
+      "rmsle": 0.5431382013744012
+    },
+    {
+      "family_code": 17,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 0.3420008318329035,
+      "rmsle": 0.3197966363116196
+    },
+    {
+      "family_code": 1,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 0.25048698802917,
+      "rmsle": 0.2862054594010916
+    },
+    {
+      "family_code": 4,
+      "observed_targets": 1134,
+      "scored_targets": 1134,
+      "coverage": 1.0,
+      "mae": 0.05210787725876472,
+      "rmsle": 0.08480943829114475
+    }
+  ]
+}

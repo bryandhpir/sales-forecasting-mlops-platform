@@ -1,0 +1,3565 @@
+store_nbr,family,feature,ks_statistic,drift_detected,reference_missing_rate,current_missing_rate
+7,BREAD/BAKERY,sales_rolling_mean_7,1.0,True,0.0,0.0
+15,CELEBRATION,sales_rolling_mean_7,1.0,True,0.0,0.0
+18,GROCERY II,sales_rolling_mean_7,1.0,True,0.0,0.0
+21,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,1.0,True,0.0,0.0
+44,HOME CARE,sales_rolling_mean_7,1.0,True,0.0,0.0
+11,EGGS,sales_rolling_mean_7,0.9677,True,0.0,0.0
+18,LAWN AND GARDEN,sales_rolling_mean_7,0.9677,True,0.0,0.0
+19,PREPARED FOODS,sales_rolling_mean_7,0.9677,True,0.0,0.0
+51,HOME APPLIANCES,sales_rolling_mean_7,0.9677,True,0.0,0.0
+7,DAIRY,sales_rolling_mean_7,0.9667,True,0.0,0.0
+40,PREPARED FOODS,sales_rolling_mean_7,0.9355,True,0.0,0.0
+43,BEVERAGES,sales_rolling_mean_7,0.9355,True,0.0,0.0
+47,HOME APPLIANCES,sales_rolling_mean_7,0.9344,True,0.0,0.0
+50,HOME APPLIANCES,sales_rolling_mean_7,0.9344,True,0.0,0.0
+27,HOME CARE,sales_rolling_mean_7,0.9333,True,0.0,0.0
+5,HOME CARE,sales_rolling_mean_7,0.9032,True,0.0,0.0
+14,EGGS,sales_rolling_mean_7,0.9032,True,0.0,0.0
+15,PREPARED FOODS,sales_rolling_mean_7,0.9032,True,0.0,0.0
+31,BREAD/BAKERY,sales_rolling_mean_7,0.9032,True,0.0,0.0
+34,LADIESWEAR,sales_rolling_mean_7,0.9022,True,0.0,0.0
+11,HOME AND KITCHEN I,sales_rolling_mean_7,0.9,True,0.0,0.0
+18,BREAD/BAKERY,sales_rolling_mean_7,0.9,True,0.0,0.0
+53,HOME CARE,sales_rolling_mean_7,0.871,True,0.0,0.0
+22,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.8699,True,0.0,0.0
+22,PRODUCE,sales_rolling_mean_7,0.8699,True,0.0,0.0
+6,GROCERY II,sales_rolling_mean_7,0.8688,True,0.0,0.0
+7,PRODUCE,sales_rolling_mean_7,0.8688,True,0.0,0.0
+7,FROZEN FOODS,sales_rolling_mean_7,0.8677,True,0.0,0.0
+17,BEAUTY,sales_rolling_mean_7,0.8667,True,0.0,0.0
+48,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.8387,True,0.0,0.0
+49,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.8387,True,0.0,0.0
+3,BREAD/BAKERY,sales_rolling_mean_7,0.8376,True,0.0,0.0
+27,HOME AND KITCHEN I,sales_rolling_mean_7,0.8376,True,0.0,0.0
+27,GROCERY II,sales_rolling_mean_7,0.8366,True,0.0,0.0
+46,HOME AND KITCHEN II,sales_rolling_mean_7,0.8366,True,0.0,0.0
+48,HOME APPLIANCES,sales_rolling_mean_7,0.8366,True,0.0,0.0
+25,PET SUPPLIES,sales_rolling_mean_7,0.8355,True,0.0,0.0
+6,CELEBRATION,sales_rolling_mean_7,0.8344,True,0.0,0.0
+46,HOME APPLIANCES,sales_rolling_mean_7,0.8344,True,0.0,0.0
+2,EGGS,sales_rolling_mean_7,0.8333,True,0.0,0.0
+38,EGGS,sales_rolling_mean_7,0.8333,True,0.0,0.0
+41,LINGERIE,sales_rolling_mean_7,0.8333,True,0.0,0.0
+10,SEAFOOD,sales_rolling_mean_7,0.8065,True,0.0,0.0
+19,GROCERY II,sales_rolling_mean_7,0.8065,True,0.0,0.0
+51,HOME CARE,sales_rolling_mean_7,0.8065,True,0.0,0.0
+13,GROCERY II,sales_rolling_mean_7,0.8054,True,0.0,0.0
+22,BREAD/BAKERY,sales_rolling_mean_7,0.8054,True,0.0,0.0
+37,HOME APPLIANCES,sales_rolling_mean_7,0.8043,True,0.0,0.0
+50,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.8043,True,0.0,0.0
+30,SEAFOOD,sales_rolling_mean_7,0.8032,True,0.0,0.0
+50,HOME AND KITCHEN II,sales_rolling_mean_7,0.8032,True,0.0,0.0
+8,AUTOMOTIVE,sales_rolling_mean_7,0.8022,True,0.0,0.0
+18,PREPARED FOODS,sales_rolling_mean_7,0.8022,True,0.0,0.0
+7,EGGS,sales_rolling_mean_7,0.8011,True,0.0,0.0
+36,BEAUTY,sales_rolling_mean_7,0.8,True,0.0,0.0
+47,HOME CARE,sales_rolling_mean_7,0.8,True,0.0,0.0
+30,HOME CARE,sales_rolling_mean_7,0.7742,True,0.0,0.0
+31,HOME AND KITCHEN I,sales_rolling_mean_7,0.7742,True,0.0,0.0
+41,HOME CARE,sales_rolling_mean_7,0.7742,True,0.0,0.0
+50,BEAUTY,sales_rolling_mean_7,0.7742,True,0.0,0.0
+4,DAIRY,sales_rolling_mean_7,0.7731,True,0.0,0.0
+54,BREAD/BAKERY,sales_rolling_mean_7,0.7731,True,0.0,0.0
+3,HOME AND KITCHEN I,sales_rolling_mean_7,0.772,True,0.0,0.0
+11,PRODUCE,sales_rolling_mean_7,0.772,True,0.0,0.0
+23,MEATS,sales_rolling_mean_7,0.772,True,0.0,0.0
+53,BEAUTY,sales_rolling_mean_7,0.7699,True,0.0,0.0
+9,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.7688,True,0.0,0.0
+15,LINGERIE,sales_rolling_mean_7,0.7688,True,0.0,0.0
+23,HOME AND KITCHEN II,sales_rolling_mean_7,0.7688,True,0.0,0.0
+49,CELEBRATION,sales_rolling_mean_7,0.7688,True,0.0,0.0
+6,HOME CARE,sales_rolling_mean_7,0.7677,True,0.0,0.0
+9,HOME AND KITCHEN I,sales_rolling_mean_7,0.7677,True,0.0,0.0
+50,AUTOMOTIVE,sales_rolling_mean_7,0.7677,True,0.0,0.0
+1,EGGS,sales_rolling_mean_7,0.7667,True,0.0,0.0
+24,EGGS,sales_rolling_mean_7,0.7667,True,0.0,0.0
+4,HOME CARE,sales_rolling_mean_7,0.7419,True,0.0,0.0
+12,PREPARED FOODS,sales_rolling_mean_7,0.7419,True,0.0,0.0
+17,GROCERY II,sales_rolling_mean_7,0.7419,True,0.0,0.0
+22,POULTRY,sales_rolling_mean_7,0.7419,True,0.0,0.0
+41,BABY CARE,sales_rolling_mean_7,0.7419,True,0.0,0.0
+43,HOME APPLIANCES,sales_rolling_mean_7,0.7419,True,0.0,0.0
+46,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.7419,True,0.0,0.0
+49,HOME APPLIANCES,sales_rolling_mean_7,0.7419,True,0.0,0.0
+6,HOME APPLIANCES,sales_rolling_mean_7,0.7409,True,0.0,0.0
+52,HOME APPLIANCES,sales_rolling_mean_7,0.7409,True,0.0,0.0
+18,PET SUPPLIES,sales_rolling_mean_7,0.7398,True,0.0,0.0
+14,PRODUCE,sales_rolling_mean_7,0.7387,True,0.0,0.0
+15,POULTRY,sales_rolling_mean_7,0.7387,True,0.0,0.0
+36,POULTRY,sales_rolling_mean_7,0.7387,True,0.0,0.0
+50,LINGERIE,sales_rolling_mean_7,0.7387,True,0.0,0.0
+14,SEAFOOD,sales_rolling_mean_7,0.7376,True,0.0,0.0
+5,SEAFOOD,sales_rolling_mean_7,0.7366,True,0.0,0.0
+14,GROCERY II,sales_rolling_mean_7,0.7366,True,0.0,0.0
+21,PRODUCE,sales_rolling_mean_7,0.7366,True,0.0,0.0
+25,HOME CARE,sales_rolling_mean_7,0.7366,True,0.0,0.0
+34,HOME AND KITCHEN II,sales_rolling_mean_7,0.7366,True,0.0,0.0
+37,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.7366,True,0.0,0.0
+1,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.7355,True,0.0,0.0
+25,BREAD/BAKERY,sales_rolling_mean_7,0.7355,True,0.0,0.0
+25,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.7355,True,0.0,0.0
+4,AUTOMOTIVE,sales_rolling_mean_7,0.7344,True,0.0,0.0
+29,LAWN AND GARDEN,sales_rolling_mean_7,0.7344,True,0.0,0.0
+34,LAWN AND GARDEN,sales_rolling_mean_7,0.7344,True,0.0,0.0
+40,LAWN AND GARDEN,sales_rolling_mean_7,0.7344,True,0.0,0.0
+50,CLEANING,sales_rolling_mean_7,0.7344,True,0.0,0.0
+52,BEVERAGES,sales_rolling_mean_7,0.7344,True,0.0,0.0
+1,GROCERY I,sales_rolling_mean_7,0.7333,True,0.0,0.0
+3,EGGS,sales_rolling_mean_7,0.7333,True,0.0,0.0
+20,GROCERY II,sales_rolling_mean_7,0.7333,True,0.0,0.0
+7,GROCERY I,sales_rolling_mean_7,0.7097,True,0.0,0.0
+9,LADIESWEAR,sales_rolling_mean_7,0.7097,True,0.0,0.0
+17,HOME AND KITCHEN II,sales_rolling_mean_7,0.7097,True,0.0,0.0
+22,FROZEN FOODS,sales_rolling_mean_7,0.7097,True,0.0,0.0
+35,HOME AND KITCHEN II,sales_rolling_mean_7,0.7097,True,0.0,0.0
+45,BREAD/BAKERY,sales_rolling_mean_7,0.7097,True,0.0,0.0
+47,BREAD/BAKERY,sales_rolling_mean_7,0.7097,True,0.0,0.0
+8,HARDWARE,sales_rolling_mean_7,0.7086,True,0.0,0.0
+21,SEAFOOD,sales_rolling_mean_7,0.7086,True,0.0,0.0
+27,MEATS,sales_rolling_mean_7,0.7075,True,0.0,0.0
+30,BEVERAGES,sales_rolling_mean_7,0.7075,True,0.0,0.0
+38,PREPARED FOODS,sales_rolling_mean_7,0.7075,True,0.0,0.0
+43,PET SUPPLIES,sales_rolling_mean_7,0.7065,True,0.0,0.0
+2,PRODUCE,sales_rolling_mean_7,0.7054,True,0.0,0.0
+47,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.7054,True,0.0,0.0
+11,PREPARED FOODS,sales_rolling_mean_7,0.7043,True,0.0,0.0
+15,BABY CARE,sales_rolling_mean_7,0.7032,True,0.0,0.0
+39,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.7032,True,0.0,0.0
+16,GROCERY II,sales_rolling_mean_7,0.7022,True,0.0,0.0
+31,LADIESWEAR,sales_rolling_mean_7,0.7022,True,0.0,0.0
+37,HOME CARE,sales_rolling_mean_7,0.7022,True,0.0,0.0
+31,HARDWARE,sales_rolling_mean_7,0.7011,True,0.0,0.0
+36,BREAD/BAKERY,sales_rolling_mean_7,0.7011,True,0.0,0.0
+41,EGGS,sales_rolling_mean_7,0.7011,True,0.0,0.0
+42,HOME AND KITCHEN I,sales_rolling_mean_7,0.7011,True,0.0,0.0
+52,CLEANING,sales_rolling_mean_7,0.7011,True,0.0,0.0
+3,BOOKS,sales_rolling_mean_7,0.7,True,0.0,0.0
+4,PREPARED FOODS,sales_rolling_mean_7,0.7,True,0.0,0.0
+6,EGGS,sales_rolling_mean_7,0.7,True,0.0,0.0
+7,HOME AND KITCHEN II,sales_rolling_mean_7,0.7,True,0.0,0.0
+43,POULTRY,sales_rolling_mean_7,0.7,True,0.0,0.0
+44,EGGS,sales_rolling_mean_7,0.7,True,0.0,0.0
+2,DAIRY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+2,GROCERY II,sales_rolling_mean_7,0.6774,True,0.0,0.0
+6,BABY CARE,sales_rolling_mean_7,0.6774,True,0.0,0.0
+6,BEVERAGES,sales_rolling_mean_7,0.6774,True,0.0,0.0
+6,BREAD/BAKERY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+11,BREAD/BAKERY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+12,DAIRY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+17,DAIRY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+19,HOME AND KITCHEN I,sales_rolling_mean_7,0.6774,True,0.0,0.0
+31,BEAUTY,sales_rolling_mean_7,0.6774,True,0.0,0.0
+10,DAIRY,sales_rolling_mean_7,0.6763,True,0.0,0.0
+15,GROCERY I,sales_rolling_mean_7,0.6763,True,0.0,0.0
+19,FROZEN FOODS,sales_rolling_mean_7,0.6763,True,0.0,0.0
+24,BOOKS,sales_rolling_mean_7,0.6763,True,0.0,0.0
+25,CELEBRATION,sales_rolling_mean_7,0.6763,True,0.0,0.0
+32,BREAD/BAKERY,sales_rolling_mean_7,0.6763,True,0.0,0.0
+37,FROZEN FOODS,sales_rolling_mean_7,0.6763,True,0.0,0.0
+43,BABY CARE,sales_rolling_mean_7,0.6763,True,0.0,0.0
+49,BREAD/BAKERY,sales_rolling_mean_7,0.6763,True,0.0,0.0
+21,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.6753,True,0.0,0.0
+26,HOME APPLIANCES,sales_rolling_mean_7,0.6753,True,0.0,0.0
+34,HOME AND KITCHEN II,sales_lag_7,0.6753,True,0.0,0.0
+48,EGGS,sales_rolling_mean_7,0.6753,True,0.0,0.0
+50,HOME CARE,sales_rolling_mean_7,0.6753,True,0.0,0.0
+1,PRODUCE,sales_rolling_mean_7,0.6742,True,0.0,0.0
+7,BEVERAGES,sales_rolling_mean_7,0.6742,True,0.0,0.0
+12,BEVERAGES,sales_rolling_mean_7,0.6742,True,0.0,0.0
+18,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6742,True,0.0,0.0
+18,SEAFOOD,sales_rolling_mean_7,0.6742,True,0.0,0.0
+40,GROCERY II,sales_rolling_mean_7,0.6742,True,0.0,0.0
+45,EGGS,sales_rolling_mean_7,0.6742,True,0.0,0.0
+45,LAWN AND GARDEN,sales_rolling_mean_7,0.6742,True,0.0,0.0
+49,DAIRY,sales_rolling_mean_7,0.6742,True,0.0,0.0
+52,POULTRY,sales_rolling_mean_7,0.6742,True,0.0,0.0
+44,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.6731,True,0.0,0.0
+53,EGGS,sales_rolling_mean_7,0.6731,True,0.0,0.0
+17,HOME AND KITCHEN I,sales_rolling_mean_7,0.672,True,0.0,0.0
+31,LAWN AND GARDEN,sales_rolling_mean_7,0.672,True,0.0,0.0
+3,HOME CARE,sales_rolling_mean_7,0.671,True,0.0,0.0
+36,CELEBRATION,sales_rolling_mean_7,0.671,True,0.0,0.0
+46,EGGS,sales_rolling_mean_7,0.671,True,0.0,0.0
+3,GROCERY II,sales_rolling_mean_7,0.6699,True,0.0,0.0
+20,BREAD/BAKERY,sales_rolling_mean_7,0.6699,True,0.0,0.0
+20,PREPARED FOODS,sales_rolling_mean_7,0.6699,True,0.0,0.0
+26,FROZEN FOODS,sales_rolling_mean_7,0.6699,True,0.0,0.0
+34,POULTRY,sales_rolling_mean_7,0.6699,True,0.0,0.0
+40,BREAD/BAKERY,sales_rolling_mean_7,0.6699,True,0.0,0.0
+49,HOME CARE,sales_rolling_mean_7,0.6688,True,0.0,0.0
+4,EGGS,sales_rolling_mean_7,0.6677,True,0.0,0.0
+17,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.6677,True,0.0,0.0
+17,POULTRY,sales_rolling_mean_7,0.6677,True,0.0,0.0
+52,HOME CARE,sales_rolling_mean_7,0.6677,True,0.0,0.0
+33,BEVERAGES,sales_rolling_mean_7,0.6667,True,0.0,0.0
+36,HOME AND KITCHEN I,sales_rolling_mean_7,0.6667,True,0.0,0.0
+39,GROCERY I,sales_rolling_mean_7,0.6667,True,0.0,0.0
+1,PET SUPPLIES,sales_rolling_mean_7,0.6452,True,0.0,0.0
+8,PREPARED FOODS,sales_rolling_mean_7,0.6452,True,0.0,0.0
+11,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6452,True,0.0,0.0
+14,DAIRY,sales_rolling_mean_7,0.6452,True,0.0,0.0
+29,HOME CARE,sales_rolling_mean_7,0.6452,True,0.0,0.0
+35,HOME AND KITCHEN I,sales_rolling_mean_7,0.6452,True,0.0,0.0
+47,DAIRY,sales_rolling_mean_7,0.6452,True,0.0,0.0
+3,DAIRY,sales_rolling_mean_7,0.6441,True,0.0,0.0
+12,PRODUCE,sales_rolling_mean_7,0.6441,True,0.0,0.0
+19,DAIRY,sales_rolling_mean_7,0.6441,True,0.0,0.0
+26,GROCERY II,sales_rolling_mean_7,0.6441,True,0.0,0.0
+50,GROCERY II,sales_rolling_mean_7,0.6441,True,0.0,0.0
+11,CELEBRATION,sales_rolling_mean_7,0.643,True,0.0,0.0
+22,LADIESWEAR,sales_rolling_mean_7,0.643,True,0.0,0.0
+40,HOME CARE,sales_rolling_mean_7,0.643,True,0.0,0.0
+48,LINGERIE,sales_rolling_mean_7,0.643,True,0.0,0.0
+6,DAIRY,sales_rolling_mean_7,0.6419,True,0.0,0.0
+8,DAIRY,sales_rolling_mean_7,0.6419,True,0.0,0.0
+11,PET SUPPLIES,sales_rolling_mean_7,0.6419,True,0.0,0.0
+52,MEATS,sales_rolling_mean_7,0.6409,True,0.0,0.0
+27,BEAUTY,sales_rolling_mean_7,0.6387,True,0.0,0.0
+40,POULTRY,sales_rolling_mean_7,0.6387,True,0.0,0.0
+14,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6376,True,0.0,0.0
+39,SEAFOOD,sales_rolling_mean_7,0.6376,True,0.0,0.0
+8,DELI,sales_rolling_mean_7,0.6366,True,0.0,0.0
+13,POULTRY,sales_rolling_mean_7,0.6366,True,0.0,0.0
+36,HOME CARE,sales_rolling_mean_7,0.6366,True,0.0,0.0
+54,HOME CARE,sales_rolling_mean_7,0.6366,True,0.0,0.0
+1,BEVERAGES,sales_rolling_mean_7,0.6355,True,0.0,0.0
+40,AUTOMOTIVE,sales_rolling_mean_7,0.6355,True,0.0,0.0
+5,EGGS,sales_rolling_mean_7,0.6344,True,0.0,0.0
+7,POULTRY,sales_rolling_mean_7,0.6344,True,0.0,0.0
+26,LADIESWEAR,sales_rolling_mean_7,0.6344,True,0.0,0.0
+44,CLEANING,sales_rolling_mean_7,0.6344,True,0.0,0.0
+51,EGGS,sales_rolling_mean_7,0.6344,True,0.0,0.0
+7,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6333,True,0.0,0.0
+16,GROCERY I,sales_rolling_mean_7,0.6333,True,0.0,0.0
+22,HOME AND KITCHEN I,sales_rolling_mean_7,0.6333,True,0.0,0.0
+25,GROCERY II,sales_rolling_mean_7,0.6333,True,0.0,0.0
+43,BEAUTY,sales_rolling_mean_7,0.6333,True,0.0,0.0
+48,HOME CARE,sales_rolling_mean_7,0.6333,True,0.0,0.0
+48,SEAFOOD,sales_rolling_mean_7,0.6333,True,0.0,0.0
+53,MAGAZINES,sales_rolling_mean_7,0.6333,True,0.0,0.0
+2,HOME AND KITCHEN II,sales_rolling_mean_7,0.6129,True,0.0,0.0
+4,PRODUCE,sales_rolling_mean_7,0.6129,True,0.0,0.0
+6,GROCERY I,sales_rolling_mean_7,0.6129,True,0.0,0.0
+6,PERSONAL CARE,sales_rolling_mean_7,0.6129,True,0.0,0.0
+18,GROCERY I,sales_rolling_mean_7,0.6129,True,0.0,0.0
+20,DAIRY,sales_rolling_mean_7,0.6129,True,0.0,0.0
+20,LADIESWEAR,sales_rolling_mean_7,0.6129,True,0.0,0.0
+24,BREAD/BAKERY,sales_rolling_mean_7,0.6129,True,0.0,0.0
+39,DAIRY,sales_rolling_mean_7,0.6129,True,0.0,0.0
+41,BREAD/BAKERY,sales_rolling_mean_7,0.6129,True,0.0,0.0
+48,PET SUPPLIES,sales_rolling_mean_7,0.6129,True,0.0,0.0
+49,PRODUCE,sales_rolling_mean_7,0.6129,True,0.0,0.0
+2,GROCERY I,sales_rolling_mean_7,0.6118,True,0.0,0.0
+8,LADIESWEAR,sales_rolling_mean_7,0.6118,True,0.0,0.0
+27,HOME AND KITCHEN II,sales_rolling_mean_7,0.6118,True,0.0,0.0
+28,GROCERY I,sales_rolling_mean_7,0.6118,True,0.0,0.0
+41,GROCERY II,sales_rolling_mean_7,0.6118,True,0.0,0.0
+42,PRODUCE,sales_rolling_mean_7,0.6118,True,0.0,0.0
+1,BREAD/BAKERY,sales_rolling_mean_7,0.6108,True,0.0,0.0
+2,PREPARED FOODS,sales_rolling_mean_7,0.6108,True,0.0,0.0
+22,HOME APPLIANCES,sales_rolling_mean_7,0.6108,True,0.0,0.0
+10,MEATS,sales_rolling_mean_7,0.6097,True,0.0,0.0
+22,AUTOMOTIVE,sales_rolling_mean_7,0.6097,True,0.0,0.0
+25,CLEANING,sales_rolling_mean_7,0.6097,True,0.0,0.0
+30,HOME AND KITCHEN II,sales_rolling_mean_7,0.6097,True,0.0,0.0
+43,PREPARED FOODS,sales_rolling_mean_7,0.6097,True,0.0,0.0
+49,FROZEN FOODS,sales_rolling_mean_7,0.6097,True,0.0,0.0
+53,PERSONAL CARE,sales_rolling_mean_7,0.6097,True,0.0,0.0
+54,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6097,True,0.0,0.0
+2,HOME CARE,sales_rolling_mean_7,0.6086,True,0.0,0.0
+22,HOME AND KITCHEN II,sales_rolling_mean_7,0.6086,True,0.0,0.0
+23,PREPARED FOODS,sales_rolling_mean_7,0.6086,True,0.0,0.0
+25,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6086,True,0.0,0.0
+39,BEVERAGES,sales_rolling_mean_7,0.6075,True,0.0,0.0
+42,EGGS,sales_rolling_mean_7,0.6075,True,0.0,0.0
+53,PRODUCE,sales_rolling_mean_7,0.6075,True,0.0,0.0
+11,MAGAZINES,sales_rolling_mean_7,0.6065,True,0.0,0.0
+17,SEAFOOD,sales_rolling_mean_7,0.6065,True,0.0,0.0
+5,HOME CARE,sales_lag_7,0.6054,True,0.0,0.0
+15,DAIRY,sales_rolling_mean_7,0.6054,True,0.0,0.0
+16,FROZEN FOODS,sales_rolling_mean_7,0.6054,True,0.0,0.0
+27,DELI,sales_rolling_mean_7,0.6054,True,0.0,0.0
+29,EGGS,sales_rolling_mean_7,0.6054,True,0.0,0.0
+21,PREPARED FOODS,sales_rolling_mean_7,0.6043,True,0.0,0.0
+29,SEAFOOD,sales_rolling_mean_7,0.6043,True,0.0,0.0
+34,HOME APPLIANCES,sales_rolling_mean_7,0.6043,True,0.0,0.0
+2,FROZEN FOODS,sales_rolling_mean_7,0.6032,True,0.0,0.0
+23,BEVERAGES,sales_rolling_mean_7,0.6032,True,0.0,0.0
+9,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6022,True,0.0,0.0
+25,DELI,sales_rolling_mean_7,0.6022,True,0.0,0.0
+25,GROCERY I,sales_rolling_mean_7,0.6022,True,0.0,0.0
+36,MEATS,sales_rolling_mean_7,0.6022,True,0.0,0.0
+7,HOME CARE,sales_rolling_mean_7,0.6011,True,0.0,0.0
+8,BEVERAGES,sales_rolling_mean_7,0.6011,True,0.0,0.0
+19,POULTRY,sales_rolling_mean_7,0.6011,True,0.0,0.0
+43,EGGS,sales_rolling_mean_7,0.6011,True,0.0,0.0
+45,HOME CARE,sales_rolling_mean_7,0.6011,True,0.0,0.0
+50,HOME AND KITCHEN I,sales_rolling_mean_7,0.6011,True,0.0,0.0
+54,PREPARED FOODS,sales_rolling_mean_7,0.6011,True,0.0,0.0
+5,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.6,True,0.0,0.0
+23,PERSONAL CARE,sales_rolling_mean_7,0.6,True,0.0,0.0
+29,HOME AND KITCHEN II,sales_rolling_mean_7,0.6,True,0.0,0.0
+31,LINGERIE,sales_rolling_mean_7,0.6,True,0.0,0.0
+34,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.6,True,0.0,0.0
+5,GROCERY II,sales_rolling_mean_7,0.5806,True,0.0,0.0
+7,GROCERY II,sales_rolling_mean_7,0.5806,True,0.0,0.0
+8,HOME AND KITCHEN II,sales_rolling_mean_7,0.5806,True,0.0,0.0
+9,DAIRY,sales_rolling_mean_7,0.5806,True,0.0,0.0
+10,AUTOMOTIVE,sales_rolling_mean_7,0.5806,True,0.0,0.0
+10,HOME AND KITCHEN I,sales_rolling_mean_7,0.5806,True,0.0,0.0
+19,BABY CARE,sales_rolling_mean_7,0.5806,True,0.0,0.0
+22,PREPARED FOODS,sales_rolling_mean_7,0.5806,True,0.0,0.0
+36,DAIRY,sales_rolling_mean_7,0.5806,True,0.0,0.0
+38,PRODUCE,sales_rolling_mean_7,0.5806,True,0.0,0.0
+42,BEAUTY,sales_rolling_mean_7,0.5806,True,0.0,0.0
+8,PRODUCE,sales_rolling_mean_7,0.5796,True,0.0,0.0
+11,SEAFOOD,sales_rolling_mean_7,0.5796,True,0.0,0.0
+41,PRODUCE,sales_rolling_mean_7,0.5796,True,0.0,0.0
+44,DAIRY,sales_rolling_mean_7,0.5796,True,0.0,0.0
+49,EGGS,sales_rolling_mean_7,0.5785,True,0.0,0.0
+2,MEATS,sales_rolling_mean_7,0.5774,True,0.0,0.0
+10,PREPARED FOODS,sales_rolling_mean_7,0.5774,True,0.0,0.0
+29,HOME APPLIANCES,sales_rolling_mean_7,0.5774,True,0.0,0.0
+34,BEAUTY,sales_rolling_mean_7,0.5774,True,0.0,0.0
+40,EGGS,sales_rolling_mean_7,0.5774,True,0.0,0.0
+4,BEVERAGES,sales_rolling_mean_7,0.5763,True,0.0,0.0
+17,LINGERIE,sales_rolling_mean_7,0.5763,True,0.0,0.0
+24,HOME AND KITCHEN II,sales_rolling_mean_7,0.5763,True,0.0,0.0
+45,PRODUCE,sales_rolling_mean_7,0.5763,True,0.0,0.0
+7,PET SUPPLIES,sales_rolling_mean_7,0.5753,True,0.0,0.0
+27,AUTOMOTIVE,sales_rolling_mean_7,0.5753,True,0.0,0.0
+35,PRODUCE,sales_rolling_mean_7,0.5753,True,0.0,0.0
+51,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5753,True,0.0,0.0
+6,POULTRY,sales_rolling_mean_7,0.5742,True,0.0,0.0
+8,PERSONAL CARE,sales_rolling_mean_7,0.5742,True,0.0,0.0
+12,SEAFOOD,sales_rolling_mean_7,0.5742,True,0.0,0.0
+23,DAIRY,sales_rolling_mean_7,0.5742,True,0.0,0.0
+23,PRODUCE,sales_rolling_mean_7,0.5742,True,0.0,0.0
+28,SEAFOOD,sales_rolling_mean_7,0.5742,True,0.0,0.0
+9,SEAFOOD,sales_rolling_mean_7,0.5731,True,0.0,0.0
+20,PRODUCE,sales_rolling_mean_7,0.5731,True,0.0,0.0
+23,EGGS,sales_rolling_mean_7,0.5731,True,0.0,0.0
+27,SEAFOOD,sales_rolling_mean_7,0.5731,True,0.0,0.0
+32,HOME AND KITCHEN II,sales_rolling_mean_7,0.5731,True,0.0,0.0
+35,EGGS,sales_rolling_mean_7,0.5731,True,0.0,0.0
+15,DELI,sales_rolling_mean_7,0.572,True,0.0,0.0
+4,LADIESWEAR,sales_rolling_mean_7,0.571,True,0.0,0.0
+38,SEAFOOD,sales_rolling_mean_7,0.571,True,0.0,0.0
+43,GROCERY I,sales_rolling_mean_7,0.571,True,0.0,0.0
+52,HOME AND KITCHEN II,sales_rolling_mean_7,0.571,True,0.0,0.0
+52,PRODUCE,sales_rolling_mean_7,0.5688,True,0.0,0.0
+9,CELEBRATION,sales_rolling_mean_7,0.5677,True,0.0,0.0
+16,LINGERIE,sales_rolling_mean_7,0.5677,True,0.0,0.0
+23,SEAFOOD,sales_rolling_mean_7,0.5677,True,0.0,0.0
+31,FROZEN FOODS,sales_rolling_mean_7,0.5677,True,0.0,0.0
+52,LAWN AND GARDEN,sales_rolling_mean_7,0.5677,True,0.0,0.0
+52,SEAFOOD,sales_rolling_mean_7,0.5677,True,0.0,0.0
+8,EGGS,sales_rolling_mean_7,0.5667,True,0.0,0.0
+17,BEVERAGES,sales_rolling_mean_7,0.5667,True,0.0,0.0
+28,LINGERIE,sales_rolling_mean_7,0.5667,True,0.0,0.0
+42,HOME CARE,sales_rolling_mean_7,0.5667,True,0.0,0.0
+52,PET SUPPLIES,sales_rolling_mean_7,0.5667,True,0.0,0.0
+54,HARDWARE,sales_rolling_mean_7,0.5667,True,0.0,0.0
+3,PRODUCE,sales_rolling_mean_7,0.5484,True,0.0,0.0
+16,BEAUTY,sales_rolling_mean_7,0.5484,True,0.0,0.0
+21,CLEANING,sales_rolling_mean_7,0.5484,True,0.0,0.0
+49,MEATS,sales_rolling_mean_7,0.5484,True,0.0,0.0
+53,BABY CARE,sales_rolling_mean_7,0.5484,True,0.0,0.0
+2,BREAD/BAKERY,sales_rolling_mean_7,0.5473,True,0.0,0.0
+9,PREPARED FOODS,sales_rolling_mean_7,0.5473,True,0.0,0.0
+15,PRODUCE,sales_rolling_mean_7,0.5473,True,0.0,0.0
+18,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5473,True,0.0,0.0
+23,BREAD/BAKERY,sales_rolling_mean_7,0.5473,True,0.0,0.0
+45,DAIRY,sales_rolling_mean_7,0.5473,True,0.0,0.0
+50,LADIESWEAR,sales_rolling_mean_7,0.5473,True,0.0,0.0
+8,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.5462,True,0.0,0.0
+27,BEVERAGES,sales_rolling_mean_7,0.5462,True,0.0,0.0
+15,HOME AND KITCHEN I,sales_rolling_mean_7,0.5452,True,0.0,0.0
+25,LINGERIE,sales_rolling_mean_7,0.5452,True,0.0,0.0
+32,DELI,sales_rolling_mean_7,0.5452,True,0.0,0.0
+15,SEAFOOD,sales_rolling_mean_7,0.5441,True,0.0,0.0
+26,LINGERIE,sales_rolling_mean_7,0.5441,True,0.0,0.0
+46,GROCERY I,sales_rolling_mean_7,0.5441,True,0.0,0.0
+31,GROCERY II,sales_rolling_mean_7,0.543,True,0.0,0.0
+35,SEAFOOD,sales_rolling_mean_7,0.543,True,0.0,0.0
+37,DAIRY,sales_rolling_mean_7,0.543,True,0.0,0.0
+47,CELEBRATION,sales_rolling_mean_7,0.543,True,0.0,0.0
+50,CELEBRATION,sales_rolling_mean_7,0.543,True,0.0,0.0
+51,HOME AND KITCHEN II,sales_rolling_mean_7,0.543,True,0.0,0.0
+27,EGGS,sales_rolling_mean_7,0.5419,True,0.0,0.0
+34,EGGS,sales_rolling_mean_7,0.5419,True,0.0,0.0
+34,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5419,True,0.0,0.0
+38,AUTOMOTIVE,sales_rolling_mean_7,0.5419,True,0.0,0.0
+38,DAIRY,sales_rolling_mean_7,0.5419,True,0.0,0.0
+2,PET SUPPLIES,sales_rolling_mean_7,0.5409,True,0.0,0.0
+4,LAWN AND GARDEN,sales_rolling_mean_7,0.5409,True,0.0,0.0
+11,BABY CARE,sales_rolling_mean_7,0.5409,True,0.0,0.0
+19,MEATS,sales_rolling_mean_7,0.5409,True,0.0,0.0
+22,HARDWARE,sales_rolling_mean_7,0.5409,True,0.0,0.0
+45,PET SUPPLIES,sales_rolling_mean_7,0.5409,True,0.0,0.0
+49,BEVERAGES,sales_rolling_mean_7,0.5409,True,0.0,0.0
+1,HARDWARE,sales_rolling_mean_7,0.5398,True,0.0,0.0
+11,EGGS,sales_lag_7,0.5398,True,0.0,0.0
+38,HOME CARE,sales_rolling_mean_7,0.5398,True,0.0,0.0
+41,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.5398,True,0.0,0.0
+43,PRODUCE,sales_rolling_mean_7,0.5398,True,0.0,0.0
+12,LADIESWEAR,sales_rolling_mean_7,0.5387,True,0.0,0.0
+19,EGGS,sales_rolling_mean_7,0.5387,True,0.0,0.0
+19,PRODUCE,sales_rolling_mean_7,0.5387,True,0.0,0.0
+45,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.5387,True,0.0,0.0
+11,GROCERY II,sales_rolling_mean_7,0.5376,True,0.0,0.0
+11,HOME APPLIANCES,sales_rolling_mean_7,0.5376,True,0.0,0.0
+18,HOME APPLIANCES,sales_rolling_mean_7,0.5376,True,0.0,0.0
+47,EGGS,sales_rolling_mean_7,0.5376,True,0.0,0.0
+1,PERSONAL CARE,sales_rolling_mean_7,0.5366,True,0.0,0.0
+11,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.5366,True,0.0,0.0
+39,POULTRY,sales_rolling_mean_7,0.5366,True,0.0,0.0
+51,HOME AND KITCHEN I,sales_rolling_mean_7,0.5366,True,0.0,0.0
+11,HOME AND KITCHEN II,sales_rolling_mean_7,0.5355,True,0.0,0.0
+12,EGGS,sales_rolling_mean_7,0.5355,True,0.0,0.0
+15,PET SUPPLIES,sales_rolling_mean_7,0.5355,True,0.0,0.0
+18,LADIESWEAR,sales_rolling_mean_7,0.5355,True,0.0,0.0
+22,CELEBRATION,sales_rolling_mean_7,0.5355,True,0.0,0.0
+30,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5355,True,0.0,0.0
+1,BOOKS,sales_rolling_mean_7,0.5344,True,0.0,0.0
+2,HOME AND KITCHEN I,sales_rolling_mean_7,0.5344,True,0.0,0.0
+5,HOME AND KITCHEN I,sales_rolling_mean_7,0.5344,True,0.0,0.0
+14,GROCERY I,sales_rolling_mean_7,0.5344,True,0.0,0.0
+20,CLEANING,sales_rolling_mean_7,0.5344,True,0.0,0.0
+36,BEAUTY,sales_lag_7,0.5344,True,0.0,0.0
+37,SEAFOOD,sales_rolling_mean_7,0.5344,True,0.0,0.0
+49,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.5344,True,0.0,0.0
+4,HOME AND KITCHEN I,sales_rolling_mean_7,0.5333,True,0.0,0.0
+5,CLEANING,sales_rolling_mean_7,0.5333,True,0.0,0.0
+12,BABY CARE,sales_rolling_mean_7,0.5333,True,0.0,0.0
+34,HOME AND KITCHEN I,sales_rolling_mean_7,0.5333,True,0.0,0.0
+44,HOME APPLIANCES,sales_rolling_mean_7,0.5333,True,0.0,0.0
+46,SEAFOOD,sales_rolling_mean_7,0.5333,True,0.0,0.0
+48,HOME AND KITCHEN II,sales_rolling_mean_7,0.5333,True,0.0,0.0
+14,CELEBRATION,sales_rolling_mean_7,0.5161,True,0.0,0.0
+23,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5161,True,0.0,0.0
+31,DAIRY,sales_rolling_mean_7,0.5161,True,0.0,0.0
+37,PRODUCE,sales_rolling_mean_7,0.5161,True,0.0,0.0
+44,BOOKS,sales_rolling_mean_7,0.5161,True,0.0,0.0
+44,BREAD/BAKERY,sales_rolling_mean_7,0.5161,True,0.0,0.0
+48,BREAD/BAKERY,sales_rolling_mean_7,0.5161,True,0.0,0.0
+48,DAIRY,sales_rolling_mean_7,0.5161,True,0.0,0.0
+49,CLEANING,sales_rolling_mean_7,0.5161,True,0.0,0.0
+23,HOME CARE,sales_rolling_mean_7,0.5151,True,0.0,0.0
+33,DAIRY,sales_rolling_mean_7,0.5151,True,0.0,0.0
+4,BREAD/BAKERY,sales_rolling_mean_7,0.514,True,0.0,0.0
+10,GROCERY I,sales_rolling_mean_7,0.514,True,0.0,0.0
+19,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.514,True,0.0,0.0
+25,MAGAZINES,sales_rolling_mean_7,0.514,True,0.0,0.0
+27,BREAD/BAKERY,sales_rolling_mean_7,0.514,True,0.0,0.0
+28,HOME APPLIANCES,sales_rolling_mean_7,0.514,True,0.0,0.0
+52,GROCERY II,sales_rolling_mean_7,0.514,True,0.0,0.0
+17,BREAD/BAKERY,sales_rolling_mean_7,0.5129,True,0.0,0.0
+24,BEVERAGES,sales_rolling_mean_7,0.5129,True,0.0,0.0
+24,LINGERIE,sales_rolling_mean_7,0.5129,True,0.0,0.0
+24,PRODUCE,sales_rolling_mean_7,0.5129,True,0.0,0.0
+29,PERSONAL CARE,sales_rolling_mean_7,0.5129,True,0.0,0.0
+18,HOME AND KITCHEN I,sales_rolling_mean_7,0.5118,True,0.0,0.0
+27,HOME AND KITCHEN I,sales_lag_7,0.5118,True,0.0,0.0
+27,PRODUCE,sales_rolling_mean_7,0.5118,True,0.0,0.0
+28,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.5118,True,0.0,0.0
+29,LINGERIE,sales_rolling_mean_7,0.5118,True,0.0,0.0
+34,BABY CARE,sales_rolling_mean_7,0.5118,True,0.0,0.0
+38,FROZEN FOODS,sales_rolling_mean_7,0.5118,True,0.0,0.0
+44,BEAUTY,sales_rolling_mean_7,0.5118,True,0.0,0.0
+1,HOME CARE,sales_rolling_mean_7,0.5108,True,0.0,0.0
+3,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5108,True,0.0,0.0
+19,GROCERY II,sales_lag_7,0.5108,True,0.0,0.0
+30,LADIESWEAR,sales_rolling_mean_7,0.5108,True,0.0,0.0
+46,PERSONAL CARE,sales_rolling_mean_7,0.5108,True,0.0,0.0
+12,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5097,True,0.0,0.0
+20,CELEBRATION,sales_rolling_mean_7,0.5097,True,0.0,0.0
+24,HOME APPLIANCES,sales_rolling_mean_7,0.5097,True,0.0,0.0
+25,PRODUCE,sales_rolling_mean_7,0.5097,True,0.0,0.0
+36,AUTOMOTIVE,sales_rolling_mean_7,0.5097,True,0.0,0.0
+36,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.5097,True,0.0,0.0
+39,PREPARED FOODS,sales_rolling_mean_7,0.5097,True,0.0,0.0
+46,CELEBRATION,sales_rolling_mean_7,0.5097,True,0.0,0.0
+7,BREAD/BAKERY,sales_lag_7,0.5086,True,0.0,0.0
+9,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.5086,True,0.0,0.0
+21,BEVERAGES,sales_rolling_mean_7,0.5086,True,0.0,0.0
+24,BABY CARE,sales_rolling_mean_7,0.5086,True,0.0,0.0
+38,POULTRY,sales_rolling_mean_7,0.5086,True,0.0,0.0
+9,EGGS,sales_rolling_mean_7,0.5075,True,0.0,0.0
+14,AUTOMOTIVE,sales_rolling_mean_7,0.5075,True,0.0,0.0
+21,CELEBRATION,sales_rolling_mean_7,0.5075,True,0.0,0.0
+27,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.5075,True,0.0,0.0
+29,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5075,True,0.0,0.0
+14,LADIESWEAR,sales_rolling_mean_7,0.5065,True,0.0,0.0
+37,LADIESWEAR,sales_rolling_mean_7,0.5065,True,0.0,0.0
+38,CELEBRATION,sales_rolling_mean_7,0.5065,True,0.0,0.0
+1,POULTRY,sales_rolling_mean_7,0.5054,True,0.0,0.0
+14,MAGAZINES,sales_rolling_mean_7,0.5054,True,0.0,0.0
+15,GROCERY I,sales_lag_7,0.5054,True,0.0,0.0
+24,DELI,sales_rolling_mean_7,0.5054,True,0.0,0.0
+25,FROZEN FOODS,sales_rolling_mean_7,0.5054,True,0.0,0.0
+49,PERSONAL CARE,sales_rolling_mean_7,0.5054,True,0.0,0.0
+15,EGGS,sales_rolling_mean_7,0.5043,True,0.0,0.0
+20,HOME AND KITCHEN II,sales_rolling_mean_7,0.5043,True,0.0,0.0
+30,HOME AND KITCHEN I,sales_rolling_mean_7,0.5043,True,0.0,0.0
+40,BEVERAGES,sales_rolling_mean_7,0.5043,True,0.0,0.0
+48,POULTRY,sales_rolling_mean_7,0.5043,True,0.0,0.0
+50,FROZEN FOODS,sales_rolling_mean_7,0.5043,True,0.0,0.0
+52,BREAD/BAKERY,sales_rolling_mean_7,0.5043,True,0.0,0.0
+54,LINGERIE,sales_rolling_mean_7,0.5043,True,0.0,0.0
+25,LAWN AND GARDEN,sales_rolling_mean_7,0.5032,True,0.0,0.0
+34,GROCERY II,sales_rolling_mean_7,0.5032,True,0.0,0.0
+43,BREAD/BAKERY,sales_rolling_mean_7,0.5032,True,0.0,0.0
+47,BEVERAGES,sales_rolling_mean_7,0.5032,True,0.0,0.0
+51,DELI,sales_rolling_mean_7,0.5032,True,0.0,0.0
+52,DELI,sales_rolling_mean_7,0.5032,True,0.0,0.0
+14,MEATS,sales_rolling_mean_7,0.5022,True,0.0,0.0
+34,FROZEN FOODS,sales_rolling_mean_7,0.5022,True,0.0,0.0
+42,CELEBRATION,sales_rolling_mean_7,0.5022,True,0.0,0.0
+3,HOME AND KITCHEN I,sales_lag_7,0.5011,True,0.0,0.0
+16,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.5011,True,0.0,0.0
+31,AUTOMOTIVE,sales_rolling_mean_7,0.5011,True,0.0,0.0
+4,CELEBRATION,sales_rolling_mean_7,0.5,True,0.0,0.0
+28,HOME AND KITCHEN I,sales_rolling_mean_7,0.5,True,0.0,0.0
+42,LAWN AND GARDEN,sales_rolling_mean_7,0.5,True,0.0,0.0
+52,HOME AND KITCHEN I,sales_rolling_mean_7,0.5,True,0.0,0.0
+9,GROCERY I,sales_rolling_mean_7,0.4839,True,0.0,0.0
+15,GROCERY II,sales_rolling_mean_7,0.4839,True,0.0,0.0
+20,HARDWARE,sales_rolling_mean_7,0.4839,True,0.0,0.0
+30,PRODUCE,sales_rolling_mean_7,0.4839,True,0.0,0.0
+31,BEVERAGES,sales_rolling_mean_7,0.4839,True,0.0,0.0
+37,HOME AND KITCHEN I,sales_rolling_mean_7,0.4839,True,0.0,0.0
+37,LAWN AND GARDEN,sales_rolling_mean_7,0.4839,True,0.0,0.0
+38,BREAD/BAKERY,sales_rolling_mean_7,0.4839,True,0.0,0.0
+39,CLEANING,sales_rolling_mean_7,0.4839,True,0.0,0.0
+40,CLEANING,sales_rolling_mean_7,0.4839,True,0.0,0.0
+46,AUTOMOTIVE,sales_rolling_mean_7,0.4839,True,0.0,0.0
+4,PET SUPPLIES,sales_rolling_mean_7,0.4828,True,0.0,0.0
+7,PREPARED FOODS,sales_rolling_mean_7,0.4828,True,0.0,0.0
+23,GROCERY II,sales_rolling_mean_7,0.4828,True,0.0,0.0
+39,PERSONAL CARE,sales_rolling_mean_7,0.4828,True,0.0,0.0
+1,GROCERY II,sales_rolling_mean_7,0.4817,True,0.0,0.0
+2,GROCERY II,sales_lag_7,0.4817,True,0.0,0.0
+11,PREPARED FOODS,sales_lag_7,0.4817,True,0.0,0.0
+12,PET SUPPLIES,sales_rolling_mean_7,0.4817,True,0.0,0.0
+13,DAIRY,sales_rolling_mean_7,0.4817,True,0.0,0.0
+13,EGGS,sales_rolling_mean_7,0.4817,True,0.0,0.0
+39,HOME AND KITCHEN II,sales_rolling_mean_7,0.4817,True,0.0,0.0
+47,FROZEN FOODS,sales_rolling_mean_7,0.4817,True,0.0,0.0
+6,FROZEN FOODS,sales_rolling_mean_7,0.4806,True,0.0,0.0
+7,HOME AND KITCHEN I,sales_rolling_mean_7,0.4806,True,0.0,0.0
+10,SEAFOOD,sales_lag_7,0.4806,True,0.0,0.0
+18,DAIRY,sales_rolling_mean_7,0.4806,True,0.0,0.0
+21,HOME APPLIANCES,sales_rolling_mean_7,0.4806,True,0.0,0.0
+27,CLEANING,sales_rolling_mean_7,0.4806,True,0.0,0.0
+34,PERSONAL CARE,sales_rolling_mean_7,0.4806,True,0.0,0.0
+52,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4806,True,0.0,0.0
+12,GROCERY I,sales_rolling_mean_7,0.4796,True,0.0,0.0
+20,HOME AND KITCHEN I,sales_rolling_mean_7,0.4796,True,0.0,0.0
+26,HOME AND KITCHEN I,sales_rolling_mean_7,0.4796,True,0.0,0.0
+29,GROCERY II,sales_rolling_mean_7,0.4796,True,0.0,0.0
+30,MEATS,sales_rolling_mean_7,0.4796,True,0.0,0.0
+34,HARDWARE,sales_rolling_mean_7,0.4796,True,0.0,0.0
+15,BEAUTY,sales_rolling_mean_7,0.4785,True,0.0,0.0
+26,SEAFOOD,sales_rolling_mean_7,0.4785,True,0.0,0.0
+39,HOME AND KITCHEN I,sales_rolling_mean_7,0.4785,True,0.0,0.0
+54,HOME AND KITCHEN I,sales_rolling_mean_7,0.4785,True,0.0,0.0
+28,AUTOMOTIVE,sales_rolling_mean_7,0.4774,True,0.0,0.0
+51,DAIRY,sales_rolling_mean_7,0.4774,True,0.0,0.0
+3,BEVERAGES,sales_rolling_mean_7,0.4763,True,0.0,0.0
+3,LINGERIE,sales_rolling_mean_7,0.4763,True,0.0,0.0
+7,HOME AND KITCHEN II,sales_lag_7,0.4763,True,0.0,0.0
+16,POULTRY,sales_rolling_mean_7,0.4763,True,0.0,0.0
+49,GROCERY I,sales_rolling_mean_7,0.4763,True,0.0,0.0
+50,HARDWARE,sales_rolling_mean_7,0.4763,True,0.0,0.0
+2,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4753,True,0.0,0.0
+7,MEATS,sales_rolling_mean_7,0.4753,True,0.0,0.0
+13,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4753,True,0.0,0.0
+19,BREAD/BAKERY,sales_rolling_mean_7,0.4753,True,0.0,0.0
+26,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4753,True,0.0,0.0
+27,PET SUPPLIES,sales_rolling_mean_7,0.4753,True,0.0,0.0
+27,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4753,True,0.0,0.0
+15,LADIESWEAR,sales_rolling_mean_7,0.4742,True,0.0,0.0
+17,FROZEN FOODS,sales_rolling_mean_7,0.4742,True,0.0,0.0
+26,HOME CARE,sales_rolling_mean_7,0.4742,True,0.0,0.0
+32,LINGERIE,sales_rolling_mean_7,0.4742,True,0.0,0.0
+38,HOME AND KITCHEN I,sales_rolling_mean_7,0.4742,True,0.0,0.0
+7,GROCERY I,sales_lag_7,0.4731,True,0.0,0.0
+8,POULTRY,sales_rolling_mean_7,0.4731,True,0.0,0.0
+11,POULTRY,sales_rolling_mean_7,0.4731,True,0.0,0.0
+17,PREPARED FOODS,sales_rolling_mean_7,0.4731,True,0.0,0.0
+26,DAIRY,sales_rolling_mean_7,0.4731,True,0.0,0.0
+37,DELI,sales_rolling_mean_7,0.4731,True,0.0,0.0
+46,HOME CARE,sales_rolling_mean_7,0.4731,True,0.0,0.0
+53,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4731,True,0.0,0.0
+52,DAIRY,sales_rolling_mean_7,0.472,True,0.0,0.0
+52,GROCERY I,sales_rolling_mean_7,0.472,True,0.0,0.0
+7,BEAUTY,sales_rolling_mean_7,0.471,True,0.0,0.0
+35,CELEBRATION,sales_rolling_mean_7,0.471,True,0.0,0.0
+38,BEAUTY,sales_rolling_mean_7,0.471,True,0.0,0.0
+50,LAWN AND GARDEN,sales_rolling_mean_7,0.471,True,0.0,0.0
+10,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4699,True,0.0,0.0
+25,POULTRY,sales_rolling_mean_7,0.4699,True,0.0,0.0
+45,AUTOMOTIVE,sales_rolling_mean_7,0.4699,True,0.0,0.0
+4,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4688,True,0.0,0.0
+16,MEATS,sales_rolling_mean_7,0.4688,True,0.0,0.0
+35,BEAUTY,sales_rolling_mean_7,0.4688,True,0.0,0.0
+39,MAGAZINES,sales_rolling_mean_7,0.4688,True,0.0,0.0
+17,HOME APPLIANCES,sales_rolling_mean_7,0.4677,True,0.0,0.0
+46,HARDWARE,sales_rolling_mean_7,0.4677,True,0.0,0.0
+47,HOME AND KITCHEN I,sales_rolling_mean_7,0.4677,True,0.0,0.0
+48,BOOKS,sales_rolling_mean_7,0.4677,True,0.0,0.0
+51,CELEBRATION,sales_rolling_mean_7,0.4677,True,0.0,0.0
+14,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4667,True,0.0,0.0
+18,HOME AND KITCHEN II,sales_rolling_mean_7,0.4667,True,0.0,0.0
+19,CELEBRATION,sales_rolling_mean_7,0.4667,True,0.0,0.0
+47,GROCERY II,sales_rolling_mean_7,0.4667,True,0.0,0.0
+51,POULTRY,sales_rolling_mean_7,0.4667,True,0.0,0.0
+5,GROCERY II,sales_lag_7,0.4516,True,0.0,0.0
+8,HOME APPLIANCES,sales_rolling_mean_7,0.4516,True,0.0,0.0
+9,MAGAZINES,sales_rolling_mean_7,0.4516,True,0.0,0.0
+13,HOME AND KITCHEN II,sales_rolling_mean_7,0.4516,True,0.0,0.0
+17,PERSONAL CARE,sales_rolling_mean_7,0.4516,True,0.0,0.0
+22,EGGS,sales_rolling_mean_7,0.4516,True,0.0,0.0
+30,PERSONAL CARE,sales_rolling_mean_7,0.4516,True,0.0,0.0
+42,HOME AND KITCHEN II,sales_rolling_mean_7,0.4516,True,0.0,0.0
+46,BREAD/BAKERY,sales_rolling_mean_7,0.4516,True,0.0,0.0
+15,PERSONAL CARE,sales_rolling_mean_7,0.4505,True,0.0,0.0
+18,GROCERY II,sales_lag_7,0.4505,True,0.0,0.0
+21,PERSONAL CARE,sales_rolling_mean_7,0.4505,True,0.0,0.0
+23,AUTOMOTIVE,sales_rolling_mean_7,0.4505,True,0.0,0.0
+32,PERSONAL CARE,sales_rolling_mean_7,0.4505,True,0.0,0.0
+40,LINGERIE,sales_rolling_mean_7,0.4505,True,0.0,0.0
+10,BEAUTY,sales_rolling_mean_7,0.4495,True,0.0,0.0
+39,SEAFOOD,sales_lag_7,0.4495,True,0.0,0.0
+5,BABY CARE,sales_rolling_mean_7,0.4484,True,0.0,0.0
+12,FROZEN FOODS,sales_rolling_mean_7,0.4484,True,0.0,0.0
+18,DELI,sales_rolling_mean_7,0.4484,True,0.0,0.0
+43,HOME CARE,sales_rolling_mean_7,0.4484,True,0.0,0.0
+47,LINGERIE,sales_rolling_mean_7,0.4484,True,0.0,0.0
+51,PRODUCE,sales_rolling_mean_7,0.4484,True,0.0,0.0
+3,GROCERY I,sales_rolling_mean_7,0.4473,True,0.0,0.0
+4,GROCERY I,sales_rolling_mean_7,0.4473,True,0.0,0.0
+6,PRODUCE,sales_rolling_mean_7,0.4473,True,0.0,0.0
+12,BEAUTY,sales_rolling_mean_7,0.4473,True,0.0,0.0
+16,CELEBRATION,sales_rolling_mean_7,0.4473,True,0.0,0.0
+31,PERSONAL CARE,sales_rolling_mean_7,0.4473,True,0.0,0.0
+37,HARDWARE,sales_rolling_mean_7,0.4473,True,0.0,0.0
+17,BEAUTY,sales_lag_7,0.4462,True,0.0,0.0
+19,LINGERIE,sales_rolling_mean_7,0.4462,True,0.0,0.0
+41,PET SUPPLIES,sales_rolling_mean_7,0.4462,True,0.0,0.0
+50,GROCERY II,sales_lag_7,0.4462,True,0.0,0.0
+51,HARDWARE,sales_rolling_mean_7,0.4462,True,0.0,0.0
+6,DELI,sales_rolling_mean_7,0.4452,True,0.0,0.0
+7,HOME AND KITCHEN I,sales_lag_7,0.4452,True,0.0,0.0
+8,BREAD/BAKERY,sales_rolling_mean_7,0.4452,True,0.0,0.0
+12,HARDWARE,sales_rolling_mean_7,0.4452,True,0.0,0.0
+34,BEAUTY,sales_lag_7,0.4452,True,0.0,0.0
+1,DAIRY,sales_rolling_mean_7,0.4441,True,0.0,0.0
+8,GROCERY II,sales_rolling_mean_7,0.4441,True,0.0,0.0
+9,HOME APPLIANCES,sales_rolling_mean_7,0.4441,True,0.0,0.0
+16,PREPARED FOODS,sales_rolling_mean_7,0.4441,True,0.0,0.0
+18,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4441,True,0.0,0.0
+22,HOME AND KITCHEN II,sales_lag_7,0.4441,True,0.0,0.0
+43,BEVERAGES,sales_lag_7,0.4441,True,0.0,0.0
+49,GROCERY II,sales_rolling_mean_7,0.4441,True,0.0,0.0
+4,AUTOMOTIVE,sales_lag_7,0.443,True,0.0,0.0
+24,HOME CARE,sales_rolling_mean_7,0.443,True,0.0,0.0
+37,POULTRY,sales_rolling_mean_7,0.443,True,0.0,0.0
+38,LINGERIE,sales_rolling_mean_7,0.443,True,0.0,0.0
+47,PRODUCE,sales_rolling_mean_7,0.443,True,0.0,0.0
+5,MAGAZINES,sales_rolling_mean_7,0.4419,True,0.0,0.0
+5,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4419,True,0.0,0.0
+8,HOME CARE,sales_rolling_mean_7,0.4419,True,0.0,0.0
+25,HOME CARE,sales_lag_7,0.4419,True,0.0,0.0
+25,PREPARED FOODS,sales_rolling_mean_7,0.4419,True,0.0,0.0
+40,HARDWARE,sales_rolling_mean_7,0.4419,True,0.0,0.0
+44,HOME CARE,sales_lag_7,0.4419,True,0.0,0.0
+49,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.4419,True,0.0,0.0
+20,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4409,True,0.0,0.0
+30,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4409,True,0.0,0.0
+46,HOME AND KITCHEN II,sales_lag_7,0.4409,True,0.0,0.0
+3,MEATS,sales_rolling_mean_7,0.4398,True,0.0,0.0
+5,CELEBRATION,sales_rolling_mean_7,0.4398,True,0.0,0.0
+11,DELI,sales_rolling_mean_7,0.4398,True,0.0,0.0
+12,HOME AND KITCHEN II,sales_rolling_mean_7,0.4398,True,0.0,0.0
+36,HOME APPLIANCES,sales_rolling_mean_7,0.4398,True,0.0,0.0
+39,PREPARED FOODS,sales_lag_7,0.4398,True,0.0,0.0
+43,BEAUTY,sales_lag_7,0.4398,True,0.0,0.0
+51,BEAUTY,sales_rolling_mean_7,0.4398,True,0.0,0.0
+54,PET SUPPLIES,sales_rolling_mean_7,0.4398,True,0.0,0.0
+2,HOME AND KITCHEN II,sales_lag_7,0.4387,True,0.0,0.0
+3,DELI,sales_rolling_mean_7,0.4387,True,0.0,0.0
+10,BEVERAGES,sales_rolling_mean_7,0.4387,True,0.0,0.0
+11,BREAD/BAKERY,sales_lag_7,0.4387,True,0.0,0.0
+33,HOME CARE,sales_rolling_mean_7,0.4387,True,0.0,0.0
+42,DAIRY,sales_rolling_mean_7,0.4387,True,0.0,0.0
+50,HOME CARE,sales_lag_7,0.4387,True,0.0,0.0
+7,DAIRY,sales_lag_7,0.4376,True,0.0,0.0
+32,PREPARED FOODS,sales_rolling_mean_7,0.4376,True,0.0,0.0
+43,MEATS,sales_rolling_mean_7,0.4376,True,0.0,0.0
+47,SEAFOOD,sales_rolling_mean_7,0.4376,True,0.0,0.0
+50,CELEBRATION,sales_lag_7,0.4376,True,0.0,0.0
+51,GROCERY I,sales_rolling_mean_7,0.4376,True,0.0,0.0
+51,SEAFOOD,sales_rolling_mean_7,0.4376,True,0.0,0.0
+7,BEVERAGES,sales_lag_7,0.4366,True,0.0,0.0
+18,HARDWARE,sales_rolling_mean_7,0.4366,True,0.0,0.0
+19,HOME AND KITCHEN I,sales_lag_7,0.4366,True,0.0,0.0
+21,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4366,True,0.0,0.0
+25,BEVERAGES,sales_rolling_mean_7,0.4366,True,0.0,0.0
+26,HOME AND KITCHEN II,sales_rolling_mean_7,0.4366,True,0.0,0.0
+27,LINGERIE,sales_rolling_mean_7,0.4366,True,0.0,0.0
+35,CLEANING,sales_rolling_mean_7,0.4366,True,0.0,0.0
+36,BEVERAGES,sales_rolling_mean_7,0.4366,True,0.0,0.0
+47,HOME APPLIANCES,sales_lag_7,0.4366,True,0.0,0.0
+24,EGGS,sales_lag_7,0.4355,True,0.0,0.0
+32,POULTRY,sales_rolling_mean_7,0.4355,True,0.0,0.0
+50,MAGAZINES,sales_rolling_mean_7,0.4355,True,0.0,0.0
+3,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.4344,True,0.0,0.0
+4,HARDWARE,sales_rolling_mean_7,0.4344,True,0.0,0.0
+12,POULTRY,sales_rolling_mean_7,0.4344,True,0.0,0.0
+16,HOME AND KITCHEN II,sales_lag_7,0.4344,True,0.0,0.0
+40,BEAUTY,sales_rolling_mean_7,0.4344,True,0.0,0.0
+42,FROZEN FOODS,sales_rolling_mean_7,0.4344,True,0.0,0.0
+3,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4333,True,0.0,0.0
+7,PERSONAL CARE,sales_rolling_mean_7,0.4333,True,0.0,0.0
+22,MAGAZINES,sales_rolling_mean_7,0.4333,True,0.0,0.0
+16,HOME CARE,sales_rolling_mean_7,0.4194,True,0.0,0.0
+17,HOME CARE,sales_rolling_mean_7,0.4194,True,0.0,0.0
+24,SEAFOOD,sales_rolling_mean_7,0.4194,True,0.0,0.0
+30,FROZEN FOODS,sales_rolling_mean_7,0.4194,True,0.0,0.0
+36,PERSONAL CARE,sales_rolling_mean_7,0.4194,True,0.0,0.0
+38,CLEANING,sales_rolling_mean_7,0.4194,True,0.0,0.0
+40,CELEBRATION,sales_rolling_mean_7,0.4194,True,0.0,0.0
+43,LAWN AND GARDEN,sales_rolling_mean_7,0.4194,True,0.0,0.0
+53,DELI,sales_rolling_mean_7,0.4194,True,0.0,0.0
+53,LINGERIE,sales_rolling_mean_7,0.4194,True,0.0,0.0
+54,FROZEN FOODS,sales_rolling_mean_7,0.4194,True,0.0,0.0
+7,HARDWARE,sales_rolling_mean_7,0.4183,True,0.0,0.0
+13,HOME CARE,sales_rolling_mean_7,0.4183,True,0.0,0.0
+19,MAGAZINES,sales_rolling_mean_7,0.4183,True,0.0,0.0
+22,PET SUPPLIES,sales_rolling_mean_7,0.4183,True,0.0,0.0
+43,HOME AND KITCHEN II,sales_rolling_mean_7,0.4183,True,0.0,0.0
+43,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4183,True,0.0,0.0
+45,GROCERY II,sales_rolling_mean_7,0.4183,True,0.0,0.0
+50,PRODUCE,sales_rolling_mean_7,0.4183,True,0.0,0.0
+47,POULTRY,sales_rolling_mean_7,0.4172,True,0.0,0.0
+1,HOME AND KITCHEN II,sales_rolling_mean_7,0.4161,True,0.0,0.0
+10,BREAD/BAKERY,sales_rolling_mean_7,0.4161,True,0.0,0.0
+11,CLEANING,sales_rolling_mean_7,0.4161,True,0.0,0.0
+12,DELI,sales_rolling_mean_7,0.4161,True,0.0,0.0
+20,BABY CARE,sales_rolling_mean_7,0.4161,True,0.0,0.0
+20,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.4161,True,0.0,0.0
+22,BABY CARE,sales_rolling_mean_7,0.4161,True,0.0,0.0
+22,HOME AND KITCHEN I,sales_lag_7,0.4161,True,0.0,0.0
+41,PREPARED FOODS,sales_rolling_mean_7,0.4161,True,0.0,0.0
+6,BEAUTY,sales_rolling_mean_7,0.4151,True,0.0,0.0
+12,PERSONAL CARE,sales_rolling_mean_7,0.4151,True,0.0,0.0
+37,MAGAZINES,sales_rolling_mean_7,0.4151,True,0.0,0.0
+39,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4151,True,0.0,0.0
+44,LADIESWEAR,sales_rolling_mean_7,0.4151,True,0.0,0.0
+51,BEVERAGES,sales_rolling_mean_7,0.4151,True,0.0,0.0
+1,LINGERIE,sales_rolling_mean_7,0.414,True,0.0,0.0
+10,GROCERY II,sales_rolling_mean_7,0.414,True,0.0,0.0
+11,DAIRY,sales_rolling_mean_7,0.414,True,0.0,0.0
+13,AUTOMOTIVE,sales_rolling_mean_7,0.414,True,0.0,0.0
+24,PET SUPPLIES,sales_rolling_mean_7,0.414,True,0.0,0.0
+26,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.414,True,0.0,0.0
+30,SEAFOOD,sales_lag_7,0.414,True,0.0,0.0
+46,PRODUCE,sales_rolling_mean_7,0.414,True,0.0,0.0
+16,AUTOMOTIVE,sales_rolling_mean_7,0.4129,True,0.0,0.0
+18,HOME CARE,sales_rolling_mean_7,0.4129,True,0.0,0.0
+45,FROZEN FOODS,sales_rolling_mean_7,0.4129,True,0.0,0.0
+3,BREAD/BAKERY,sales_lag_7,0.4118,True,0.0,0.0
+5,CLEANING,sales_lag_7,0.4118,True,0.0,0.0
+8,LADIESWEAR,sales_lag_7,0.4118,True,0.0,0.0
+10,MEATS,sales_lag_7,0.4118,True,0.0,0.0
+13,SEAFOOD,sales_rolling_mean_7,0.4118,True,0.0,0.0
+14,HOME AND KITCHEN I,sales_rolling_mean_7,0.4118,True,0.0,0.0
+23,LINGERIE,sales_rolling_mean_7,0.4118,True,0.0,0.0
+28,CELEBRATION,sales_rolling_mean_7,0.4118,True,0.0,0.0
+29,CLEANING,sales_rolling_mean_7,0.4118,True,0.0,0.0
+29,DELI,sales_rolling_mean_7,0.4118,True,0.0,0.0
+36,GROCERY I,sales_rolling_mean_7,0.4118,True,0.0,0.0
+45,POULTRY,sales_rolling_mean_7,0.4118,True,0.0,0.0
+4,MEATS,sales_rolling_mean_7,0.4108,True,0.0,0.0
+11,GROCERY II,sales_lag_7,0.4108,True,0.0,0.0
+11,HOME AND KITCHEN I,sales_lag_7,0.4108,True,0.0,0.0
+23,PET SUPPLIES,sales_rolling_mean_7,0.4108,True,0.0,0.0
+27,FROZEN FOODS,sales_rolling_mean_7,0.4108,True,0.0,0.0
+30,HARDWARE,sales_rolling_mean_7,0.4108,True,0.0,0.0
+45,MAGAZINES,sales_rolling_mean_7,0.4108,True,0.0,0.0
+14,GROCERY II,sales_lag_7,0.4097,True,0.0,0.0
+27,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.4097,True,0.0,0.0
+29,MEATS,sales_rolling_mean_7,0.4097,True,0.0,0.0
+35,DAIRY,sales_rolling_mean_7,0.4097,True,0.0,0.0
+53,HOME CARE,sales_lag_7,0.4097,True,0.0,0.0
+8,AUTOMOTIVE,sales_lag_7,0.4086,True,0.0,0.0
+16,PET SUPPLIES,sales_rolling_mean_7,0.4086,True,0.0,0.0
+45,CELEBRATION,sales_rolling_mean_7,0.4086,True,0.0,0.0
+5,HOME AND KITCHEN II,sales_rolling_mean_7,0.4075,True,0.0,0.0
+34,BEVERAGES,sales_rolling_mean_7,0.4075,True,0.0,0.0
+37,PREPARED FOODS,sales_rolling_mean_7,0.4075,True,0.0,0.0
+40,PRODUCE,sales_rolling_mean_7,0.4075,True,0.0,0.0
+43,LINGERIE,sales_rolling_mean_7,0.4075,True,0.0,0.0
+7,LAWN AND GARDEN,sales_rolling_mean_7,0.4065,True,0.0,0.0
+20,POULTRY,sales_rolling_mean_7,0.4065,True,0.0,0.0
+25,HOME AND KITCHEN II,sales_rolling_mean_7,0.4065,True,0.0,0.0
+40,LINGERIE,sales_lag_7,0.4065,True,0.0,0.0
+19,PREPARED FOODS,sales_lag_7,0.4054,True,0.0,0.0
+26,PREPARED FOODS,sales_rolling_mean_7,0.4054,True,0.0,0.0
+29,HOME AND KITCHEN II,sales_lag_7,0.4054,True,0.0,0.0
+31,BABY CARE,sales_rolling_mean_7,0.4054,True,0.0,0.0
+46,DELI,sales_rolling_mean_7,0.4054,True,0.0,0.0
+51,HOME AND KITCHEN I,sales_lag_7,0.4054,True,0.0,0.0
+53,SEAFOOD,sales_rolling_mean_7,0.4054,True,0.0,0.0
+1,AUTOMOTIVE,sales_rolling_mean_7,0.4043,True,0.0,0.0
+23,HOME AND KITCHEN I,sales_lag_7,0.4043,True,0.0,0.0
+23,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4043,True,0.0,0.0
+31,MEATS,sales_rolling_mean_7,0.4043,True,0.0,0.0
+44,SEAFOOD,sales_rolling_mean_7,0.4043,True,0.0,0.0
+49,AUTOMOTIVE,sales_rolling_mean_7,0.4043,True,0.0,0.0
+15,PREPARED FOODS,sales_lag_7,0.4032,True,0.0,0.0
+36,HOME AND KITCHEN I,sales_lag_7,0.4032,True,0.0,0.0
+39,GROCERY I,sales_lag_7,0.4032,True,0.0,0.0
+45,PREPARED FOODS,sales_rolling_mean_7,0.4032,True,0.0,0.0
+5,PERSONAL CARE,sales_rolling_mean_7,0.4022,True,0.0,0.0
+13,BEVERAGES,sales_rolling_mean_7,0.4022,True,0.0,0.0
+16,HOME AND KITCHEN II,sales_rolling_mean_7,0.4022,True,0.0,0.0
+47,HOME CARE,sales_lag_7,0.4022,True,0.0,0.0
+52,PREPARED FOODS,sales_rolling_mean_7,0.4022,True,0.0,0.0
+53,LADIESWEAR,sales_rolling_mean_7,0.4022,True,0.0,0.0
+4,CLEANING,sales_rolling_mean_7,0.4011,True,0.0,0.0
+16,BEVERAGES,sales_rolling_mean_7,0.4011,True,0.0,0.0
+23,GROCERY I,sales_rolling_mean_7,0.4011,True,0.0,0.0
+24,FROZEN FOODS,sales_rolling_mean_7,0.4011,True,0.0,0.0
+34,PRODUCE,sales_rolling_mean_7,0.4011,True,0.0,0.0
+53,PREPARED FOODS,sales_rolling_mean_7,0.4011,True,0.0,0.0
+10,POULTRY,sales_rolling_mean_7,0.4,True,0.0,0.0
+12,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.4,True,0.0,0.0
+15,MEATS,sales_rolling_mean_7,0.4,True,0.0,0.0
+18,BEVERAGES,sales_rolling_mean_7,0.4,True,0.0,0.0
+20,MEATS,sales_rolling_mean_7,0.4,True,0.0,0.0
+34,DAIRY,sales_rolling_mean_7,0.4,True,0.0,0.0
+48,CLEANING,sales_rolling_mean_7,0.4,True,0.0,0.0
+49,LINGERIE,sales_rolling_mean_7,0.4,True,0.0,0.0
+51,LAWN AND GARDEN,sales_rolling_mean_7,0.4,True,0.0,0.0
+54,GROCERY I,sales_rolling_mean_7,0.4,True,0.0,0.0
+5,FROZEN FOODS,sales_rolling_mean_7,0.3871,True,0.0,0.0
+27,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3871,True,0.0,0.0
+31,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3871,True,0.0,0.0
+32,CLEANING,sales_rolling_mean_7,0.3871,True,0.0,0.0
+33,CELEBRATION,sales_rolling_mean_7,0.3871,True,0.0,0.0
+37,GROCERY II,sales_rolling_mean_7,0.3871,True,0.0,0.0
+41,DELI,sales_rolling_mean_7,0.3871,True,0.0,0.0
+50,BREAD/BAKERY,sales_rolling_mean_7,0.3871,True,0.0,0.0
+19,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.386,True,0.0,0.0
+28,HOME CARE,sales_rolling_mean_7,0.386,True,0.0,0.0
+31,PET SUPPLIES,sales_rolling_mean_7,0.386,True,0.0,0.0
+39,EGGS,sales_rolling_mean_7,0.386,True,0.0,0.0
+41,HOME APPLIANCES,sales_rolling_mean_7,0.386,True,0.0,0.0
+44,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.386,True,0.0,0.0
+46,LAWN AND GARDEN,sales_rolling_mean_7,0.386,True,0.0,0.0
+53,PET SUPPLIES,sales_rolling_mean_7,0.386,True,0.0,0.0
+3,CELEBRATION,sales_rolling_mean_7,0.3849,True,0.0,0.0
+14,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3849,True,0.0,0.0
+42,BREAD/BAKERY,sales_rolling_mean_7,0.3849,True,0.0,0.0
+42,PET SUPPLIES,sales_rolling_mean_7,0.3849,True,0.0,0.0
+45,SEAFOOD,sales_rolling_mean_7,0.3849,True,0.0,0.0
+49,HARDWARE,sales_rolling_mean_7,0.3849,True,0.0,0.0
+50,DAIRY,sales_rolling_mean_7,0.3849,True,0.0,0.0
+6,HARDWARE,sales_rolling_mean_7,0.3839,True,0.0,0.0
+15,HARDWARE,sales_rolling_mean_7,0.3839,True,0.0,0.0
+24,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3839,True,0.0,0.0
+28,MAGAZINES,sales_rolling_mean_7,0.3839,True,0.0,0.0
+30,HOME CARE,sales_lag_7,0.3839,True,0.0,0.0
+39,GROCERY II,sales_rolling_mean_7,0.3839,True,0.0,0.0
+47,BEAUTY,sales_rolling_mean_7,0.3839,True,0.0,0.0
+9,LAWN AND GARDEN,sales_rolling_mean_7,0.3828,True,0.0,0.0
+11,PERSONAL CARE,sales_rolling_mean_7,0.3828,True,0.0,0.0
+24,PERSONAL CARE,sales_rolling_mean_7,0.3828,True,0.0,0.0
+39,CELEBRATION,sales_rolling_mean_7,0.3828,True,0.0,0.0
+46,GROCERY II,sales_rolling_mean_7,0.3828,True,0.0,0.0
+47,GROCERY I,sales_rolling_mean_7,0.3828,True,0.0,0.0
+3,HOME AND KITCHEN II,sales_rolling_mean_7,0.3817,True,0.0,0.0
+16,HOME AND KITCHEN I,sales_rolling_mean_7,0.3817,True,0.0,0.0
+23,HARDWARE,sales_rolling_mean_7,0.3817,True,0.0,0.0
+37,BEAUTY,sales_rolling_mean_7,0.3817,True,0.0,0.0
+8,GROCERY I,sales_rolling_mean_7,0.3806,True,0.0,0.0
+18,PERSONAL CARE,sales_rolling_mean_7,0.3806,True,0.0,0.0
+22,PRODUCE,sales_lag_7,0.3806,True,0.0,0.0
+26,PRODUCE,sales_rolling_mean_7,0.3806,True,0.0,0.0
+44,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.3806,True,0.0,0.0
+54,LINGERIE,sales_lag_7,0.3806,True,0.0,0.0
+8,MEATS,sales_rolling_mean_7,0.3796,True,0.0,0.0
+12,LADIESWEAR,sales_lag_7,0.3796,True,0.0,0.0
+24,DAIRY,sales_rolling_mean_7,0.3796,True,0.0,0.0
+25,GROCERY II,sales_lag_7,0.3796,True,0.0,0.0
+34,GROCERY II,sales_lag_7,0.3796,True,0.0,0.0
+34,LINGERIE,sales_rolling_mean_7,0.3796,True,0.0,0.0
+45,DELI,sales_rolling_mean_7,0.3796,True,0.0,0.0
+4,PERSONAL CARE,sales_rolling_mean_7,0.3785,True,0.0,0.0
+30,CLEANING,sales_rolling_mean_7,0.3785,True,0.0,0.0
+36,PET SUPPLIES,sales_rolling_mean_7,0.3785,True,0.0,0.0
+39,PLAYERS AND ELECTRONICS,sales_lag_7,0.3785,True,0.0,0.0
+40,SEAFOOD,sales_rolling_mean_7,0.3785,True,0.0,0.0
+41,FROZEN FOODS,sales_rolling_mean_7,0.3785,True,0.0,0.0
+42,BEVERAGES,sales_rolling_mean_7,0.3785,True,0.0,0.0
+45,GROCERY I,sales_rolling_mean_7,0.3785,True,0.0,0.0
+46,EGGS,sales_lag_7,0.3785,True,0.0,0.0
+9,HOME AND KITCHEN II,sales_rolling_mean_7,0.3774,True,0.0,0.0
+10,HOME CARE,sales_lag_7,0.3774,True,0.0,0.0
+18,PRODUCE,sales_rolling_mean_7,0.3774,True,0.0,0.0
+19,HARDWARE,sales_rolling_mean_7,0.3774,True,0.0,0.0
+21,FROZEN FOODS,sales_rolling_mean_7,0.3774,True,0.0,0.0
+22,BEAUTY,sales_rolling_mean_7,0.3774,True,0.0,0.0
+33,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3774,True,0.0,0.0
+34,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.3774,True,0.0,0.0
+44,MAGAZINES,sales_rolling_mean_7,0.3774,True,0.0,0.0
+46,LADIESWEAR,sales_rolling_mean_7,0.3774,True,0.0,0.0
+53,BEAUTY,sales_lag_7,0.3774,True,0.0,0.0
+2,MEATS,sales_lag_7,0.3763,True,0.0,0.0
+4,HOME CARE,sales_lag_7,0.3763,True,0.0,0.0
+6,LINGERIE,sales_rolling_mean_7,0.3763,True,0.0,0.0
+9,GROCERY II,sales_rolling_mean_7,0.3763,True,0.0,0.0
+13,LADIESWEAR,sales_rolling_mean_7,0.3763,True,0.0,0.0
+17,GROCERY I,sales_rolling_mean_7,0.3763,True,0.0,0.0
+32,HOME AND KITCHEN I,sales_rolling_mean_7,0.3763,True,0.0,0.0
+33,BREAD/BAKERY,sales_rolling_mean_7,0.3763,True,0.0,0.0
+34,CELEBRATION,sales_rolling_mean_7,0.3763,True,0.0,0.0
+34,GROCERY I,sales_rolling_mean_7,0.3763,True,0.0,0.0
+42,LADIESWEAR,sales_rolling_mean_7,0.3763,True,0.0,0.0
+42,MAGAZINES,sales_rolling_mean_7,0.3763,True,0.0,0.0
+7,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3753,True,0.0,0.0
+10,PRODUCE,sales_rolling_mean_7,0.3753,True,0.0,0.0
+31,PRODUCE,sales_rolling_mean_7,0.3753,True,0.0,0.0
+32,SEAFOOD,sales_rolling_mean_7,0.3753,True,0.0,0.0
+12,PREPARED FOODS,sales_lag_7,0.3742,True,0.0,0.0
+14,GROCERY I,sales_lag_7,0.3742,True,0.0,0.0
+20,BREAD/BAKERY,sales_lag_7,0.3742,True,0.0,0.0
+28,BEVERAGES,sales_rolling_mean_7,0.3742,True,0.0,0.0
+29,LINGERIE,sales_lag_7,0.3742,True,0.0,0.0
+41,POULTRY,sales_rolling_mean_7,0.3742,True,0.0,0.0
+48,HOME CARE,sales_lag_7,0.3742,True,0.0,0.0
+50,BEAUTY,sales_lag_7,0.3742,True,0.0,0.0
+52,BEVERAGES,sales_lag_7,0.3742,True,0.0,0.0
+2,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3731,True,0.0,0.0
+5,LAWN AND GARDEN,sales_rolling_mean_7,0.3731,True,0.0,0.0
+6,HOME AND KITCHEN II,sales_rolling_mean_7,0.3731,True,0.0,0.0
+15,PET SUPPLIES,sales_lag_7,0.3731,True,0.0,0.0
+18,LAWN AND GARDEN,sales_lag_7,0.3731,True,0.0,0.0
+21,LAWN AND GARDEN,sales_rolling_mean_7,0.3731,True,0.0,0.0
+23,HOME AND KITCHEN II,sales_lag_7,0.3731,True,0.0,0.0
+28,PERSONAL CARE,sales_rolling_mean_7,0.3731,True,0.0,0.0
+30,HOME AND KITCHEN II,sales_lag_7,0.3731,True,0.0,0.0
+33,HOME AND KITCHEN I,sales_rolling_mean_7,0.3731,True,0.0,0.0
+35,BREAD/BAKERY,sales_rolling_mean_7,0.3731,True,0.0,0.0
+49,HOME APPLIANCES,sales_lag_7,0.3731,True,0.0,0.0
+50,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3731,True,0.0,0.0
+15,DELI,sales_lag_7,0.372,True,0.0,0.0
+16,PRODUCE,sales_rolling_mean_7,0.372,True,0.0,0.0
+22,CLEANING,sales_rolling_mean_7,0.372,True,0.0,0.0
+31,LADIESWEAR,sales_lag_7,0.372,True,0.0,0.0
+34,LADIESWEAR,sales_lag_7,0.372,True,0.0,0.0
+41,LINGERIE,sales_lag_7,0.372,True,0.0,0.0
+11,LAWN AND GARDEN,sales_rolling_mean_7,0.371,True,0.0,0.0
+41,LAWN AND GARDEN,sales_rolling_mean_7,0.371,True,0.0,0.0
+5,BEVERAGES,sales_rolling_mean_7,0.3699,True,0.0,0.0
+8,LAWN AND GARDEN,sales_rolling_mean_7,0.3699,True,0.0,0.0
+36,MAGAZINES,sales_rolling_mean_7,0.3699,True,0.0,0.0
+37,HOME CARE,sales_lag_7,0.3699,True,0.0,0.0
+38,PET SUPPLIES,sales_rolling_mean_7,0.3699,True,0.0,0.0
+43,SEAFOOD,sales_rolling_mean_7,0.3699,True,0.0,0.0
+50,PET SUPPLIES,sales_rolling_mean_7,0.3699,True,0.0,0.0
+52,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3699,True,0.0,0.0
+1,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3688,True,0.0,0.0
+5,POULTRY,sales_rolling_mean_7,0.3688,True,0.0,0.0
+13,MEATS,sales_rolling_mean_7,0.3688,True,0.0,0.0
+21,AUTOMOTIVE,sales_rolling_mean_7,0.3688,True,0.0,0.0
+36,SEAFOOD,sales_rolling_mean_7,0.3688,True,0.0,0.0
+46,BEAUTY,sales_rolling_mean_7,0.3688,True,0.0,0.0
+46,BEVERAGES,sales_rolling_mean_7,0.3688,True,0.0,0.0
+50,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.3688,True,0.0,0.0
+53,CLEANING,sales_rolling_mean_7,0.3688,True,0.0,0.0
+54,BEVERAGES,sales_rolling_mean_7,0.3688,True,0.0,0.0
+15,BEVERAGES,sales_rolling_mean_7,0.3677,True,0.0,0.0
+20,BEVERAGES,sales_rolling_mean_7,0.3677,True,0.0,0.0
+39,HOME APPLIANCES,sales_rolling_mean_7,0.3677,True,0.0,0.0
+41,HOME AND KITCHEN II,sales_rolling_mean_7,0.3677,True,0.0,0.0
+50,PERSONAL CARE,sales_rolling_mean_7,0.3677,True,0.0,0.0
+52,AUTOMOTIVE,sales_rolling_mean_7,0.3677,True,0.0,0.0
+54,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3677,True,0.0,0.0
+4,LINGERIE,sales_rolling_mean_7,0.3667,True,0.0,0.0
+13,LINGERIE,sales_rolling_mean_7,0.3667,True,0.0,0.0
+20,MAGAZINES,sales_rolling_mean_7,0.3667,True,0.0,0.0
+25,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3667,True,0.0,0.0
+29,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3667,True,0.0,0.0
+35,BEVERAGES,sales_rolling_mean_7,0.3667,True,0.0,0.0
+37,HOME AND KITCHEN II,sales_rolling_mean_7,0.3667,True,0.0,0.0
+44,LAWN AND GARDEN,sales_rolling_mean_7,0.3667,True,0.0,0.0
+46,MEATS,sales_rolling_mean_7,0.3667,True,0.0,0.0
+47,HOME AND KITCHEN II,sales_rolling_mean_7,0.3667,True,0.0,0.0
+47,LAWN AND GARDEN,sales_rolling_mean_7,0.3667,True,0.0,0.0
+53,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3667,True,0.0,0.0
+4,FROZEN FOODS,sales_rolling_mean_7,0.3548,True,0.0,0.0
+5,MEATS,sales_rolling_mean_7,0.3548,True,0.0,0.0
+10,HOME CARE,sales_rolling_mean_7,0.3548,True,0.0,0.0
+16,CLEANING,sales_rolling_mean_7,0.3548,True,0.0,0.0
+20,BEAUTY,sales_rolling_mean_7,0.3548,True,0.0,0.0
+22,HOME CARE,sales_rolling_mean_7,0.3548,True,0.0,0.0
+31,CLEANING,sales_rolling_mean_7,0.3548,True,0.0,0.0
+33,PET SUPPLIES,sales_rolling_mean_7,0.3548,True,0.0,0.0
+41,SEAFOOD,sales_rolling_mean_7,0.3548,True,0.0,0.0
+42,HOME AND KITCHEN II,sales_lag_7,0.3548,True,0.0,0.0
+45,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3548,True,0.0,0.0
+51,BOOKS,sales_rolling_mean_7,0.3548,True,0.0,0.0
+51,PERSONAL CARE,sales_rolling_mean_7,0.3548,True,0.0,0.0
+54,HOME APPLIANCES,sales_rolling_mean_7,0.3548,True,0.0,0.0
+21,EGGS,sales_rolling_mean_7,0.3538,True,0.0,0.0
+22,DELI,sales_rolling_mean_7,0.3538,True,0.0,0.0
+32,GROCERY II,sales_rolling_mean_7,0.3538,True,0.0,0.0
+35,PREPARED FOODS,sales_rolling_mean_7,0.3538,True,0.0,0.0
+37,BREAD/BAKERY,sales_rolling_mean_7,0.3538,True,0.0,0.0
+39,BREAD/BAKERY,sales_rolling_mean_7,0.3538,True,0.0,0.0
+42,CLEANING,sales_rolling_mean_7,0.3538,True,0.0,0.0
+43,GROCERY II,sales_rolling_mean_7,0.3538,True,0.0,0.0
+49,PREPARED FOODS,sales_rolling_mean_7,0.3538,True,0.0,0.0
+51,BREAD/BAKERY,sales_rolling_mean_7,0.3538,True,0.0,0.0
+4,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3527,True,0.0,0.0
+14,FROZEN FOODS,sales_rolling_mean_7,0.3527,True,0.0,0.0
+16,EGGS,sales_rolling_mean_7,0.3527,True,0.0,0.0
+19,PERSONAL CARE,sales_rolling_mean_7,0.3527,True,0.0,0.0
+28,DAIRY,sales_rolling_mean_7,0.3527,True,0.0,0.0
+36,EGGS,sales_rolling_mean_7,0.3527,True,0.0,0.0
+43,CELEBRATION,sales_rolling_mean_7,0.3527,True,0.0,0.0
+46,FROZEN FOODS,sales_rolling_mean_7,0.3527,True,0.0,0.0
+5,LADIESWEAR,sales_rolling_mean_7,0.3516,True,0.0,0.0
+14,DELI,sales_rolling_mean_7,0.3516,True,0.0,0.0
+29,GROCERY I,sales_rolling_mean_7,0.3516,True,0.0,0.0
+31,GROCERY I,sales_rolling_mean_7,0.3516,True,0.0,0.0
+32,HOME CARE,sales_rolling_mean_7,0.3516,True,0.0,0.0
+40,BEVERAGES,sales_lag_7,0.3516,True,0.0,0.0
+41,PERSONAL CARE,sales_rolling_mean_7,0.3516,True,0.0,0.0
+45,LINGERIE,sales_rolling_mean_7,0.3516,True,0.0,0.0
+11,GROCERY I,sales_rolling_mean_7,0.3505,True,0.0,0.0
+22,LADIESWEAR,sales_lag_7,0.3505,True,0.0,0.0
+33,AUTOMOTIVE,sales_rolling_mean_7,0.3505,True,0.0,0.0
+33,PERSONAL CARE,sales_rolling_mean_7,0.3505,True,0.0,0.0
+41,CELEBRATION,sales_rolling_mean_7,0.3505,True,0.0,0.0
+51,HOME APPLIANCES,sales_lag_7,0.3505,True,0.0,0.0
+2,PERSONAL CARE,sales_rolling_mean_7,0.3495,True,0.0,0.0
+12,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3495,True,0.0,0.0
+26,GROCERY II,sales_lag_7,0.3495,True,0.0,0.0
+35,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3495,True,0.0,0.0
+43,DAIRY,sales_rolling_mean_7,0.3495,True,0.0,0.0
+47,BOOKS,sales_rolling_mean_7,0.3495,True,0.0,0.0
+49,PET SUPPLIES,sales_rolling_mean_7,0.3495,True,0.0,0.0
+4,PREPARED FOODS,sales_lag_7,0.3484,True,0.0,0.0
+5,PRODUCE,sales_rolling_mean_7,0.3484,True,0.0,0.0
+14,HOME CARE,sales_rolling_mean_7,0.3484,True,0.0,0.0
+22,BREAD/BAKERY,sales_lag_7,0.3484,True,0.0,0.0
+25,AUTOMOTIVE,sales_rolling_mean_7,0.3484,True,0.0,0.0
+28,HOME AND KITCHEN II,sales_rolling_mean_7,0.3484,True,0.0,0.0
+31,BREAD/BAKERY,sales_lag_7,0.3484,True,0.0,0.0
+45,HOME AND KITCHEN I,sales_lag_7,0.3484,True,0.0,0.0
+47,PREPARED FOODS,sales_rolling_mean_7,0.3484,True,0.0,0.0
+52,FROZEN FOODS,sales_rolling_mean_7,0.3484,True,0.0,0.0
+15,HOME APPLIANCES,sales_rolling_mean_7,0.3473,True,0.0,0.0
+24,PERSONAL CARE,sales_lag_7,0.3473,True,0.0,0.0
+31,HOME AND KITCHEN II,sales_rolling_mean_7,0.3473,True,0.0,0.0
+32,PREPARED FOODS,sales_lag_7,0.3473,True,0.0,0.0
+40,GROCERY I,sales_rolling_mean_7,0.3473,True,0.0,0.0
+51,HOME CARE,sales_lag_7,0.3473,True,0.0,0.0
+13,FROZEN FOODS,sales_rolling_mean_7,0.3462,True,0.0,0.0
+16,GROCERY I,sales_lag_7,0.3462,True,0.0,0.0
+17,EGGS,sales_rolling_mean_7,0.3462,True,0.0,0.0
+18,BEAUTY,sales_rolling_mean_7,0.3462,True,0.0,0.0
+18,PREPARED FOODS,sales_lag_7,0.3462,True,0.0,0.0
+20,GROCERY II,sales_lag_7,0.3462,True,0.0,0.0
+29,PREPARED FOODS,sales_rolling_mean_7,0.3462,True,0.0,0.0
+33,GROCERY I,sales_rolling_mean_7,0.3462,True,0.0,0.0
+46,CLEANING,sales_rolling_mean_7,0.3462,True,0.0,0.0
+54,DAIRY,sales_rolling_mean_7,0.3462,True,0.0,0.0
+6,HOME CARE,sales_lag_7,0.3452,True,0.0,0.0
+7,SEAFOOD,sales_rolling_mean_7,0.3452,True,0.0,0.0
+9,AUTOMOTIVE,sales_rolling_mean_7,0.3452,True,0.0,0.0
+9,DELI,sales_rolling_mean_7,0.3452,True,0.0,0.0
+12,GROCERY I,sales_lag_7,0.3452,True,0.0,0.0
+20,PET SUPPLIES,sales_rolling_mean_7,0.3452,True,0.0,0.0
+22,POULTRY,sales_lag_7,0.3452,True,0.0,0.0
+41,MAGAZINES,sales_rolling_mean_7,0.3452,True,0.0,0.0
+43,FROZEN FOODS,sales_rolling_mean_7,0.3452,True,0.0,0.0
+10,PREPARED FOODS,sales_lag_7,0.3441,True,0.0,0.0
+11,PRODUCE,sales_lag_7,0.3441,True,0.0,0.0
+16,HARDWARE,sales_rolling_mean_7,0.3441,True,0.0,0.0
+19,AUTOMOTIVE,sales_rolling_mean_7,0.3441,True,0.0,0.0
+24,GROCERY I,sales_rolling_mean_7,0.3441,True,0.0,0.0
+27,HOME CARE,sales_lag_7,0.3441,True,0.0,0.0
+52,CLEANING,sales_lag_7,0.3441,True,0.0,0.0
+54,BEVERAGES,sales_lag_7,0.3441,True,0.0,0.0
+3,HOME CARE,sales_lag_7,0.343,True,0.0,0.0
+12,GROCERY II,sales_rolling_mean_7,0.343,True,0.0,0.0
+17,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.343,True,0.0,0.0
+19,FROZEN FOODS,sales_lag_7,0.343,True,0.0,0.0
+21,HARDWARE,sales_rolling_mean_7,0.343,True,0.0,0.0
+27,LADIESWEAR,sales_rolling_mean_7,0.343,True,0.0,0.0
+40,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.343,True,0.0,0.0
+48,FROZEN FOODS,sales_rolling_mean_7,0.343,True,0.0,0.0
+52,HOME CARE,sales_lag_7,0.343,True,0.0,0.0
+52,LAWN AND GARDEN,sales_lag_7,0.343,True,0.0,0.0
+54,CELEBRATION,sales_rolling_mean_7,0.343,True,0.0,0.0
+6,HOME AND KITCHEN II,sales_lag_7,0.3419,True,0.0,0.0
+9,BEVERAGES,sales_rolling_mean_7,0.3419,True,0.0,0.0
+14,SEAFOOD,sales_lag_7,0.3419,True,0.0,0.0
+19,DELI,sales_rolling_mean_7,0.3419,True,0.0,0.0
+29,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3419,True,0.0,0.0
+40,HOME AND KITCHEN II,sales_rolling_mean_7,0.3419,True,0.0,0.0
+40,PREPARED FOODS,sales_lag_7,0.3419,True,0.0,0.0
+44,MEATS,sales_rolling_mean_7,0.3419,True,0.0,0.0
+52,HARDWARE,sales_rolling_mean_7,0.3419,True,0.0,0.0
+1,FROZEN FOODS,sales_rolling_mean_7,0.3409,True,0.0,0.0
+4,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3409,True,0.0,0.0
+6,LAWN AND GARDEN,sales_rolling_mean_7,0.3409,True,0.0,0.0
+9,FROZEN FOODS,sales_rolling_mean_7,0.3409,True,0.0,0.0
+10,DELI,sales_rolling_mean_7,0.3409,True,0.0,0.0
+13,CELEBRATION,sales_rolling_mean_7,0.3409,True,0.0,0.0
+16,BREAD/BAKERY,sales_lag_7,0.3409,True,0.0,0.0
+29,BABY CARE,sales_rolling_mean_7,0.3409,True,0.0,0.0
+30,HOME APPLIANCES,sales_rolling_mean_7,0.3409,True,0.0,0.0
+42,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3409,True,0.0,0.0
+47,CLEANING,sales_rolling_mean_7,0.3409,True,0.0,0.0
+51,GROCERY II,sales_rolling_mean_7,0.3409,True,0.0,0.0
+53,DAIRY,sales_rolling_mean_7,0.3409,True,0.0,0.0
+7,BABY CARE,sales_rolling_mean_7,0.3398,True,0.0,0.0
+44,DELI,sales_rolling_mean_7,0.3398,True,0.0,0.0
+1,SEAFOOD,sales_rolling_mean_7,0.3387,True,0.0,0.0
+3,PERSONAL CARE,sales_rolling_mean_7,0.3387,True,0.0,0.0
+5,BEAUTY,sales_rolling_mean_7,0.3387,True,0.0,0.0
+30,LINGERIE,sales_rolling_mean_7,0.3387,True,0.0,0.0
+38,LAWN AND GARDEN,sales_rolling_mean_7,0.3387,True,0.0,0.0
+41,HOME CARE,sales_lag_7,0.3387,True,0.0,0.0
+1,HOME AND KITCHEN I,sales_rolling_mean_7,0.3376,True,0.0,0.0
+7,EGGS,sales_lag_7,0.3376,True,0.0,0.0
+9,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.3376,True,0.0,0.0
+15,BREAD/BAKERY,sales_rolling_mean_7,0.3376,True,0.0,0.0
+21,GROCERY I,sales_rolling_mean_7,0.3376,True,0.0,0.0
+28,LINGERIE,sales_lag_7,0.3376,True,0.0,0.0
+29,MAGAZINES,sales_rolling_mean_7,0.3376,True,0.0,0.0
+43,PRODUCE,sales_lag_7,0.3376,True,0.0,0.0
+46,MAGAZINES,sales_rolling_mean_7,0.3376,True,0.0,0.0
+48,GROCERY II,sales_rolling_mean_7,0.3376,True,0.0,0.0
+54,EGGS,sales_rolling_mean_7,0.3376,True,0.0,0.0
+3,BEAUTY,sales_rolling_mean_7,0.3366,True,0.0,0.0
+23,LAWN AND GARDEN,sales_rolling_mean_7,0.3366,True,0.0,0.0
+35,LINGERIE,sales_rolling_mean_7,0.3366,True,0.0,0.0
+40,BEAUTY,sales_lag_7,0.3366,True,0.0,0.0
+50,CLEANING,sales_lag_7,0.3366,True,0.0,0.0
+9,BREAD/BAKERY,sales_rolling_mean_7,0.3355,True,0.0,0.0
+11,LINGERIE,sales_rolling_mean_7,0.3355,True,0.0,0.0
+20,GROCERY I,sales_rolling_mean_7,0.3355,True,0.0,0.0
+38,HOME AND KITCHEN II,sales_rolling_mean_7,0.3355,True,0.0,0.0
+40,HOME APPLIANCES,sales_rolling_mean_7,0.3355,True,0.0,0.0
+42,AUTOMOTIVE,sales_rolling_mean_7,0.3355,True,0.0,0.0
+6,MAGAZINES,sales_rolling_mean_7,0.3344,True,0.0,0.0
+16,POULTRY,sales_lag_7,0.3344,True,0.0,0.0
+39,FROZEN FOODS,sales_rolling_mean_7,0.3344,True,0.0,0.0
+43,PERSONAL CARE,sales_rolling_mean_7,0.3344,True,0.0,0.0
+50,GROCERY I,sales_rolling_mean_7,0.3344,True,0.0,0.0
+50,HOME APPLIANCES,sales_lag_7,0.3344,True,0.0,0.0
+2,BABY CARE,sales_rolling_mean_7,0.3333,True,0.0,0.0
+5,PET SUPPLIES,sales_rolling_mean_7,0.3333,True,0.0,0.0
+5,SEAFOOD,sales_lag_7,0.3333,True,0.0,0.0
+8,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3333,True,0.0,0.0
+13,HOME APPLIANCES,sales_rolling_mean_7,0.3333,True,0.0,0.0
+20,FROZEN FOODS,sales_rolling_mean_7,0.3333,True,0.0,0.0
+20,PERSONAL CARE,sales_rolling_mean_7,0.3333,True,0.0,0.0
+21,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3333,True,0.0,0.0
+24,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3333,True,0.0,0.0
+35,AUTOMOTIVE,sales_rolling_mean_7,0.3333,True,0.0,0.0
+35,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3333,True,0.0,0.0
+37,CLEANING,sales_rolling_mean_7,0.3333,True,0.0,0.0
+6,HOME APPLIANCES,sales_lag_7,0.3226,True,0.0,0.0
+11,LADIESWEAR,sales_rolling_mean_7,0.3226,True,0.0,0.0
+12,LINGERIE,sales_rolling_mean_7,0.3226,True,0.0,0.0
+21,HOME CARE,sales_rolling_mean_7,0.3226,True,0.0,0.0
+26,CELEBRATION,sales_rolling_mean_7,0.3226,True,0.0,0.0
+33,FROZEN FOODS,sales_rolling_mean_7,0.3226,True,0.0,0.0
+38,GROCERY II,sales_rolling_mean_7,0.3226,True,0.0,0.0
+38,MAGAZINES,sales_rolling_mean_7,0.3226,True,0.0,0.0
+42,LINGERIE,sales_rolling_mean_7,0.3226,True,0.0,0.0
+44,AUTOMOTIVE,sales_rolling_mean_7,0.3226,True,0.0,0.0
+46,CELEBRATION,sales_lag_7,0.3226,True,0.0,0.0
+46,PREPARED FOODS,sales_rolling_mean_7,0.3226,True,0.0,0.0
+49,HOME AND KITCHEN II,sales_rolling_mean_7,0.3226,True,0.0,0.0
+54,GROCERY II,sales_rolling_mean_7,0.3226,True,0.0,0.0
+3,LADIESWEAR,sales_rolling_mean_7,0.3215,True,0.0,0.0
+47,LADIESWEAR,sales_rolling_mean_7,0.3215,True,0.0,0.0
+7,CLEANING,sales_rolling_mean_7,0.3204,True,0.0,0.0
+13,CLEANING,sales_rolling_mean_7,0.3204,True,0.0,0.0
+33,HOME AND KITCHEN II,sales_rolling_mean_7,0.3204,True,0.0,0.0
+36,FROZEN FOODS,sales_rolling_mean_7,0.3204,True,0.0,0.0
+40,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3204,True,0.0,0.0
+22,DAIRY,sales_rolling_mean_7,0.3194,True,0.0,0.0
+25,DAIRY,sales_rolling_mean_7,0.3194,True,0.0,0.0
+28,HARDWARE,sales_rolling_mean_7,0.3194,True,0.0,0.0
+31,PREPARED FOODS,sales_rolling_mean_7,0.3194,True,0.0,0.0
+34,FROZEN FOODS,sales_lag_7,0.3194,True,0.0,0.0
+39,BEVERAGES,sales_lag_7,0.3194,True,0.0,0.0
+42,POULTRY,sales_rolling_mean_7,0.3194,True,0.0,0.0
+43,HOME AND KITCHEN II,sales_lag_7,0.3194,True,0.0,0.0
+53,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3194,True,0.0,0.0
+9,BEAUTY,sales_rolling_mean_7,0.3183,True,0.0,0.0
+44,BEAUTY,sales_lag_7,0.3183,True,0.0,0.0
+45,BEAUTY,sales_rolling_mean_7,0.3183,True,0.0,0.0
+45,HOME APPLIANCES,sales_rolling_mean_7,0.3183,True,0.0,0.0
+49,CELEBRATION,sales_lag_7,0.3183,True,0.0,0.0
+52,CELEBRATION,sales_rolling_mean_7,0.3183,True,0.0,0.0
+54,BREAD/BAKERY,sales_lag_7,0.3183,True,0.0,0.0
+12,CELEBRATION,sales_rolling_mean_7,0.3172,True,0.0,0.0
+25,PLAYERS AND ELECTRONICS,sales_lag_7,0.3172,True,0.0,0.0
+26,BREAD/BAKERY,sales_rolling_mean_7,0.3172,True,0.0,0.0
+34,PLAYERS AND ELECTRONICS,sales_lag_7,0.3172,True,0.0,0.0
+42,HOME AND KITCHEN I,sales_lag_7,0.3172,True,0.0,0.0
+44,PET SUPPLIES,sales_rolling_mean_7,0.3172,True,0.0,0.0
+44,PRODUCE,sales_rolling_mean_7,0.3172,True,0.0,0.0
+54,PREPARED FOODS,sales_lag_7,0.3172,True,0.0,0.0
+1,CLEANING,sales_rolling_mean_7,0.3161,True,0.0,0.0
+13,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3161,True,0.0,0.0
+14,EGGS,sales_lag_7,0.3161,True,0.0,0.0
+28,HOME APPLIANCES,sales_lag_7,0.3161,True,0.0,0.0
+35,FROZEN FOODS,sales_rolling_mean_7,0.3161,True,0.0,0.0
+35,POULTRY,sales_lag_7,0.3161,True,0.0,0.0
+36,PREPARED FOODS,sales_rolling_mean_7,0.3161,True,0.0,0.0
+40,GROCERY I,sales_lag_7,0.3161,True,0.0,0.0
+41,DAIRY,sales_rolling_mean_7,0.3161,True,0.0,0.0
+42,GROCERY I,sales_rolling_mean_7,0.3161,True,0.0,0.0
+49,MAGAZINES,sales_lag_7,0.3161,True,0.0,0.0
+12,MAGAZINES,sales_rolling_mean_7,0.3151,True,0.0,0.0
+15,POULTRY,sales_lag_7,0.3151,True,0.0,0.0
+25,BABY CARE,sales_rolling_mean_7,0.3151,True,0.0,0.0
+27,BOOKS,sales_rolling_mean_7,0.3151,True,0.0,0.0
+32,PERSONAL CARE,sales_lag_7,0.3151,True,0.0,0.0
+33,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3151,True,0.0,0.0
+52,PET SUPPLIES,sales_lag_7,0.3151,True,0.0,0.0
+54,DELI,sales_rolling_mean_7,0.3151,True,0.0,0.0
+4,CLEANING,sales_lag_7,0.314,True,0.0,0.0
+9,HOME AND KITCHEN I,sales_lag_7,0.314,True,0.0,0.0
+13,GROCERY II,sales_lag_7,0.314,True,0.0,0.0
+19,CLEANING,sales_rolling_mean_7,0.314,True,0.0,0.0
+19,GROCERY I,sales_rolling_mean_7,0.314,True,0.0,0.0
+21,SEAFOOD,sales_lag_7,0.314,True,0.0,0.0
+24,HOME AND KITCHEN II,sales_lag_7,0.314,True,0.0,0.0
+35,HOME AND KITCHEN I,sales_lag_7,0.314,True,0.0,0.0
+46,POULTRY,sales_rolling_mean_7,0.314,True,0.0,0.0
+7,POULTRY,sales_lag_7,0.3129,True,0.0,0.0
+13,PERSONAL CARE,sales_rolling_mean_7,0.3129,True,0.0,0.0
+14,PRODUCE,sales_lag_7,0.3129,True,0.0,0.0
+18,MAGAZINES,sales_rolling_mean_7,0.3129,True,0.0,0.0
+27,DAIRY,sales_rolling_mean_7,0.3129,True,0.0,0.0
+32,HARDWARE,sales_rolling_mean_7,0.3129,True,0.0,0.0
+32,HOME AND KITCHEN I,sales_lag_7,0.3129,True,0.0,0.0
+37,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3129,True,0.0,0.0
+40,PET SUPPLIES,sales_rolling_mean_7,0.3129,True,0.0,0.0
+42,SEAFOOD,sales_rolling_mean_7,0.3129,True,0.0,0.0
+46,BOOKS,sales_rolling_mean_7,0.3129,True,0.0,0.0
+50,BOOKS,sales_rolling_mean_7,0.3129,True,0.0,0.0
+10,PLAYERS AND ELECTRONICS,sales_lag_7,0.3118,True,0.0,0.0
+15,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3118,True,0.0,0.0
+17,GROCERY II,sales_lag_7,0.3118,True,0.0,0.0
+33,HOME CARE,sales_lag_7,0.3118,True,0.0,0.0
+38,LINGERIE,sales_lag_7,0.3118,True,0.0,0.0
+39,LINGERIE,sales_rolling_mean_7,0.3118,True,0.0,0.0
+18,POULTRY,sales_rolling_mean_7,0.3108,True,0.0,0.0
+22,PREPARED FOODS,sales_lag_7,0.3108,True,0.0,0.0
+26,BEAUTY,sales_rolling_mean_7,0.3108,True,0.0,0.0
+35,GROCERY I,sales_rolling_mean_7,0.3108,True,0.0,0.0
+36,GROCERY I,sales_lag_7,0.3108,True,0.0,0.0
+43,HOME CARE,sales_lag_7,0.3108,True,0.0,0.0
+45,GROCERY II,sales_lag_7,0.3108,True,0.0,0.0
+47,MAGAZINES,sales_rolling_mean_7,0.3108,True,0.0,0.0
+48,LADIESWEAR,sales_rolling_mean_7,0.3108,True,0.0,0.0
+51,MEATS,sales_lag_7,0.3108,True,0.0,0.0
+5,MAGAZINES,sales_lag_7,0.3097,True,0.0,0.0
+20,EGGS,sales_rolling_mean_7,0.3097,True,0.0,0.0
+28,DELI,sales_rolling_mean_7,0.3097,True,0.0,0.0
+35,PERSONAL CARE,sales_rolling_mean_7,0.3097,True,0.0,0.0
+38,FROZEN FOODS,sales_lag_7,0.3097,True,0.0,0.0
+45,HOME AND KITCHEN II,sales_rolling_mean_7,0.3097,True,0.0,0.0
+48,BEVERAGES,sales_rolling_mean_7,0.3097,True,0.0,0.0
+14,LADIESWEAR,sales_lag_7,0.3086,True,0.0,0.0
+21,LINGERIE,sales_rolling_mean_7,0.3086,True,0.0,0.0
+27,GROCERY II,sales_lag_7,0.3086,True,0.0,0.0
+30,POULTRY,sales_rolling_mean_7,0.3086,True,0.0,0.0
+37,GROCERY I,sales_rolling_mean_7,0.3086,True,0.0,0.0
+50,HOME AND KITCHEN I,sales_lag_7,0.3086,True,0.0,0.0
+51,CLEANING,sales_lag_7,0.3086,True,0.0,0.0
+7,GROCERY II,sales_lag_7,0.3075,True,0.0,0.0
+8,SEAFOOD,sales_rolling_mean_7,0.3075,True,0.0,0.0
+15,DAIRY,sales_lag_7,0.3075,True,0.0,0.0
+33,MAGAZINES,sales_rolling_mean_7,0.3075,True,0.0,0.0
+39,CLEANING,sales_lag_7,0.3075,True,0.0,0.0
+40,EGGS,sales_lag_7,0.3075,True,0.0,0.0
+5,"LIQUOR,WINE,BEER",sales_lag_7,0.3065,True,0.0,0.0
+18,HOME APPLIANCES,sales_lag_7,0.3065,True,0.0,0.0
+20,LINGERIE,sales_rolling_mean_7,0.3065,True,0.0,0.0
+31,BEAUTY,sales_lag_7,0.3065,True,0.0,0.0
+35,HARDWARE,sales_rolling_mean_7,0.3065,True,0.0,0.0
+35,HOME APPLIANCES,sales_rolling_mean_7,0.3065,True,0.0,0.0
+38,LAWN AND GARDEN,sales_lag_7,0.3065,True,0.0,0.0
+53,HOME AND KITCHEN I,sales_rolling_mean_7,0.3065,True,0.0,0.0
+1,GROCERY II,sales_lag_7,0.3054,True,0.0,0.0
+16,CLEANING,sales_lag_7,0.3054,True,0.0,0.0
+33,BEAUTY,sales_rolling_mean_7,0.3054,True,0.0,0.0
+38,HOME CARE,sales_lag_7,0.3054,True,0.0,0.0
+41,CLEANING,sales_lag_7,0.3054,True,0.0,0.0
+53,LAWN AND GARDEN,sales_rolling_mean_7,0.3054,True,0.0,0.0
+2,HOME APPLIANCES,sales_rolling_mean_7,0.3043,True,0.0,0.0
+4,BEAUTY,sales_lag_7,0.3043,True,0.0,0.0
+5,DAIRY,sales_rolling_mean_7,0.3043,True,0.0,0.0
+5,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3043,True,0.0,0.0
+17,LADIESWEAR,sales_rolling_mean_7,0.3043,True,0.0,0.0
+31,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.3043,True,0.0,0.0
+33,BREAD/BAKERY,sales_lag_7,0.3043,True,0.0,0.0
+37,MEATS,sales_rolling_mean_7,0.3043,True,0.0,0.0
+46,MEATS,sales_lag_7,0.3043,True,0.0,0.0
+54,MAGAZINES,sales_rolling_mean_7,0.3043,True,0.0,0.0
+21,LADIESWEAR,sales_rolling_mean_7,0.3032,True,0.0,0.0
+24,HARDWARE,sales_rolling_mean_7,0.3032,True,0.0,0.0
+41,CLEANING,sales_rolling_mean_7,0.3032,True,0.0,0.0
+48,LAWN AND GARDEN,sales_rolling_mean_7,0.3032,True,0.0,0.0
+2,HARDWARE,sales_rolling_mean_7,0.3022,True,0.0,0.0
+14,HOME APPLIANCES,sales_rolling_mean_7,0.3022,True,0.0,0.0
+23,HOME APPLIANCES,sales_rolling_mean_7,0.3022,True,0.0,0.0
+27,LAWN AND GARDEN,sales_rolling_mean_7,0.3022,True,0.0,0.0
+45,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.3022,True,0.0,0.0
+48,DELI,sales_rolling_mean_7,0.3022,True,0.0,0.0
+53,BEVERAGES,sales_rolling_mean_7,0.3022,True,0.0,0.0
+27,POULTRY,sales_rolling_mean_7,0.3011,True,0.0,0.0
+41,HOME AND KITCHEN I,sales_rolling_mean_7,0.3011,True,0.0,0.0
+47,PERSONAL CARE,sales_rolling_mean_7,0.3011,True,0.0,0.0
+47,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.3011,True,0.0,0.0
+50,DELI,sales_rolling_mean_7,0.3011,True,0.0,0.0
+52,PERSONAL CARE,sales_rolling_mean_7,0.3011,True,0.0,0.0
+6,GROCERY II,sales_lag_7,0.3,True,0.0,0.0
+19,BEAUTY,sales_rolling_mean_7,0.3,True,0.0,0.0
+31,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.3,True,0.0,0.0
+44,PERSONAL CARE,sales_rolling_mean_7,0.3,True,0.0,0.0
+53,FROZEN FOODS,sales_rolling_mean_7,0.3,True,0.0,0.0
+1,HOME APPLIANCES,sales_rolling_mean_7,0.2903,True,0.0,0.0
+2,LADIESWEAR,sales_rolling_mean_7,0.2903,True,0.0,0.0
+2,MAGAZINES,sales_rolling_mean_7,0.2903,True,0.0,0.0
+3,MAGAZINES,sales_lag_7,0.2903,True,0.0,0.0
+6,PET SUPPLIES,sales_rolling_mean_7,0.2903,True,0.0,0.0
+8,BEAUTY,sales_rolling_mean_7,0.2903,True,0.0,0.0
+8,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2903,True,0.0,0.0
+11,HOME CARE,sales_rolling_mean_7,0.2903,True,0.0,0.0
+15,HOME AND KITCHEN II,sales_rolling_mean_7,0.2903,True,0.0,0.0
+19,BEVERAGES,sales_rolling_mean_7,0.2903,True,0.0,0.0
+19,HOME CARE,sales_rolling_mean_7,0.2903,True,0.0,0.0
+20,HOME CARE,sales_rolling_mean_7,0.2903,True,0.0,0.0
+21,BEAUTY,sales_rolling_mean_7,0.2903,True,0.0,0.0
+22,"LIQUOR,WINE,BEER",sales_lag_7,0.2903,True,0.0,0.0
+40,CLEANING,sales_lag_7,0.2903,True,0.0,0.0
+42,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2903,True,0.0,0.0
+46,PET SUPPLIES,sales_rolling_mean_7,0.2903,True,0.0,0.0
+4,PET SUPPLIES,sales_lag_7,0.2892,True,0.0,0.0
+5,BREAD/BAKERY,sales_rolling_mean_7,0.2892,True,0.0,0.0
+7,CELEBRATION,sales_rolling_mean_7,0.2892,True,0.0,0.0
+23,FROZEN FOODS,sales_rolling_mean_7,0.2892,True,0.0,0.0
+26,MEATS,sales_lag_7,0.2892,True,0.0,0.0
+35,POULTRY,sales_rolling_mean_7,0.2892,True,0.0,0.0
+15,FROZEN FOODS,sales_rolling_mean_7,0.2882,True,0.0,0.0
+17,HOME AND KITCHEN II,sales_lag_7,0.2882,True,0.0,0.0
+17,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2882,True,0.0,0.0
+21,PET SUPPLIES,sales_rolling_mean_7,0.2882,True,0.0,0.0
+33,PRODUCE,sales_rolling_mean_7,0.2882,True,0.0,0.0
+46,GROCERY I,sales_lag_7,0.2882,True,0.0,0.0
+47,PET SUPPLIES,sales_rolling_mean_7,0.2882,True,0.0,0.0
+8,HOME AND KITCHEN II,sales_lag_7,0.2871,True,0.0,0.0
+19,PLAYERS AND ELECTRONICS,sales_lag_7,0.2871,True,0.0,0.0
+32,CELEBRATION,sales_rolling_mean_7,0.2871,True,0.0,0.0
+36,CELEBRATION,sales_lag_7,0.2871,True,0.0,0.0
+36,POULTRY,sales_lag_7,0.2871,True,0.0,0.0
+49,HOME CARE,sales_lag_7,0.2871,True,0.0,0.0
+22,GROCERY II,sales_rolling_mean_7,0.286,True,0.0,0.0
+28,SEAFOOD,sales_lag_7,0.286,True,0.0,0.0
+30,DELI,sales_rolling_mean_7,0.286,True,0.0,0.0
+37,LADIESWEAR,sales_lag_7,0.286,True,0.0,0.0
+42,HOME CARE,sales_lag_7,0.286,True,0.0,0.0
+43,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.286,True,0.0,0.0
+45,LAWN AND GARDEN,sales_lag_7,0.286,True,0.0,0.0
+50,MEATS,sales_rolling_mean_7,0.286,True,0.0,0.0
+50,SEAFOOD,sales_rolling_mean_7,0.286,True,0.0,0.0
+3,SEAFOOD,sales_rolling_mean_7,0.2849,True,0.0,0.0
+9,LADIESWEAR,sales_lag_7,0.2849,True,0.0,0.0
+13,DELI,sales_lag_7,0.2849,True,0.0,0.0
+14,HARDWARE,sales_rolling_mean_7,0.2849,True,0.0,0.0
+17,CELEBRATION,sales_rolling_mean_7,0.2849,True,0.0,0.0
+20,PREPARED FOODS,sales_lag_7,0.2849,True,0.0,0.0
+38,HOME APPLIANCES,sales_rolling_mean_7,0.2849,True,0.0,0.0
+16,PET SUPPLIES,sales_lag_7,0.2839,True,0.0,0.0
+17,HOME CARE,sales_lag_7,0.2839,True,0.0,0.0
+21,CELEBRATION,sales_lag_7,0.2839,True,0.0,0.0
+27,HOME APPLIANCES,sales_rolling_mean_7,0.2839,True,0.0,0.0
+30,CELEBRATION,sales_rolling_mean_7,0.2839,True,0.0,0.0
+44,GROCERY I,sales_rolling_mean_7,0.2839,True,0.0,0.0
+50,LINGERIE,sales_lag_7,0.2839,True,0.0,0.0
+3,BABY CARE,sales_rolling_mean_7,0.2828,True,0.0,0.0
+24,MEATS,sales_rolling_mean_7,0.2828,True,0.0,0.0
+26,GROCERY I,sales_rolling_mean_7,0.2828,True,0.0,0.0
+27,SEAFOOD,sales_lag_7,0.2828,True,0.0,0.0
+31,GROCERY I,sales_lag_7,0.2828,True,0.0,0.0
+34,HOME AND KITCHEN I,sales_lag_7,0.2828,True,0.0,0.0
+35,GROCERY II,sales_rolling_mean_7,0.2828,True,0.0,0.0
+37,SEAFOOD,sales_lag_7,0.2828,True,0.0,0.0
+41,BEVERAGES,sales_rolling_mean_7,0.2828,True,0.0,0.0
+48,PREPARED FOODS,sales_rolling_mean_7,0.2828,True,0.0,0.0
+1,HOME AND KITCHEN I,sales_lag_7,0.2817,True,0.0,0.0
+2,LINGERIE,sales_rolling_mean_7,0.2817,True,0.0,0.0
+7,PRODUCE,sales_lag_7,0.2817,True,0.0,0.0
+9,PRODUCE,sales_rolling_mean_7,0.2817,True,0.0,0.0
+26,MEATS,sales_rolling_mean_7,0.2817,True,0.0,0.0
+28,BREAD/BAKERY,sales_rolling_mean_7,0.2817,True,0.0,0.0
+32,DAIRY,sales_rolling_mean_7,0.2817,True,0.0,0.0
+48,PRODUCE,sales_rolling_mean_7,0.2817,True,0.0,0.0
+49,GROCERY II,sales_lag_7,0.2817,True,0.0,0.0
+52,EGGS,sales_rolling_mean_7,0.2817,True,0.0,0.0
+52,HOME APPLIANCES,sales_lag_7,0.2817,True,0.0,0.0
+53,HARDWARE,sales_rolling_mean_7,0.2817,True,0.0,0.0
+6,PREPARED FOODS,sales_rolling_mean_7,0.2806,True,0.0,0.0
+9,PLAYERS AND ELECTRONICS,sales_lag_7,0.2806,True,0.0,0.0
+12,BEVERAGES,sales_lag_7,0.2806,True,0.0,0.0
+16,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2806,True,0.0,0.0
+20,AUTOMOTIVE,sales_rolling_mean_7,0.2806,True,0.0,0.0
+21,HOME AND KITCHEN II,sales_rolling_mean_7,0.2806,True,0.0,0.0
+24,LADIESWEAR,sales_rolling_mean_7,0.2806,True,0.0,0.0
+25,GROCERY I,sales_lag_7,0.2806,True,0.0,0.0
+25,PET SUPPLIES,sales_lag_7,0.2806,True,0.0,0.0
+27,HOME AND KITCHEN II,sales_lag_7,0.2806,True,0.0,0.0
+31,SEAFOOD,sales_rolling_mean_7,0.2806,True,0.0,0.0
+2,HOME CARE,sales_lag_7,0.2796,True,0.0,0.0
+5,CELEBRATION,sales_lag_7,0.2796,True,0.0,0.0
+27,PERSONAL CARE,sales_rolling_mean_7,0.2796,True,0.0,0.0
+28,PET SUPPLIES,sales_lag_7,0.2796,True,0.0,0.0
+31,HOME CARE,sales_lag_7,0.2796,True,0.0,0.0
+40,GROCERY II,sales_lag_7,0.2796,True,0.0,0.0
+41,"LIQUOR,WINE,BEER",sales_lag_7,0.2796,True,0.0,0.0
+45,HOME AND KITCHEN I,sales_rolling_mean_7,0.2796,True,0.0,0.0
+48,HOME APPLIANCES,sales_lag_7,0.2796,True,0.0,0.0
+49,DAIRY,sales_lag_7,0.2796,True,0.0,0.0
+50,HOME AND KITCHEN II,sales_lag_7,0.2796,True,0.0,0.0
+3,FROZEN FOODS,sales_rolling_mean_7,0.2785,True,0.0,0.0
+13,BEAUTY,sales_rolling_mean_7,0.2785,True,0.0,0.0
+18,LINGERIE,sales_rolling_mean_7,0.2785,True,0.0,0.0
+23,HOME AND KITCHEN I,sales_rolling_mean_7,0.2785,True,0.0,0.0
+24,DELI,sales_lag_7,0.2785,True,0.0,0.0
+31,CELEBRATION,sales_rolling_mean_7,0.2785,True,0.0,0.0
+34,HOME APPLIANCES,sales_lag_7,0.2785,True,0.0,0.0
+39,AUTOMOTIVE,sales_rolling_mean_7,0.2785,True,0.0,0.0
+43,CLEANING,sales_rolling_mean_7,0.2785,True,0.0,0.0
+44,HOME APPLIANCES,sales_lag_7,0.2785,True,0.0,0.0
+48,HOME AND KITCHEN I,sales_rolling_mean_7,0.2785,True,0.0,0.0
+49,PET SUPPLIES,sales_lag_7,0.2785,True,0.0,0.0
+54,HOME AND KITCHEN I,sales_lag_7,0.2785,True,0.0,0.0
+7,PERSONAL CARE,sales_lag_7,0.2774,True,0.0,0.0
+10,BEVERAGES,sales_lag_7,0.2774,True,0.0,0.0
+10,GROCERY II,sales_lag_7,0.2774,True,0.0,0.0
+13,BEVERAGES,sales_lag_7,0.2774,True,0.0,0.0
+21,DAIRY,sales_rolling_mean_7,0.2774,True,0.0,0.0
+23,PERSONAL CARE,sales_lag_7,0.2774,True,0.0,0.0
+23,PLAYERS AND ELECTRONICS,sales_lag_7,0.2774,True,0.0,0.0
+30,DAIRY,sales_rolling_mean_7,0.2774,True,0.0,0.0
+30,GROCERY II,sales_rolling_mean_7,0.2774,True,0.0,0.0
+34,POULTRY,sales_lag_7,0.2774,True,0.0,0.0
+35,PET SUPPLIES,sales_rolling_mean_7,0.2774,True,0.0,0.0
+39,DELI,sales_rolling_mean_7,0.2774,True,0.0,0.0
+45,HOME CARE,sales_lag_7,0.2774,True,0.0,0.0
+47,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2774,True,0.0,0.0
+1,CLEANING,sales_lag_7,0.2763,True,0.0,0.0
+3,HOME APPLIANCES,sales_rolling_mean_7,0.2763,True,0.0,0.0
+13,EGGS,sales_lag_7,0.2763,True,0.0,0.0
+25,BREAD/BAKERY,sales_lag_7,0.2763,True,0.0,0.0
+27,MEATS,sales_lag_7,0.2763,True,0.0,0.0
+34,HOME CARE,sales_rolling_mean_7,0.2763,True,0.0,0.0
+36,LAWN AND GARDEN,sales_rolling_mean_7,0.2763,True,0.0,0.0
+40,BREAD/BAKERY,sales_lag_7,0.2763,True,0.0,0.0
+42,PLAYERS AND ELECTRONICS,sales_lag_7,0.2763,True,0.0,0.0
+7,AUTOMOTIVE,sales_rolling_mean_7,0.2753,True,0.0,0.0
+7,LADIESWEAR,sales_rolling_mean_7,0.2753,True,0.0,0.0
+12,BREAD/BAKERY,sales_lag_7,0.2753,True,0.0,0.0
+13,GROCERY I,sales_rolling_mean_7,0.2753,True,0.0,0.0
+15,CELEBRATION,sales_lag_7,0.2753,True,0.0,0.0
+20,SEAFOOD,sales_rolling_mean_7,0.2753,True,0.0,0.0
+22,BEVERAGES,sales_rolling_mean_7,0.2753,True,0.0,0.0
+27,HARDWARE,sales_rolling_mean_7,0.2753,True,0.0,0.0
+29,HOME APPLIANCES,sales_lag_7,0.2753,True,0.0,0.0
+31,PET SUPPLIES,sales_lag_7,0.2753,True,0.0,0.0
+35,DELI,sales_rolling_mean_7,0.2753,True,0.0,0.0
+35,PRODUCE,sales_lag_7,0.2753,True,0.0,0.0
+36,BEVERAGES,sales_lag_7,0.2753,True,0.0,0.0
+37,EGGS,sales_rolling_mean_7,0.2753,True,0.0,0.0
+38,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2753,True,0.0,0.0
+42,PREPARED FOODS,sales_rolling_mean_7,0.2753,True,0.0,0.0
+43,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2753,True,0.0,0.0
+10,HOME APPLIANCES,sales_rolling_mean_7,0.2742,True,0.0,0.0
+12,EGGS,sales_lag_7,0.2742,True,0.0,0.0
+12,PRODUCE,sales_lag_7,0.2742,True,0.0,0.0
+29,POULTRY,sales_rolling_mean_7,0.2742,True,0.0,0.0
+32,HOME CARE,sales_lag_7,0.2742,True,0.0,0.0
+36,HOME CARE,sales_lag_7,0.2742,True,0.0,0.0
+36,PERSONAL CARE,sales_lag_7,0.2742,True,0.0,0.0
+38,BEAUTY,sales_lag_7,0.2742,True,0.0,0.0
+44,BEVERAGES,sales_rolling_mean_7,0.2742,True,0.0,0.0
+44,FROZEN FOODS,sales_rolling_mean_7,0.2742,True,0.0,0.0
+45,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2742,True,0.0,0.0
+51,CLEANING,sales_rolling_mean_7,0.2742,True,0.0,0.0
+52,HOME AND KITCHEN II,sales_lag_7,0.2742,True,0.0,0.0
+1,BEVERAGES,sales_lag_7,0.2731,True,0.0,0.0
+2,CLEANING,sales_lag_7,0.2731,True,0.0,0.0
+4,HOME AND KITCHEN I,sales_lag_7,0.2731,True,0.0,0.0
+9,EGGS,sales_lag_7,0.2731,True,0.0,0.0
+10,PET SUPPLIES,sales_rolling_mean_7,0.2731,True,0.0,0.0
+14,BREAD/BAKERY,sales_rolling_mean_7,0.2731,True,0.0,0.0
+14,CLEANING,sales_lag_7,0.2731,True,0.0,0.0
+15,MEATS,sales_lag_7,0.2731,True,0.0,0.0
+26,FROZEN FOODS,sales_lag_7,0.2731,True,0.0,0.0
+26,LAWN AND GARDEN,sales_rolling_mean_7,0.2731,True,0.0,0.0
+31,HOME APPLIANCES,sales_rolling_mean_7,0.2731,True,0.0,0.0
+37,AUTOMOTIVE,sales_rolling_mean_7,0.2731,True,0.0,0.0
+37,HOME AND KITCHEN II,sales_lag_7,0.2731,True,0.0,0.0
+40,FROZEN FOODS,sales_rolling_mean_7,0.2731,True,0.0,0.0
+41,PREPARED FOODS,sales_lag_7,0.2731,True,0.0,0.0
+52,"LIQUOR,WINE,BEER",sales_lag_7,0.2731,True,0.0,0.0
+53,CELEBRATION,sales_lag_7,0.2731,True,0.0,0.0
+14,PREPARED FOODS,sales_rolling_mean_7,0.272,True,0.0,0.0
+16,DELI,sales_rolling_mean_7,0.272,True,0.0,0.0
+46,HOME CARE,sales_lag_7,0.272,True,0.0,0.0
+51,MEATS,sales_rolling_mean_7,0.272,True,0.0,0.0
+52,DELI,sales_lag_7,0.272,True,0.0,0.0
+12,AUTOMOTIVE,sales_rolling_mean_7,0.271,True,0.0,0.0
+22,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.271,True,0.0,0.0
+26,CLEANING,sales_lag_7,0.271,True,0.0,0.0
+30,AUTOMOTIVE,sales_rolling_mean_7,0.271,True,0.0,0.0
+41,BEAUTY,sales_rolling_mean_7,0.271,True,0.0,0.0
+43,LINGERIE,sales_lag_7,0.271,True,0.0,0.0
+1,EGGS,sales_lag_7,0.2699,True,0.0,0.0
+3,CLEANING,sales_lag_7,0.2699,True,0.0,0.0
+15,LINGERIE,sales_lag_7,0.2699,True,0.0,0.0
+21,POULTRY,sales_rolling_mean_7,0.2699,True,0.0,0.0
+26,HOME AND KITCHEN I,sales_lag_7,0.2699,True,0.0,0.0
+28,POULTRY,sales_rolling_mean_7,0.2699,True,0.0,0.0
+37,BREAD/BAKERY,sales_lag_7,0.2699,True,0.0,0.0
+46,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2699,True,0.0,0.0
+47,AUTOMOTIVE,sales_rolling_mean_7,0.2699,True,0.0,0.0
+1,FROZEN FOODS,sales_lag_7,0.2688,True,0.0,0.0
+8,LINGERIE,sales_rolling_mean_7,0.2688,True,0.0,0.0
+32,MEATS,sales_rolling_mean_7,0.2688,True,0.0,0.0
+36,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2688,True,0.0,0.0
+37,BEVERAGES,sales_rolling_mean_7,0.2688,True,0.0,0.0
+43,AUTOMOTIVE,sales_rolling_mean_7,0.2688,True,0.0,0.0
+51,PET SUPPLIES,sales_rolling_mean_7,0.2688,True,0.0,0.0
+3,CLEANING,sales_rolling_mean_7,0.2677,True,0.0,0.0
+7,HOME CARE,sales_lag_7,0.2677,True,0.0,0.0
+8,HOME AND KITCHEN I,sales_rolling_mean_7,0.2677,True,0.0,0.0
+12,HOME CARE,sales_rolling_mean_7,0.2677,True,0.0,0.0
+23,SEAFOOD,sales_lag_7,0.2677,True,0.0,0.0
+11,BEAUTY,sales_rolling_mean_7,0.2667,True,0.0,0.0
+21,DELI,sales_rolling_mean_7,0.2667,True,0.0,0.0
+32,GROCERY I,sales_rolling_mean_7,0.2667,True,0.0,0.0
+32,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2667,True,0.0,0.0
+32,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2667,True,0.0,0.0
+36,LINGERIE,sales_rolling_mean_7,0.2667,True,0.0,0.0
+42,DELI,sales_rolling_mean_7,0.2667,True,0.0,0.0
+2,CLEANING,sales_rolling_mean_7,0.2581,True,0.0,0.0
+3,MAGAZINES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+4,MAGAZINES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+13,BREAD/BAKERY,sales_rolling_mean_7,0.2581,True,0.0,0.0
+23,MAGAZINES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+29,BREAD/BAKERY,sales_rolling_mean_7,0.2581,True,0.0,0.0
+30,MAGAZINES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+33,FROZEN FOODS,sales_lag_7,0.2581,True,0.0,0.0
+33,POULTRY,sales_rolling_mean_7,0.2581,True,0.0,0.0
+39,HOME CARE,sales_rolling_mean_7,0.2581,True,0.0,0.0
+44,MAGAZINES,sales_lag_7,0.2581,True,0.0,0.0
+46,DAIRY,sales_rolling_mean_7,0.2581,True,0.0,0.0
+51,LADIESWEAR,sales_rolling_mean_7,0.2581,True,0.0,0.0
+51,MAGAZINES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+53,HOME APPLIANCES,sales_rolling_mean_7,0.2581,True,0.0,0.0
+5,DELI,sales_rolling_mean_7,0.257,True,0.0,0.0
+16,DAIRY,sales_rolling_mean_7,0.257,True,0.0,0.0
+28,MEATS,sales_rolling_mean_7,0.257,True,0.0,0.0
+30,EGGS,sales_rolling_mean_7,0.257,True,0.0,0.0
+31,POULTRY,sales_rolling_mean_7,0.257,True,0.0,0.0
+33,BEAUTY,sales_lag_7,0.257,True,0.0,0.0
+37,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.257,True,0.0,0.0
+38,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.257,True,0.0,0.0
+40,LAWN AND GARDEN,sales_lag_7,0.257,True,0.0,0.0
+48,CELEBRATION,sales_rolling_mean_7,0.257,True,0.0,0.0
+49,POULTRY,sales_rolling_mean_7,0.257,True,0.0,0.0
+52,GROCERY II,sales_lag_7,0.257,True,0.0,0.0
+6,SEAFOOD,sales_rolling_mean_7,0.2559,True,0.0,0.0
+9,BABY CARE,sales_rolling_mean_7,0.2559,True,0.0,0.0
+13,PREPARED FOODS,sales_rolling_mean_7,0.2559,True,0.0,0.0
+13,SEAFOOD,sales_lag_7,0.2559,True,0.0,0.0
+14,PET SUPPLIES,sales_rolling_mean_7,0.2559,True,0.0,0.0
+18,PLAYERS AND ELECTRONICS,sales_lag_7,0.2559,True,0.0,0.0
+24,HOME CARE,sales_lag_7,0.2559,True,0.0,0.0
+28,GROCERY II,sales_rolling_mean_7,0.2559,True,0.0,0.0
+38,HARDWARE,sales_rolling_mean_7,0.2559,True,0.0,0.0
+43,LAWN AND GARDEN,sales_lag_7,0.2559,True,0.0,0.0
+43,MAGAZINES,sales_rolling_mean_7,0.2559,True,0.0,0.0
+1,LAWN AND GARDEN,sales_rolling_mean_7,0.2548,True,0.0,0.0
+7,MAGAZINES,sales_rolling_mean_7,0.2548,True,0.0,0.0
+39,HARDWARE,sales_rolling_mean_7,0.2548,True,0.0,0.0
+42,HOME APPLIANCES,sales_lag_7,0.2548,True,0.0,0.0
+44,CLEANING,sales_lag_7,0.2548,True,0.0,0.0
+52,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2548,True,0.0,0.0
+53,CELEBRATION,sales_rolling_mean_7,0.2548,True,0.0,0.0
+53,HOME AND KITCHEN II,sales_rolling_mean_7,0.2548,True,0.0,0.0
+12,PERSONAL CARE,sales_lag_7,0.2538,True,0.0,0.0
+12,PLAYERS AND ELECTRONICS,sales_lag_7,0.2538,True,0.0,0.0
+15,BABY CARE,sales_lag_7,0.2538,True,0.0,0.0
+17,BEVERAGES,sales_lag_7,0.2538,True,0.0,0.0
+21,CLEANING,sales_lag_7,0.2538,True,0.0,0.0
+23,HOME CARE,sales_lag_7,0.2538,True,0.0,0.0
+24,BEAUTY,sales_rolling_mean_7,0.2538,True,0.0,0.0
+25,CELEBRATION,sales_lag_7,0.2538,True,0.0,0.0
+37,FROZEN FOODS,sales_lag_7,0.2538,True,0.0,0.0
+41,LADIESWEAR,sales_rolling_mean_7,0.2538,True,0.0,0.0
+44,LINGERIE,sales_rolling_mean_7,0.2538,True,0.0,0.0
+49,LADIESWEAR,sales_rolling_mean_7,0.2538,True,0.0,0.0
+2,SEAFOOD,sales_rolling_mean_7,0.2527,True,0.0,0.0
+5,BREAD/BAKERY,sales_lag_7,0.2527,True,0.0,0.0
+6,LADIESWEAR,sales_rolling_mean_7,0.2527,True,0.0,0.0
+9,SEAFOOD,sales_lag_7,0.2527,True,0.0,0.0
+10,PERSONAL CARE,sales_rolling_mean_7,0.2527,True,0.0,0.0
+11,FROZEN FOODS,sales_rolling_mean_7,0.2527,True,0.0,0.0
+15,CLEANING,sales_rolling_mean_7,0.2527,True,0.0,0.0
+15,PRODUCE,sales_lag_7,0.2527,True,0.0,0.0
+15,SEAFOOD,sales_lag_7,0.2527,True,0.0,0.0
+16,GROCERY II,sales_lag_7,0.2527,True,0.0,0.0
+19,HOME APPLIANCES,sales_rolling_mean_7,0.2527,True,0.0,0.0
+19,"LIQUOR,WINE,BEER",sales_lag_7,0.2527,True,0.0,0.0
+22,HOME CARE,sales_lag_7,0.2527,True,0.0,0.0
+33,BEVERAGES,sales_lag_7,0.2527,True,0.0,0.0
+44,POULTRY,sales_rolling_mean_7,0.2527,True,0.0,0.0
+46,HOME AND KITCHEN I,sales_rolling_mean_7,0.2527,True,0.0,0.0
+47,BREAD/BAKERY,sales_lag_7,0.2527,True,0.0,0.0
+5,LADIESWEAR,sales_lag_7,0.2516,True,0.0,0.0
+8,PERSONAL CARE,sales_lag_7,0.2516,True,0.0,0.0
+9,HOME AND KITCHEN II,sales_lag_7,0.2516,True,0.0,0.0
+14,HOME AND KITCHEN II,sales_rolling_mean_7,0.2516,True,0.0,0.0
+17,PLAYERS AND ELECTRONICS,sales_lag_7,0.2516,True,0.0,0.0
+17,SEAFOOD,sales_lag_7,0.2516,True,0.0,0.0
+19,LINGERIE,sales_lag_7,0.2516,True,0.0,0.0
+19,PRODUCE,sales_lag_7,0.2516,True,0.0,0.0
+23,CLEANING,sales_lag_7,0.2516,True,0.0,0.0
+28,LAWN AND GARDEN,sales_rolling_mean_7,0.2516,True,0.0,0.0
+31,CELEBRATION,sales_lag_7,0.2516,True,0.0,0.0
+33,LINGERIE,sales_lag_7,0.2516,True,0.0,0.0
+36,MAGAZINES,sales_lag_7,0.2516,True,0.0,0.0
+9,CELEBRATION,sales_lag_7,0.2505,True,0.0,0.0
+9,MEATS,sales_rolling_mean_7,0.2505,True,0.0,0.0
+11,PERSONAL CARE,sales_lag_7,0.2505,True,0.0,0.0
+18,HOME CARE,sales_lag_7,0.2505,True,0.0,0.0
+33,EGGS,sales_lag_7,0.2505,True,0.0,0.0
+35,BEVERAGES,sales_lag_7,0.2505,True,0.0,0.0
+40,HOME AND KITCHEN I,sales_rolling_mean_7,0.2505,True,0.0,0.0
+49,HOME AND KITCHEN I,sales_rolling_mean_7,0.2505,True,0.0,0.0
+3,EGGS,sales_lag_7,0.2495,True,0.0,0.0
+9,FROZEN FOODS,sales_lag_7,0.2495,True,0.0,0.0
+12,HOME AND KITCHEN I,sales_lag_7,0.2495,True,0.0,0.0
+18,AUTOMOTIVE,sales_rolling_mean_7,0.2495,True,0.0,0.0
+19,DAIRY,sales_lag_7,0.2495,True,0.0,0.0
+28,HOME CARE,sales_lag_7,0.2495,True,0.0,0.0
+30,CLEANING,sales_lag_7,0.2495,True,0.0,0.0
+38,EGGS,sales_lag_7,0.2495,True,0.0,0.0
+38,LADIESWEAR,sales_rolling_mean_7,0.2495,True,0.0,0.0
+38,PREPARED FOODS,sales_lag_7,0.2495,True,0.0,0.0
+42,HARDWARE,sales_rolling_mean_7,0.2495,True,0.0,0.0
+42,PET SUPPLIES,sales_lag_7,0.2495,True,0.0,0.0
+44,GROCERY II,sales_rolling_mean_7,0.2495,True,0.0,0.0
+44,LINGERIE,sales_lag_7,0.2495,True,0.0,0.0
+45,PET SUPPLIES,sales_lag_7,0.2495,True,0.0,0.0
+53,DELI,sales_lag_7,0.2495,True,0.0,0.0
+2,EGGS,sales_lag_7,0.2484,True,0.0,0.0
+7,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2484,True,0.0,0.0
+9,HARDWARE,sales_rolling_mean_7,0.2484,True,0.0,0.0
+11,DELI,sales_lag_7,0.2484,True,0.0,0.0
+23,BREAD/BAKERY,sales_lag_7,0.2484,True,0.0,0.0
+24,BREAD/BAKERY,sales_lag_7,0.2484,True,0.0,0.0
+26,POULTRY,sales_rolling_mean_7,0.2484,True,0.0,0.0
+29,PERSONAL CARE,sales_lag_7,0.2484,True,0.0,0.0
+35,CELEBRATION,sales_lag_7,0.2484,True,0.0,0.0
+36,HOME AND KITCHEN II,sales_lag_7,0.2484,True,0.0,0.0
+37,PET SUPPLIES,sales_rolling_mean_7,0.2484,True,0.0,0.0
+39,BREAD/BAKERY,sales_lag_7,0.2484,True,0.0,0.0
+41,PET SUPPLIES,sales_lag_7,0.2484,True,0.0,0.0
+42,BEAUTY,sales_lag_7,0.2484,True,0.0,0.0
+46,PET SUPPLIES,sales_lag_7,0.2484,True,0.0,0.0
+1,HOME CARE,sales_lag_7,0.2473,True,0.0,0.0
+4,GROCERY II,sales_rolling_mean_7,0.2473,True,0.0,0.0
+7,BEAUTY,sales_lag_7,0.2473,True,0.0,0.0
+8,BABY CARE,sales_rolling_mean_7,0.2473,True,0.0,0.0
+13,DAIRY,sales_lag_7,0.2473,True,0.0,0.0
+36,DELI,sales_rolling_mean_7,0.2473,True,0.0,0.0
+40,SEAFOOD,sales_lag_7,0.2473,True,0.0,0.0
+53,HOME AND KITCHEN I,sales_lag_7,0.2473,True,0.0,0.0
+54,MEATS,sales_lag_7,0.2473,True,0.0,0.0
+9,HOME CARE,sales_lag_7,0.2462,True,0.0,0.0
+10,CLEANING,sales_rolling_mean_7,0.2462,True,0.0,0.0
+22,GROCERY I,sales_rolling_mean_7,0.2462,True,0.0,0.0
+24,GROCERY II,sales_rolling_mean_7,0.2462,True,0.0,0.0
+29,HOME CARE,sales_lag_7,0.2462,True,0.0,0.0
+30,MAGAZINES,sales_lag_7,0.2462,True,0.0,0.0
+32,HOME AND KITCHEN II,sales_lag_7,0.2462,True,0.0,0.0
+37,HOME AND KITCHEN I,sales_lag_7,0.2462,True,0.0,0.0
+45,PERSONAL CARE,sales_rolling_mean_7,0.2462,True,0.0,0.0
+51,PREPARED FOODS,sales_lag_7,0.2462,True,0.0,0.0
+52,GROCERY I,sales_lag_7,0.2462,True,0.0,0.0
+1,AUTOMOTIVE,sales_lag_7,0.2452,True,0.0,0.0
+4,EGGS,sales_lag_7,0.2452,True,0.0,0.0
+4,MEATS,sales_lag_7,0.2452,True,0.0,0.0
+5,DELI,sales_lag_7,0.2452,True,0.0,0.0
+6,PERSONAL CARE,sales_lag_7,0.2452,True,0.0,0.0
+13,GROCERY I,sales_lag_7,0.2452,True,0.0,0.0
+14,CLEANING,sales_rolling_mean_7,0.2452,True,0.0,0.0
+26,PERSONAL CARE,sales_rolling_mean_7,0.2452,True,0.0,0.0
+28,BEAUTY,sales_rolling_mean_7,0.2452,True,0.0,0.0
+29,PET SUPPLIES,sales_lag_7,0.2452,True,0.0,0.0
+48,EGGS,sales_lag_7,0.2452,True,0.0,0.0
+50,AUTOMOTIVE,sales_lag_7,0.2452,True,0.0,0.0
+3,LADIESWEAR,sales_lag_7,0.2441,True,0.0,0.0
+4,HOME APPLIANCES,sales_rolling_mean_7,0.2441,True,0.0,0.0
+5,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2441,True,0.0,0.0
+10,HOME AND KITCHEN II,sales_rolling_mean_7,0.2441,True,0.0,0.0
+15,AUTOMOTIVE,sales_rolling_mean_7,0.2441,True,0.0,0.0
+23,PREPARED FOODS,sales_lag_7,0.2441,True,0.0,0.0
+27,CELEBRATION,sales_rolling_mean_7,0.2441,True,0.0,0.0
+32,"LIQUOR,WINE,BEER",sales_lag_7,0.2441,True,0.0,0.0
+34,PERSONAL CARE,sales_lag_7,0.2441,True,0.0,0.0
+37,CLEANING,sales_lag_7,0.2441,True,0.0,0.0
+40,BABY CARE,sales_rolling_mean_7,0.2441,True,0.0,0.0
+40,HOME CARE,sales_lag_7,0.2441,True,0.0,0.0
+41,HOME AND KITCHEN I,sales_lag_7,0.2441,True,0.0,0.0
+42,DAIRY,sales_lag_7,0.2441,True,0.0,0.0
+44,HOME AND KITCHEN II,sales_rolling_mean_7,0.2441,True,0.0,0.0
+52,SEAFOOD,sales_lag_7,0.2441,True,0.0,0.0
+1,GROCERY I,sales_lag_7,0.243,True,0.0,0.0
+1,MEATS,sales_lag_7,0.243,True,0.0,0.0
+3,HOME AND KITCHEN II,sales_lag_7,0.243,True,0.0,0.0
+4,LAWN AND GARDEN,sales_lag_7,0.243,True,0.0,0.0
+4,POULTRY,sales_rolling_mean_7,0.243,True,0.0,0.0
+6,CELEBRATION,sales_lag_7,0.243,True,0.0,0.0
+6,MAGAZINES,sales_lag_7,0.243,True,0.0,0.0
+6,MEATS,sales_lag_7,0.243,True,0.0,0.0
+16,LINGERIE,sales_lag_7,0.243,True,0.0,0.0
+21,GROCERY II,sales_lag_7,0.243,True,0.0,0.0
+24,MEATS,sales_lag_7,0.243,True,0.0,0.0
+31,HOME AND KITCHEN I,sales_lag_7,0.243,True,0.0,0.0
+37,DAIRY,sales_lag_7,0.243,True,0.0,0.0
+38,GROCERY I,sales_rolling_mean_7,0.243,True,0.0,0.0
+40,PERSONAL CARE,sales_lag_7,0.243,True,0.0,0.0
+41,HOME APPLIANCES,sales_lag_7,0.243,True,0.0,0.0
+47,POULTRY,sales_lag_7,0.243,True,0.0,0.0
+48,MAGAZINES,sales_lag_7,0.243,True,0.0,0.0
+50,BREAD/BAKERY,sales_lag_7,0.243,True,0.0,0.0
+52,BREAD/BAKERY,sales_lag_7,0.243,True,0.0,0.0
+1,PERSONAL CARE,sales_lag_7,0.2419,True,0.0,0.0
+2,PET SUPPLIES,sales_lag_7,0.2419,True,0.0,0.0
+8,HOME APPLIANCES,sales_lag_7,0.2419,True,0.0,0.0
+11,BABY CARE,sales_lag_7,0.2419,True,0.0,0.0
+12,HOME AND KITCHEN II,sales_lag_7,0.2419,True,0.0,0.0
+22,AUTOMOTIVE,sales_lag_7,0.2419,True,0.0,0.0
+25,AUTOMOTIVE,sales_lag_7,0.2419,True,0.0,0.0
+25,LAWN AND GARDEN,sales_lag_7,0.2419,True,0.0,0.0
+25,LINGERIE,sales_lag_7,0.2419,True,0.0,0.0
+29,MAGAZINES,sales_lag_7,0.2419,True,0.0,0.0
+31,MAGAZINES,sales_rolling_mean_7,0.2419,True,0.0,0.0
+32,BREAD/BAKERY,sales_lag_7,0.2419,True,0.0,0.0
+33,PREPARED FOODS,sales_rolling_mean_7,0.2419,True,0.0,0.0
+42,FROZEN FOODS,sales_lag_7,0.2419,True,0.0,0.0
+43,HOME AND KITCHEN I,sales_rolling_mean_7,0.2419,True,0.0,0.0
+47,DELI,sales_rolling_mean_7,0.2419,True,0.0,0.0
+1,HARDWARE,sales_lag_7,0.2409,True,0.0,0.0
+20,CLEANING,sales_lag_7,0.2409,True,0.0,0.0
+25,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2409,True,0.0,0.0
+26,HARDWARE,sales_rolling_mean_7,0.2409,True,0.0,0.0
+36,BABY CARE,sales_rolling_mean_7,0.2409,True,0.0,0.0
+37,PERSONAL CARE,sales_rolling_mean_7,0.2409,True,0.0,0.0
+38,"LIQUOR,WINE,BEER",sales_lag_7,0.2409,True,0.0,0.0
+40,PRODUCE,sales_lag_7,0.2409,True,0.0,0.0
+47,HOME AND KITCHEN I,sales_lag_7,0.2409,True,0.0,0.0
+48,HARDWARE,sales_rolling_mean_7,0.2409,True,0.0,0.0
+53,LADIESWEAR,sales_lag_7,0.2409,True,0.0,0.0
+1,PREPARED FOODS,sales_rolling_mean_7,0.2398,True,0.0,0.0
+14,BEAUTY,sales_lag_7,0.2398,True,0.0,0.0
+14,BEVERAGES,sales_rolling_mean_7,0.2398,True,0.0,0.0
+18,PET SUPPLIES,sales_lag_7,0.2398,True,0.0,0.0
+24,HOME AND KITCHEN I,sales_rolling_mean_7,0.2398,True,0.0,0.0
+25,CLEANING,sales_lag_7,0.2398,True,0.0,0.0
+35,HOME AND KITCHEN II,sales_lag_7,0.2398,True,0.0,0.0
+35,MEATS,sales_rolling_mean_7,0.2398,True,0.0,0.0
+35,SEAFOOD,sales_lag_7,0.2398,True,0.0,0.0
+42,LAWN AND GARDEN,sales_lag_7,0.2398,True,0.0,0.0
+44,LAWN AND GARDEN,sales_lag_7,0.2398,True,0.0,0.0
+47,HOME AND KITCHEN II,sales_lag_7,0.2398,True,0.0,0.0
+50,GROCERY I,sales_lag_7,0.2398,True,0.0,0.0
+51,HOME AND KITCHEN II,sales_lag_7,0.2398,True,0.0,0.0
+1,MAGAZINES,sales_rolling_mean_7,0.2387,True,0.0,0.0
+2,LAWN AND GARDEN,sales_rolling_mean_7,0.2387,True,0.0,0.0
+4,LINGERIE,sales_lag_7,0.2387,True,0.0,0.0
+10,EGGS,sales_rolling_mean_7,0.2387,True,0.0,0.0
+10,PRODUCE,sales_lag_7,0.2387,True,0.0,0.0
+11,"LIQUOR,WINE,BEER",sales_lag_7,0.2387,True,0.0,0.0
+26,LADIESWEAR,sales_lag_7,0.2387,True,0.0,0.0
+30,GROCERY I,sales_rolling_mean_7,0.2387,True,0.0,0.0
+36,PREPARED FOODS,sales_lag_7,0.2387,True,0.0,0.0
+45,HARDWARE,sales_rolling_mean_7,0.2387,True,0.0,0.0
+52,POULTRY,sales_lag_7,0.2387,True,0.0,0.0
+2,BEAUTY,sales_rolling_mean_7,0.2376,True,0.0,0.0
+2,CELEBRATION,sales_lag_7,0.2376,True,0.0,0.0
+6,HOME AND KITCHEN I,sales_rolling_mean_7,0.2376,True,0.0,0.0
+13,HOME AND KITCHEN I,sales_rolling_mean_7,0.2376,True,0.0,0.0
+17,HOME AND KITCHEN I,sales_lag_7,0.2376,True,0.0,0.0
+21,HOME AND KITCHEN I,sales_rolling_mean_7,0.2376,True,0.0,0.0
+24,HOME AND KITCHEN I,sales_lag_7,0.2376,True,0.0,0.0
+32,DAIRY,sales_lag_7,0.2376,True,0.0,0.0
+34,CLEANING,sales_rolling_mean_7,0.2376,True,0.0,0.0
+38,HOME AND KITCHEN I,sales_lag_7,0.2376,True,0.0,0.0
+54,HOME CARE,sales_lag_7,0.2376,True,0.0,0.0
+2,BEVERAGES,sales_rolling_mean_7,0.2366,True,0.0,0.0
+5,FROZEN FOODS,sales_lag_7,0.2366,True,0.0,0.0
+6,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2366,True,0.0,0.0
+25,HARDWARE,sales_rolling_mean_7,0.2366,True,0.0,0.0
+26,HOME CARE,sales_lag_7,0.2366,True,0.0,0.0
+28,PET SUPPLIES,sales_rolling_mean_7,0.2366,True,0.0,0.0
+29,PET SUPPLIES,sales_rolling_mean_7,0.2366,True,0.0,0.0
+34,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2366,True,0.0,0.0
+37,MEATS,sales_lag_7,0.2366,True,0.0,0.0
+53,POULTRY,sales_rolling_mean_7,0.2366,True,0.0,0.0
+1,BEAUTY,sales_lag_7,0.2355,True,0.0,0.0
+6,POULTRY,sales_lag_7,0.2355,True,0.0,0.0
+7,BOOKS,sales_rolling_mean_7,0.2355,True,0.0,0.0
+8,CELEBRATION,sales_rolling_mean_7,0.2355,True,0.0,0.0
+8,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2355,True,0.0,0.0
+18,"LIQUOR,WINE,BEER",sales_lag_7,0.2355,True,0.0,0.0
+26,MAGAZINES,sales_rolling_mean_7,0.2355,True,0.0,0.0
+29,LAWN AND GARDEN,sales_lag_7,0.2355,True,0.0,0.0
+34,HOME CARE,sales_lag_7,0.2355,True,0.0,0.0
+34,PREPARED FOODS,sales_rolling_mean_7,0.2355,True,0.0,0.0
+48,MAGAZINES,sales_rolling_mean_7,0.2355,True,0.0,0.0
+10,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2344,True,0.0,0.0
+20,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2344,True,0.0,0.0
+26,BEVERAGES,sales_rolling_mean_7,0.2344,True,0.0,0.0
+34,HARDWARE,sales_lag_7,0.2344,True,0.0,0.0
+44,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2344,True,0.0,0.0
+49,BOOKS,sales_rolling_mean_7,0.2344,True,0.0,0.0
+50,LAWN AND GARDEN,sales_lag_7,0.2344,True,0.0,0.0
+1,CELEBRATION,sales_rolling_mean_7,0.2333,True,0.0,0.0
+3,BOOKS,sales_lag_7,0.2333,True,0.0,0.0
+3,LAWN AND GARDEN,sales_rolling_mean_7,0.2333,True,0.0,0.0
+4,HOME AND KITCHEN II,sales_rolling_mean_7,0.2333,True,0.0,0.0
+5,HARDWARE,sales_rolling_mean_7,0.2333,True,0.0,0.0
+7,"LIQUOR,WINE,BEER",sales_lag_7,0.2333,True,0.0,0.0
+10,LADIESWEAR,sales_rolling_mean_7,0.2333,True,0.0,0.0
+12,HOME APPLIANCES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+13,HARDWARE,sales_rolling_mean_7,0.2333,True,0.0,0.0
+15,BEVERAGES,sales_lag_7,0.2333,True,0.0,0.0
+20,DELI,sales_rolling_mean_7,0.2333,True,0.0,0.0
+24,LAWN AND GARDEN,sales_rolling_mean_7,0.2333,True,0.0,0.0
+28,PREPARED FOODS,sales_rolling_mean_7,0.2333,True,0.0,0.0
+30,HOME AND KITCHEN I,sales_lag_7,0.2333,True,0.0,0.0
+30,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+31,EGGS,sales_rolling_mean_7,0.2333,True,0.0,0.0
+32,FROZEN FOODS,sales_rolling_mean_7,0.2333,True,0.0,0.0
+33,HOME AND KITCHEN I,sales_lag_7,0.2333,True,0.0,0.0
+35,HOME CARE,sales_rolling_mean_7,0.2333,True,0.0,0.0
+35,MAGAZINES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+38,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+41,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+42,PERSONAL CARE,sales_rolling_mean_7,0.2333,True,0.0,0.0
+47,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2333,True,0.0,0.0
+48,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2333,True,0.0,0.0
+49,LAWN AND GARDEN,sales_rolling_mean_7,0.2333,True,0.0,0.0
+50,BEVERAGES,sales_rolling_mean_7,0.2333,True,0.0,0.0
+3,HARDWARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+6,BABY CARE,sales_lag_7,0.2258,True,0.0,0.0
+8,BOOKS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+9,HOME CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+14,BEAUTY,sales_rolling_mean_7,0.2258,True,0.0,0.0
+15,HOME CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+16,SEAFOOD,sales_rolling_mean_7,0.2258,True,0.0,0.0
+18,BABY CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+19,BABY CARE,sales_lag_7,0.2258,True,0.0,0.0
+19,SEAFOOD,sales_rolling_mean_7,0.2258,True,0.0,0.0
+24,MAGAZINES,sales_rolling_mean_7,0.2258,True,0.0,0.0
+24,PREPARED FOODS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+28,BABY CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+28,PRODUCE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+29,DAIRY,sales_rolling_mean_7,0.2258,True,0.0,0.0
+31,HOME CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+32,BEVERAGES,sales_rolling_mean_7,0.2258,True,0.0,0.0
+32,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+33,EGGS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+35,BABY CARE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+38,BEVERAGES,sales_rolling_mean_7,0.2258,True,0.0,0.0
+38,BOOKS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+40,DELI,sales_rolling_mean_7,0.2258,True,0.0,0.0
+40,MEATS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+45,BOOKS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+46,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+50,EGGS,sales_rolling_mean_7,0.2258,True,0.0,0.0
+52,LINGERIE,sales_rolling_mean_7,0.2258,True,0.0,0.0
+53,BABY CARE,sales_lag_7,0.2258,True,0.0,0.0
+54,POULTRY,sales_rolling_mean_7,0.2258,True,0.0,0.0
+2,LAWN AND GARDEN,sales_lag_7,0.2247,True,0.0,0.0
+10,CELEBRATION,sales_rolling_mean_7,0.2247,True,0.0,0.0
+14,PERSONAL CARE,sales_rolling_mean_7,0.2247,True,0.0,0.0
+14,POULTRY,sales_rolling_mean_7,0.2247,True,0.0,0.0
+18,MEATS,sales_rolling_mean_7,0.2247,True,0.0,0.0
+19,HOME AND KITCHEN II,sales_rolling_mean_7,0.2247,True,0.0,0.0
+22,SEAFOOD,sales_rolling_mean_7,0.2247,True,0.0,0.0
+31,DELI,sales_rolling_mean_7,0.2247,True,0.0,0.0
+34,DELI,sales_rolling_mean_7,0.2247,True,0.0,0.0
+38,CELEBRATION,sales_lag_7,0.2247,True,0.0,0.0
+40,AUTOMOTIVE,sales_lag_7,0.2247,True,0.0,0.0
+42,LINGERIE,sales_lag_7,0.2247,True,0.0,0.0
+47,CLEANING,sales_lag_7,0.2247,True,0.0,0.0
+53,MEATS,sales_rolling_mean_7,0.2247,True,0.0,0.0
+21,MAGAZINES,sales_lag_7,0.2237,True,0.0,0.0
+30,PLAYERS AND ELECTRONICS,sales_lag_7,0.2237,True,0.0,0.0
+34,BABY CARE,sales_lag_7,0.2237,True,0.0,0.0
+36,HARDWARE,sales_rolling_mean_7,0.2237,True,0.0,0.0
+39,BEAUTY,sales_rolling_mean_7,0.2237,True,0.0,0.0
+40,PERSONAL CARE,sales_rolling_mean_7,0.2237,True,0.0,0.0
+1,MEATS,sales_rolling_mean_7,0.2226,True,0.0,0.0
+10,AUTOMOTIVE,sales_lag_7,0.2226,True,0.0,0.0
+12,DAIRY,sales_lag_7,0.2226,True,0.0,0.0
+17,MEATS,sales_rolling_mean_7,0.2226,True,0.0,0.0
+20,HOME AND KITCHEN II,sales_lag_7,0.2226,True,0.0,0.0
+23,DAIRY,sales_lag_7,0.2226,True,0.0,0.0
+34,EGGS,sales_lag_7,0.2226,True,0.0,0.0
+34,PET SUPPLIES,sales_rolling_mean_7,0.2226,True,0.0,0.0
+38,DELI,sales_rolling_mean_7,0.2226,True,0.0,0.0
+39,HOME AND KITCHEN II,sales_lag_7,0.2226,True,0.0,0.0
+40,PLAYERS AND ELECTRONICS,sales_lag_7,0.2226,True,0.0,0.0
+53,PERSONAL CARE,sales_lag_7,0.2226,True,0.0,0.0
+5,BEVERAGES,sales_lag_7,0.2215,True,0.0,0.0
+11,SEAFOOD,sales_lag_7,0.2215,True,0.0,0.0
+27,BEVERAGES,sales_lag_7,0.2215,True,0.0,0.0
+34,MEATS,sales_lag_7,0.2215,True,0.0,0.0
+37,LINGERIE,sales_rolling_mean_7,0.2215,True,0.0,0.0
+43,GROCERY I,sales_lag_7,0.2215,True,0.0,0.0
+46,AUTOMOTIVE,sales_lag_7,0.2215,True,0.0,0.0
+2,AUTOMOTIVE,sales_rolling_mean_7,0.2204,True,0.0,0.0
+3,PREPARED FOODS,sales_rolling_mean_7,0.2204,True,0.0,0.0
+6,BREAD/BAKERY,sales_lag_7,0.2204,True,0.0,0.0
+9,PREPARED FOODS,sales_lag_7,0.2204,True,0.0,0.0
+14,DAIRY,sales_lag_7,0.2204,True,0.0,0.0
+16,BEAUTY,sales_lag_7,0.2204,True,0.0,0.0
+16,PLAYERS AND ELECTRONICS,sales_lag_7,0.2204,True,0.0,0.0
+17,PRODUCE,sales_rolling_mean_7,0.2204,True,0.0,0.0
+18,FROZEN FOODS,sales_rolling_mean_7,0.2204,True,0.0,0.0
+22,CELEBRATION,sales_lag_7,0.2204,True,0.0,0.0
+23,BEAUTY,sales_rolling_mean_7,0.2204,True,0.0,0.0
+27,BABY CARE,sales_rolling_mean_7,0.2204,True,0.0,0.0
+27,PERSONAL CARE,sales_lag_7,0.2204,True,0.0,0.0
+29,MEATS,sales_lag_7,0.2204,True,0.0,0.0
+30,CELEBRATION,sales_lag_7,0.2204,True,0.0,0.0
+31,BEVERAGES,sales_lag_7,0.2204,True,0.0,0.0
+35,DAIRY,sales_lag_7,0.2204,True,0.0,0.0
+39,LAWN AND GARDEN,sales_rolling_mean_7,0.2204,True,0.0,0.0
+43,PREPARED FOODS,sales_lag_7,0.2204,True,0.0,0.0
+45,BREAD/BAKERY,sales_lag_7,0.2204,True,0.0,0.0
+45,MAGAZINES,sales_lag_7,0.2204,True,0.0,0.0
+46,DAIRY,sales_lag_7,0.2204,True,0.0,0.0
+1,BREAD/BAKERY,sales_lag_7,0.2194,True,0.0,0.0
+10,CLEANING,sales_lag_7,0.2194,True,0.0,0.0
+11,CLEANING,sales_lag_7,0.2194,True,0.0,0.0
+21,HOME APPLIANCES,sales_lag_7,0.2194,True,0.0,0.0
+21,HOME CARE,sales_lag_7,0.2194,True,0.0,0.0
+24,CLEANING,sales_rolling_mean_7,0.2194,True,0.0,0.0
+31,LAWN AND GARDEN,sales_lag_7,0.2194,True,0.0,0.0
+32,GROCERY I,sales_lag_7,0.2194,True,0.0,0.0
+36,GROCERY II,sales_lag_7,0.2194,True,0.0,0.0
+45,MEATS,sales_rolling_mean_7,0.2194,True,0.0,0.0
+4,BEVERAGES,sales_lag_7,0.2183,True,0.0,0.0
+7,HOME APPLIANCES,sales_rolling_mean_7,0.2183,True,0.0,0.0
+18,EGGS,sales_rolling_mean_7,0.2183,True,0.0,0.0
+21,GROCERY II,sales_rolling_mean_7,0.2183,True,0.0,0.0
+28,EGGS,sales_lag_7,0.2183,True,0.0,0.0
+34,LINGERIE,sales_lag_7,0.2183,True,0.0,0.0
+35,GROCERY II,sales_lag_7,0.2183,True,0.0,0.0
+39,DELI,sales_lag_7,0.2183,True,0.0,0.0
+39,MEATS,sales_rolling_mean_7,0.2183,True,0.0,0.0
+42,HOME APPLIANCES,sales_rolling_mean_7,0.2183,True,0.0,0.0
+6,MEATS,sales_rolling_mean_7,0.2172,True,0.0,0.0
+9,"LIQUOR,WINE,BEER",sales_lag_7,0.2172,True,0.0,0.0
+14,MEATS,sales_lag_7,0.2172,True,0.0,0.0
+15,EGGS,sales_lag_7,0.2172,True,0.0,0.0
+21,EGGS,sales_lag_7,0.2172,True,0.0,0.0
+23,GROCERY I,sales_lag_7,0.2172,True,0.0,0.0
+24,CELEBRATION,sales_rolling_mean_7,0.2172,True,0.0,0.0
+26,BEVERAGES,sales_lag_7,0.2172,True,0.0,0.0
+28,PERSONAL CARE,sales_lag_7,0.2172,True,0.0,0.0
+31,GROCERY II,sales_lag_7,0.2172,True,0.0,0.0
+39,PET SUPPLIES,sales_rolling_mean_7,0.2172,True,0.0,0.0
+42,GROCERY I,sales_lag_7,0.2172,True,0.0,0.0
+42,PRODUCE,sales_lag_7,0.2172,True,0.0,0.0
+1,"LIQUOR,WINE,BEER",sales_lag_7,0.2161,True,0.0,0.0
+2,PLAYERS AND ELECTRONICS,sales_lag_7,0.2161,True,0.0,0.0
+11,PET SUPPLIES,sales_lag_7,0.2161,True,0.0,0.0
+14,LINGERIE,sales_lag_7,0.2161,True,0.0,0.0
+17,PREPARED FOODS,sales_lag_7,0.2161,True,0.0,0.0
+23,DELI,sales_rolling_mean_7,0.2161,True,0.0,0.0
+29,FROZEN FOODS,sales_rolling_mean_7,0.2161,True,0.0,0.0
+30,AUTOMOTIVE,sales_lag_7,0.2161,True,0.0,0.0
+33,DELI,sales_lag_7,0.2161,True,0.0,0.0
+38,PET SUPPLIES,sales_lag_7,0.2161,True,0.0,0.0
+47,PET SUPPLIES,sales_lag_7,0.2161,True,0.0,0.0
+49,DELI,sales_rolling_mean_7,0.2161,True,0.0,0.0
+51,LINGERIE,sales_rolling_mean_7,0.2161,True,0.0,0.0
+53,"LIQUOR,WINE,BEER",sales_lag_7,0.2161,True,0.0,0.0
+7,MEATS,sales_lag_7,0.2151,True,0.0,0.0
+8,FROZEN FOODS,sales_rolling_mean_7,0.2151,True,0.0,0.0
+8,MAGAZINES,sales_rolling_mean_7,0.2151,True,0.0,0.0
+10,PET SUPPLIES,sales_lag_7,0.2151,True,0.0,0.0
+19,GROCERY I,sales_lag_7,0.2151,True,0.0,0.0
+23,LADIESWEAR,sales_rolling_mean_7,0.2151,True,0.0,0.0
+26,AUTOMOTIVE,sales_rolling_mean_7,0.2151,True,0.0,0.0
+30,FROZEN FOODS,sales_lag_7,0.2151,True,0.0,0.0
+33,CLEANING,sales_rolling_mean_7,0.2151,True,0.0,0.0
+37,CELEBRATION,sales_lag_7,0.2151,True,0.0,0.0
+39,CELEBRATION,sales_lag_7,0.2151,True,0.0,0.0
+46,HOME APPLIANCES,sales_lag_7,0.2151,True,0.0,0.0
+48,LINGERIE,sales_lag_7,0.2151,True,0.0,0.0
+53,AUTOMOTIVE,sales_rolling_mean_7,0.2151,True,0.0,0.0
+54,BEAUTY,sales_rolling_mean_7,0.2151,True,0.0,0.0
+2,POULTRY,sales_rolling_mean_7,0.214,True,0.0,0.0
+8,HARDWARE,sales_lag_7,0.214,True,0.0,0.0
+13,POULTRY,sales_lag_7,0.214,True,0.0,0.0
+19,HOME CARE,sales_lag_7,0.214,True,0.0,0.0
+20,LADIESWEAR,sales_lag_7,0.214,True,0.0,0.0
+23,BEVERAGES,sales_lag_7,0.214,True,0.0,0.0
+27,BEAUTY,sales_lag_7,0.214,True,0.0,0.0
+31,PREPARED FOODS,sales_lag_7,0.214,True,0.0,0.0
+39,AUTOMOTIVE,sales_lag_7,0.214,True,0.0,0.0
+45,AUTOMOTIVE,sales_lag_7,0.214,True,0.0,0.0
+48,MEATS,sales_rolling_mean_7,0.214,True,0.0,0.0
+53,EGGS,sales_lag_7,0.214,True,0.0,0.0
+6,AUTOMOTIVE,sales_rolling_mean_7,0.2129,True,0.0,0.0
+6,LAWN AND GARDEN,sales_lag_7,0.2129,True,0.0,0.0
+7,HARDWARE,sales_lag_7,0.2129,True,0.0,0.0
+8,DAIRY,sales_lag_7,0.2129,True,0.0,0.0
+11,MEATS,sales_rolling_mean_7,0.2129,True,0.0,0.0
+32,POULTRY,sales_lag_7,0.2129,True,0.0,0.0
+47,PREPARED FOODS,sales_lag_7,0.2129,True,0.0,0.0
+49,"LIQUOR,WINE,BEER",sales_lag_7,0.2129,True,0.0,0.0
+51,GROCERY I,sales_lag_7,0.2129,True,0.0,0.0
+2,FROZEN FOODS,sales_lag_7,0.2118,True,0.0,0.0
+3,GROCERY II,sales_lag_7,0.2118,True,0.0,0.0
+3,PET SUPPLIES,sales_rolling_mean_7,0.2118,True,0.0,0.0
+5,MEATS,sales_lag_7,0.2118,True,0.0,0.0
+5,PRODUCE,sales_lag_7,0.2118,True,0.0,0.0
+9,GROCERY II,sales_lag_7,0.2118,True,0.0,0.0
+12,PET SUPPLIES,sales_lag_7,0.2118,True,0.0,0.0
+13,PET SUPPLIES,sales_rolling_mean_7,0.2118,True,0.0,0.0
+16,AUTOMOTIVE,sales_lag_7,0.2118,True,0.0,0.0
+19,PERSONAL CARE,sales_lag_7,0.2118,True,0.0,0.0
+20,POULTRY,sales_lag_7,0.2118,True,0.0,0.0
+22,HARDWARE,sales_lag_7,0.2118,True,0.0,0.0
+26,DAIRY,sales_lag_7,0.2118,True,0.0,0.0
+27,PET SUPPLIES,sales_lag_7,0.2118,True,0.0,0.0
+27,PLAYERS AND ELECTRONICS,sales_lag_7,0.2118,True,0.0,0.0
+29,BEAUTY,sales_rolling_mean_7,0.2118,True,0.0,0.0
+29,CELEBRATION,sales_rolling_mean_7,0.2118,True,0.0,0.0
+35,PERSONAL CARE,sales_lag_7,0.2118,True,0.0,0.0
+48,GROCERY I,sales_rolling_mean_7,0.2118,True,0.0,0.0
+11,POULTRY,sales_lag_7,0.2108,True,0.0,0.0
+12,HOME CARE,sales_lag_7,0.2108,True,0.0,0.0
+29,PRODUCE,sales_rolling_mean_7,0.2108,True,0.0,0.0
+36,DAIRY,sales_lag_7,0.2108,True,0.0,0.0
+44,PREPARED FOODS,sales_rolling_mean_7,0.2108,True,0.0,0.0
+45,MEATS,sales_lag_7,0.2108,True,0.0,0.0
+45,PREPARED FOODS,sales_lag_7,0.2108,True,0.0,0.0
+48,BEVERAGES,sales_lag_7,0.2108,True,0.0,0.0
+49,PERSONAL CARE,sales_lag_7,0.2108,True,0.0,0.0
+52,HOME AND KITCHEN I,sales_lag_7,0.2108,True,0.0,0.0
+5,EGGS,sales_lag_7,0.2097,True,0.0,0.0
+10,GROCERY I,sales_lag_7,0.2097,True,0.0,0.0
+12,POULTRY,sales_lag_7,0.2097,True,0.0,0.0
+16,BREAD/BAKERY,sales_rolling_mean_7,0.2097,True,0.0,0.0
+16,EGGS,sales_lag_7,0.2097,True,0.0,0.0
+17,AUTOMOTIVE,sales_rolling_mean_7,0.2097,True,0.0,0.0
+18,HOME AND KITCHEN I,sales_lag_7,0.2097,True,0.0,0.0
+30,PERSONAL CARE,sales_lag_7,0.2097,True,0.0,0.0
+30,PREPARED FOODS,sales_lag_7,0.2097,True,0.0,0.0
+39,LADIESWEAR,sales_rolling_mean_7,0.2097,True,0.0,0.0
+50,LADIESWEAR,sales_lag_7,0.2097,True,0.0,0.0
+50,POULTRY,sales_rolling_mean_7,0.2097,True,0.0,0.0
+53,BREAD/BAKERY,sales_rolling_mean_7,0.2097,True,0.0,0.0
+53,LAWN AND GARDEN,sales_lag_7,0.2097,True,0.0,0.0
+1,DAIRY,sales_lag_7,0.2086,True,0.0,0.0
+5,DAIRY,sales_lag_7,0.2086,True,0.0,0.0
+15,BREAD/BAKERY,sales_lag_7,0.2086,True,0.0,0.0
+20,HOME CARE,sales_lag_7,0.2086,True,0.0,0.0
+21,PREPARED FOODS,sales_lag_7,0.2086,True,0.0,0.0
+22,PERSONAL CARE,sales_rolling_mean_7,0.2086,True,0.0,0.0
+23,MAGAZINES,sales_lag_7,0.2086,True,0.0,0.0
+28,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2086,True,0.0,0.0
+29,GROCERY II,sales_lag_7,0.2086,True,0.0,0.0
+36,FROZEN FOODS,sales_lag_7,0.2086,True,0.0,0.0
+41,PERSONAL CARE,sales_lag_7,0.2086,True,0.0,0.0
+43,MEATS,sales_lag_7,0.2086,True,0.0,0.0
+48,CLEANING,sales_lag_7,0.2086,True,0.0,0.0
+51,BEAUTY,sales_lag_7,0.2086,True,0.0,0.0
+3,CELEBRATION,sales_lag_7,0.2075,True,0.0,0.0
+5,GROCERY I,sales_rolling_mean_7,0.2075,True,0.0,0.0
+8,CLEANING,sales_lag_7,0.2075,True,0.0,0.0
+16,MAGAZINES,sales_rolling_mean_7,0.2075,True,0.0,0.0
+20,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2075,True,0.0,0.0
+28,PREPARED FOODS,sales_lag_7,0.2075,True,0.0,0.0
+29,"LIQUOR,WINE,BEER",sales_lag_7,0.2075,True,0.0,0.0
+30,LINGERIE,sales_lag_7,0.2075,True,0.0,0.0
+38,AUTOMOTIVE,sales_lag_7,0.2075,True,0.0,0.0
+38,CLEANING,sales_lag_7,0.2075,True,0.0,0.0
+40,MEATS,sales_lag_7,0.2075,True,0.0,0.0
+41,BEVERAGES,sales_lag_7,0.2075,True,0.0,0.0
+43,PLAYERS AND ELECTRONICS,sales_lag_7,0.2075,True,0.0,0.0
+49,MAGAZINES,sales_rolling_mean_7,0.2075,True,0.0,0.0
+52,MEATS,sales_lag_7,0.2075,True,0.0,0.0
+54,GROCERY I,sales_lag_7,0.2075,True,0.0,0.0
+54,SEAFOOD,sales_lag_7,0.2075,True,0.0,0.0
+1,LADIESWEAR,sales_rolling_mean_7,0.2065,True,0.0,0.0
+1,PRODUCE,sales_lag_7,0.2065,True,0.0,0.0
+9,POULTRY,sales_lag_7,0.2065,True,0.0,0.0
+11,HOME AND KITCHEN II,sales_lag_7,0.2065,True,0.0,0.0
+18,LINGERIE,sales_lag_7,0.2065,True,0.0,0.0
+22,DELI,sales_lag_7,0.2065,True,0.0,0.0
+23,LADIESWEAR,sales_lag_7,0.2065,True,0.0,0.0
+25,HOME AND KITCHEN I,sales_lag_7,0.2065,True,0.0,0.0
+32,LINGERIE,sales_lag_7,0.2065,True,0.0,0.0
+32,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2065,True,0.0,0.0
+45,CLEANING,sales_lag_7,0.2065,True,0.0,0.0
+46,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2065,True,0.0,0.0
+48,BEAUTY,sales_lag_7,0.2065,True,0.0,0.0
+50,PET SUPPLIES,sales_lag_7,0.2065,True,0.0,0.0
+52,AUTOMOTIVE,sales_lag_7,0.2065,True,0.0,0.0
+54,PRODUCE,sales_rolling_mean_7,0.2065,True,0.0,0.0
+6,SEAFOOD,sales_lag_7,0.2054,True,0.0,0.0
+10,DELI,sales_lag_7,0.2054,True,0.0,0.0
+11,HOME APPLIANCES,sales_lag_7,0.2054,True,0.0,0.0
+12,GROCERY II,sales_lag_7,0.2054,True,0.0,0.0
+12,HOME AND KITCHEN I,sales_rolling_mean_7,0.2054,True,0.0,0.0
+13,AUTOMOTIVE,sales_lag_7,0.2054,True,0.0,0.0
+21,MAGAZINES,sales_rolling_mean_7,0.2054,True,0.0,0.0
+23,PRODUCE,sales_lag_7,0.2054,True,0.0,0.0
+24,HOME APPLIANCES,sales_lag_7,0.2054,True,0.0,0.0
+25,"LIQUOR,WINE,BEER",sales_lag_7,0.2054,True,0.0,0.0
+25,PREPARED FOODS,sales_lag_7,0.2054,True,0.0,0.0
+26,EGGS,sales_lag_7,0.2054,True,0.0,0.0
+26,SEAFOOD,sales_lag_7,0.2054,True,0.0,0.0
+30,PET SUPPLIES,sales_rolling_mean_7,0.2054,True,0.0,0.0
+34,AUTOMOTIVE,sales_lag_7,0.2054,True,0.0,0.0
+35,BREAD/BAKERY,sales_lag_7,0.2054,True,0.0,0.0
+37,EGGS,sales_lag_7,0.2054,True,0.0,0.0
+38,SEAFOOD,sales_lag_7,0.2054,True,0.0,0.0
+39,BABY CARE,sales_rolling_mean_7,0.2054,True,0.0,0.0
+39,HOME AND KITCHEN I,sales_lag_7,0.2054,True,0.0,0.0
+39,PRODUCE,sales_rolling_mean_7,0.2054,True,0.0,0.0
+43,POULTRY,sales_lag_7,0.2054,True,0.0,0.0
+44,HARDWARE,sales_rolling_mean_7,0.2054,True,0.0,0.0
+14,"LIQUOR,WINE,BEER",sales_lag_7,0.2043,True,0.0,0.0
+17,AUTOMOTIVE,sales_lag_7,0.2043,True,0.0,0.0
+25,HOME AND KITCHEN I,sales_rolling_mean_7,0.2043,True,0.0,0.0
+34,LAWN AND GARDEN,sales_lag_7,0.2043,True,0.0,0.0
+34,SEAFOOD,sales_rolling_mean_7,0.2043,True,0.0,0.0
+37,PERSONAL CARE,sales_lag_7,0.2043,True,0.0,0.0
+37,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2043,True,0.0,0.0
+43,DELI,sales_rolling_mean_7,0.2043,True,0.0,0.0
+45,"LIQUOR,WINE,BEER",sales_lag_7,0.2043,True,0.0,0.0
+46,BEAUTY,sales_lag_7,0.2043,True,0.0,0.0
+49,BREAD/BAKERY,sales_lag_7,0.2043,True,0.0,0.0
+53,HOME AND KITCHEN II,sales_lag_7,0.2043,True,0.0,0.0
+53,PLAYERS AND ELECTRONICS,sales_lag_7,0.2043,True,0.0,0.0
+3,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.2032,True,0.0,0.0
+19,BEAUTY,sales_lag_7,0.2032,True,0.0,0.0
+22,BEVERAGES,sales_lag_7,0.2032,True,0.0,0.0
+30,"LIQUOR,WINE,BEER",sales_lag_7,0.2032,True,0.0,0.0
+31,LINGERIE,sales_lag_7,0.2032,True,0.0,0.0
+37,HOME APPLIANCES,sales_lag_7,0.2032,True,0.0,0.0
+43,PET SUPPLIES,sales_lag_7,0.2032,True,0.0,0.0
+44,HOME AND KITCHEN II,sales_lag_7,0.2032,True,0.0,0.0
+45,HOME AND KITCHEN II,sales_lag_7,0.2032,True,0.0,0.0
+45,LADIESWEAR,sales_rolling_mean_7,0.2032,True,0.0,0.0
+49,PREPARED FOODS,sales_lag_7,0.2032,True,0.0,0.0
+53,LINGERIE,sales_lag_7,0.2032,True,0.0,0.0
+7,FROZEN FOODS,sales_lag_7,0.2022,True,0.0,0.0
+8,FROZEN FOODS,sales_lag_7,0.2022,True,0.0,0.0
+15,"LIQUOR,WINE,BEER",sales_lag_7,0.2022,True,0.0,0.0
+18,SEAFOOD,sales_lag_7,0.2022,True,0.0,0.0
+29,HARDWARE,sales_rolling_mean_7,0.2022,True,0.0,0.0
+34,MEATS,sales_rolling_mean_7,0.2022,True,0.0,0.0
+36,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2022,True,0.0,0.0
+42,GROCERY II,sales_rolling_mean_7,0.2022,True,0.0,0.0
+45,LINGERIE,sales_lag_7,0.2022,True,0.0,0.0
+47,MEATS,sales_lag_7,0.2022,True,0.0,0.0
+48,PERSONAL CARE,sales_rolling_mean_7,0.2022,True,0.0,0.0
+54,EGGS,sales_lag_7,0.2022,True,0.0,0.0
+7,LAWN AND GARDEN,sales_lag_7,0.2011,True,0.0,0.0
+11,HARDWARE,sales_rolling_mean_7,0.2011,True,0.0,0.0
+23,LAWN AND GARDEN,sales_lag_7,0.2011,True,0.0,0.0
+24,PET SUPPLIES,sales_lag_7,0.2011,True,0.0,0.0
+25,EGGS,sales_rolling_mean_7,0.2011,True,0.0,0.0
+26,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.2011,True,0.0,0.0
+29,AUTOMOTIVE,sales_rolling_mean_7,0.2011,True,0.0,0.0
+32,EGGS,sales_rolling_mean_7,0.2011,True,0.0,0.0
+33,HARDWARE,sales_rolling_mean_7,0.2011,True,0.0,0.0
+34,BREAD/BAKERY,sales_rolling_mean_7,0.2011,True,0.0,0.0
+34,PREPARED FOODS,sales_lag_7,0.2011,True,0.0,0.0
+39,HOME CARE,sales_lag_7,0.2011,True,0.0,0.0
+42,CELEBRATION,sales_lag_7,0.2011,True,0.0,0.0
+46,LINGERIE,sales_rolling_mean_7,0.2011,True,0.0,0.0
+49,FROZEN FOODS,sales_lag_7,0.2011,True,0.0,0.0
+49,LADIESWEAR,sales_lag_7,0.2011,True,0.0,0.0
+50,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2011,True,0.0,0.0
+51,FROZEN FOODS,sales_rolling_mean_7,0.2011,True,0.0,0.0
+54,MEATS,sales_rolling_mean_7,0.2011,True,0.0,0.0
+18,POULTRY,sales_lag_7,0.2,True,0.0,0.0
+43,BREAD/BAKERY,sales_lag_7,0.2,True,0.0,0.0
+43,"LIQUOR,WINE,BEER",sales_lag_7,0.2,True,0.0,0.0
+1,BEAUTY,sales_rolling_mean_7,0.2,False,0.0,0.0
+11,DAIRY,sales_lag_7,0.2,False,0.0,0.0
+19,PET SUPPLIES,sales_rolling_mean_7,0.2,False,0.0,0.0
+25,PERSONAL CARE,sales_rolling_mean_7,0.2,False,0.0,0.0
+33,SEAFOOD,sales_rolling_mean_7,0.2,False,0.0,0.0
+51,DELI,sales_lag_7,0.2,False,0.0,0.0
+51,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.2,False,0.0,0.0
+52,PREPARED FOODS,sales_lag_7,0.2,False,0.0,0.0
+2,CELEBRATION,sales_rolling_mean_7,0.1935,False,0.0,0.0
+8,CLEANING,sales_rolling_mean_7,0.1935,False,0.0,0.0
+9,POULTRY,sales_rolling_mean_7,0.1935,False,0.0,0.0
+12,CLEANING,sales_rolling_mean_7,0.1935,False,0.0,0.0
+14,AUTOMOTIVE,sales_lag_7,0.1935,False,0.0,0.0
+14,DELI,sales_lag_7,0.1935,False,0.0,0.0
+17,BABY CARE,sales_rolling_mean_7,0.1935,False,0.0,0.0
+17,FROZEN FOODS,sales_lag_7,0.1935,False,0.0,0.0
+19,LADIESWEAR,sales_rolling_mean_7,0.1935,False,0.0,0.0
+20,SEAFOOD,sales_lag_7,0.1935,False,0.0,0.0
+21,BABY CARE,sales_rolling_mean_7,0.1935,False,0.0,0.0
+22,LINGERIE,sales_rolling_mean_7,0.1935,False,0.0,0.0
+30,LADIESWEAR,sales_lag_7,0.1935,False,0.0,0.0
+32,PET SUPPLIES,sales_rolling_mean_7,0.1935,False,0.0,0.0
+33,DELI,sales_rolling_mean_7,0.1935,False,0.0,0.0
+35,EGGS,sales_lag_7,0.1935,False,0.0,0.0
+35,HOME CARE,sales_lag_7,0.1935,False,0.0,0.0
+36,HOME AND KITCHEN II,sales_rolling_mean_7,0.1935,False,0.0,0.0
+36,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1935,False,0.0,0.0
+41,BABY CARE,sales_lag_7,0.1935,False,0.0,0.0
+45,CLEANING,sales_rolling_mean_7,0.1935,False,0.0,0.0
+48,AUTOMOTIVE,sales_rolling_mean_7,0.1935,False,0.0,0.0
+6,FROZEN FOODS,sales_lag_7,0.1925,False,0.0,0.0
+8,LINGERIE,sales_lag_7,0.1925,False,0.0,0.0
+8,MAGAZINES,sales_lag_7,0.1925,False,0.0,0.0
+10,HARDWARE,sales_rolling_mean_7,0.1925,False,0.0,0.0
+10,HOME AND KITCHEN I,sales_lag_7,0.1925,False,0.0,0.0
+13,PLAYERS AND ELECTRONICS,sales_lag_7,0.1925,False,0.0,0.0
+14,LINGERIE,sales_rolling_mean_7,0.1925,False,0.0,0.0
+22,GROCERY II,sales_lag_7,0.1925,False,0.0,0.0
+26,PERSONAL CARE,sales_lag_7,0.1925,False,0.0,0.0
+28,GROCERY I,sales_lag_7,0.1925,False,0.0,0.0
+31,MEATS,sales_lag_7,0.1925,False,0.0,0.0
+41,FROZEN FOODS,sales_lag_7,0.1925,False,0.0,0.0
+48,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.1925,False,0.0,0.0
+48,PLAYERS AND ELECTRONICS,sales_lag_7,0.1925,False,0.0,0.0
+52,LADIESWEAR,sales_rolling_mean_7,0.1925,False,0.0,0.0
+9,GROCERY I,sales_lag_7,0.1914,False,0.0,0.0
+9,PERSONAL CARE,sales_rolling_mean_7,0.1914,False,0.0,0.0
+10,PERSONAL CARE,sales_lag_7,0.1914,False,0.0,0.0
+11,HOME CARE,sales_lag_7,0.1914,False,0.0,0.0
+13,DELI,sales_rolling_mean_7,0.1914,False,0.0,0.0
+24,CELEBRATION,sales_lag_7,0.1914,False,0.0,0.0
+33,MEATS,sales_rolling_mean_7,0.1914,False,0.0,0.0
+36,GROCERY II,sales_rolling_mean_7,0.1914,False,0.0,0.0
+40,HOME AND KITCHEN II,sales_lag_7,0.1914,False,0.0,0.0
+41,SEAFOOD,sales_lag_7,0.1914,False,0.0,0.0
+44,SEAFOOD,sales_lag_7,0.1914,False,0.0,0.0
+6,LINGERIE,sales_lag_7,0.1903,False,0.0,0.0
+8,BEAUTY,sales_lag_7,0.1903,False,0.0,0.0
+10,BEAUTY,sales_lag_7,0.1903,False,0.0,0.0
+12,DELI,sales_lag_7,0.1903,False,0.0,0.0
+16,PERSONAL CARE,sales_rolling_mean_7,0.1903,False,0.0,0.0
+18,BREAD/BAKERY,sales_lag_7,0.1903,False,0.0,0.0
+18,GROCERY I,sales_lag_7,0.1903,False,0.0,0.0
+20,CELEBRATION,sales_lag_7,0.1903,False,0.0,0.0
+28,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1903,False,0.0,0.0
+32,DELI,sales_lag_7,0.1903,False,0.0,0.0
+33,PREPARED FOODS,sales_lag_7,0.1903,False,0.0,0.0
+35,GROCERY I,sales_lag_7,0.1903,False,0.0,0.0
+41,EGGS,sales_lag_7,0.1903,False,0.0,0.0
+42,MEATS,sales_rolling_mean_7,0.1903,False,0.0,0.0
+42,POULTRY,sales_lag_7,0.1903,False,0.0,0.0
+44,HARDWARE,sales_lag_7,0.1903,False,0.0,0.0
+46,FROZEN FOODS,sales_lag_7,0.1903,False,0.0,0.0
+46,PERSONAL CARE,sales_lag_7,0.1903,False,0.0,0.0
+48,DAIRY,sales_lag_7,0.1903,False,0.0,0.0
+54,CLEANING,sales_rolling_mean_7,0.1903,False,0.0,0.0
+8,GROCERY II,sales_lag_7,0.1892,False,0.0,0.0
+8,LAWN AND GARDEN,sales_lag_7,0.1892,False,0.0,0.0
+9,DELI,sales_lag_7,0.1892,False,0.0,0.0
+17,POULTRY,sales_lag_7,0.1892,False,0.0,0.0
+21,HARDWARE,sales_lag_7,0.1892,False,0.0,0.0
+29,HOME AND KITCHEN I,sales_rolling_mean_7,0.1892,False,0.0,0.0
+36,EGGS,sales_lag_7,0.1892,False,0.0,0.0
+39,LINGERIE,sales_lag_7,0.1892,False,0.0,0.0
+39,PERSONAL CARE,sales_lag_7,0.1892,False,0.0,0.0
+46,LAWN AND GARDEN,sales_lag_7,0.1892,False,0.0,0.0
+47,SEAFOOD,sales_lag_7,0.1892,False,0.0,0.0
+49,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1892,False,0.0,0.0
+49,SEAFOOD,sales_rolling_mean_7,0.1892,False,0.0,0.0
+51,SEAFOOD,sales_lag_7,0.1892,False,0.0,0.0
+52,CELEBRATION,sales_lag_7,0.1892,False,0.0,0.0
+2,DELI,sales_rolling_mean_7,0.1882,False,0.0,0.0
+3,PERSONAL CARE,sales_lag_7,0.1882,False,0.0,0.0
+5,AUTOMOTIVE,sales_rolling_mean_7,0.1882,False,0.0,0.0
+5,GROCERY I,sales_lag_7,0.1882,False,0.0,0.0
+7,SEAFOOD,sales_lag_7,0.1882,False,0.0,0.0
+11,LINGERIE,sales_lag_7,0.1882,False,0.0,0.0
+11,MAGAZINES,sales_lag_7,0.1882,False,0.0,0.0
+15,HOME AND KITCHEN I,sales_lag_7,0.1882,False,0.0,0.0
+17,LINGERIE,sales_lag_7,0.1882,False,0.0,0.0
+20,EGGS,sales_lag_7,0.1882,False,0.0,0.0
+20,HOME AND KITCHEN I,sales_lag_7,0.1882,False,0.0,0.0
+33,CELEBRATION,sales_lag_7,0.1882,False,0.0,0.0
+36,BREAD/BAKERY,sales_lag_7,0.1882,False,0.0,0.0
+41,MEATS,sales_lag_7,0.1882,False,0.0,0.0
+45,EGGS,sales_lag_7,0.1882,False,0.0,0.0
+2,DAIRY,sales_lag_7,0.1871,False,0.0,0.0
+2,PREPARED FOODS,sales_lag_7,0.1871,False,0.0,0.0
+3,AUTOMOTIVE,sales_rolling_mean_7,0.1871,False,0.0,0.0
+3,BEAUTY,sales_lag_7,0.1871,False,0.0,0.0
+3,PLAYERS AND ELECTRONICS,sales_lag_7,0.1871,False,0.0,0.0
+4,SEAFOOD,sales_rolling_mean_7,0.1871,False,0.0,0.0
+8,GROCERY I,sales_lag_7,0.1871,False,0.0,0.0
+18,DELI,sales_lag_7,0.1871,False,0.0,0.0
+20,DAIRY,sales_lag_7,0.1871,False,0.0,0.0
+21,HOME AND KITCHEN I,sales_lag_7,0.1871,False,0.0,0.0
+24,SEAFOOD,sales_lag_7,0.1871,False,0.0,0.0
+26,HOME APPLIANCES,sales_lag_7,0.1871,False,0.0,0.0
+27,FROZEN FOODS,sales_lag_7,0.1871,False,0.0,0.0
+27,"LIQUOR,WINE,BEER",sales_lag_7,0.1871,False,0.0,0.0
+28,BEVERAGES,sales_lag_7,0.1871,False,0.0,0.0
+29,CELEBRATION,sales_lag_7,0.1871,False,0.0,0.0
+29,PLAYERS AND ELECTRONICS,sales_lag_7,0.1871,False,0.0,0.0
+31,AUTOMOTIVE,sales_lag_7,0.1871,False,0.0,0.0
+34,PRODUCE,sales_lag_7,0.1871,False,0.0,0.0
+51,PLAYERS AND ELECTRONICS,sales_lag_7,0.1871,False,0.0,0.0
+52,MAGAZINES,sales_rolling_mean_7,0.1871,False,0.0,0.0
+54,FROZEN FOODS,sales_lag_7,0.1871,False,0.0,0.0
+5,LINGERIE,sales_rolling_mean_7,0.186,False,0.0,0.0
+8,MEATS,sales_lag_7,0.186,False,0.0,0.0
+17,EGGS,sales_lag_7,0.186,False,0.0,0.0
+29,SEAFOOD,sales_lag_7,0.186,False,0.0,0.0
+34,BEVERAGES,sales_lag_7,0.186,False,0.0,0.0
+40,"LIQUOR,WINE,BEER",sales_lag_7,0.186,False,0.0,0.0
+47,GROCERY II,sales_lag_7,0.186,False,0.0,0.0
+49,GROCERY I,sales_lag_7,0.186,False,0.0,0.0
+51,CELEBRATION,sales_lag_7,0.186,False,0.0,0.0
+51,PREPARED FOODS,sales_rolling_mean_7,0.186,False,0.0,0.0
+52,MAGAZINES,sales_lag_7,0.186,False,0.0,0.0
+3,BEVERAGES,sales_lag_7,0.1849,False,0.0,0.0
+12,LINGERIE,sales_lag_7,0.1849,False,0.0,0.0
+15,BEAUTY,sales_lag_7,0.1849,False,0.0,0.0
+16,PREPARED FOODS,sales_lag_7,0.1849,False,0.0,0.0
+18,BEAUTY,sales_lag_7,0.1849,False,0.0,0.0
+22,EGGS,sales_lag_7,0.1849,False,0.0,0.0
+26,EGGS,sales_rolling_mean_7,0.1849,False,0.0,0.0
+27,POULTRY,sales_lag_7,0.1849,False,0.0,0.0
+28,POULTRY,sales_lag_7,0.1849,False,0.0,0.0
+29,HARDWARE,sales_lag_7,0.1849,False,0.0,0.0
+31,FROZEN FOODS,sales_lag_7,0.1849,False,0.0,0.0
+33,GROCERY II,sales_rolling_mean_7,0.1849,False,0.0,0.0
+33,HOME AND KITCHEN II,sales_lag_7,0.1849,False,0.0,0.0
+37,AUTOMOTIVE,sales_lag_7,0.1849,False,0.0,0.0
+37,PRODUCE,sales_lag_7,0.1849,False,0.0,0.0
+48,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1849,False,0.0,0.0
+6,BEVERAGES,sales_lag_7,0.1839,False,0.0,0.0
+9,BEVERAGES,sales_lag_7,0.1839,False,0.0,0.0
+9,CLEANING,sales_rolling_mean_7,0.1839,False,0.0,0.0
+9,LINGERIE,sales_rolling_mean_7,0.1839,False,0.0,0.0
+12,CLEANING,sales_lag_7,0.1839,False,0.0,0.0
+16,HOME AND KITCHEN I,sales_lag_7,0.1839,False,0.0,0.0
+16,HOME APPLIANCES,sales_rolling_mean_7,0.1839,False,0.0,0.0
+16,HOME CARE,sales_lag_7,0.1839,False,0.0,0.0
+20,LINGERIE,sales_lag_7,0.1839,False,0.0,0.0
+22,PLAYERS AND ELECTRONICS,sales_lag_7,0.1839,False,0.0,0.0
+27,CLEANING,sales_lag_7,0.1839,False,0.0,0.0
+27,EGGS,sales_lag_7,0.1839,False,0.0,0.0
+27,PREPARED FOODS,sales_lag_7,0.1839,False,0.0,0.0
+28,LAWN AND GARDEN,sales_lag_7,0.1839,False,0.0,0.0
+34,BREAD/BAKERY,sales_lag_7,0.1839,False,0.0,0.0
+37,GROCERY I,sales_lag_7,0.1839,False,0.0,0.0
+39,"LIQUOR,WINE,BEER",sales_lag_7,0.1839,False,0.0,0.0
+40,POULTRY,sales_lag_7,0.1839,False,0.0,0.0
+41,BEAUTY,sales_lag_7,0.1839,False,0.0,0.0
+41,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1839,False,0.0,0.0
+44,BREAD/BAKERY,sales_lag_7,0.1839,False,0.0,0.0
+46,PLAYERS AND ELECTRONICS,sales_lag_7,0.1839,False,0.0,0.0
+47,BEAUTY,sales_lag_7,0.1839,False,0.0,0.0
+48,FROZEN FOODS,sales_lag_7,0.1839,False,0.0,0.0
+53,GROCERY I,sales_rolling_mean_7,0.1839,False,0.0,0.0
+4,BREAD/BAKERY,sales_lag_7,0.1828,False,0.0,0.0
+4,HARDWARE,sales_lag_7,0.1828,False,0.0,0.0
+4,SEAFOOD,sales_lag_7,0.1828,False,0.0,0.0
+6,DAIRY,sales_lag_7,0.1828,False,0.0,0.0
+6,HARDWARE,sales_lag_7,0.1828,False,0.0,0.0
+7,PET SUPPLIES,sales_lag_7,0.1828,False,0.0,0.0
+11,GROCERY I,sales_lag_7,0.1828,False,0.0,0.0
+13,HOME AND KITCHEN II,sales_lag_7,0.1828,False,0.0,0.0
+14,CELEBRATION,sales_lag_7,0.1828,False,0.0,0.0
+17,DAIRY,sales_lag_7,0.1828,False,0.0,0.0
+18,BEVERAGES,sales_lag_7,0.1828,False,0.0,0.0
+18,PRODUCE,sales_lag_7,0.1828,False,0.0,0.0
+18,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1828,False,0.0,0.0
+20,PET SUPPLIES,sales_lag_7,0.1828,False,0.0,0.0
+24,LADIESWEAR,sales_lag_7,0.1828,False,0.0,0.0
+28,HOME AND KITCHEN I,sales_lag_7,0.1828,False,0.0,0.0
+30,BREAD/BAKERY,sales_rolling_mean_7,0.1828,False,0.0,0.0
+33,HOME APPLIANCES,sales_rolling_mean_7,0.1828,False,0.0,0.0
+38,PERSONAL CARE,sales_lag_7,0.1828,False,0.0,0.0
+46,LADIESWEAR,sales_lag_7,0.1828,False,0.0,0.0
+50,HARDWARE,sales_lag_7,0.1828,False,0.0,0.0
+51,HARDWARE,sales_lag_7,0.1828,False,0.0,0.0
+1,SEAFOOD,sales_lag_7,0.1817,False,0.0,0.0
+3,DAIRY,sales_lag_7,0.1817,False,0.0,0.0
+6,PREPARED FOODS,sales_lag_7,0.1817,False,0.0,0.0
+8,HOME CARE,sales_lag_7,0.1817,False,0.0,0.0
+9,CLEANING,sales_lag_7,0.1817,False,0.0,0.0
+10,FROZEN FOODS,sales_rolling_mean_7,0.1817,False,0.0,0.0
+13,PRODUCE,sales_lag_7,0.1817,False,0.0,0.0
+21,BEVERAGES,sales_lag_7,0.1817,False,0.0,0.0
+22,BEAUTY,sales_lag_7,0.1817,False,0.0,0.0
+22,MAGAZINES,sales_lag_7,0.1817,False,0.0,0.0
+24,BEAUTY,sales_lag_7,0.1817,False,0.0,0.0
+27,LADIESWEAR,sales_lag_7,0.1817,False,0.0,0.0
+27,LINGERIE,sales_lag_7,0.1817,False,0.0,0.0
+32,BEVERAGES,sales_lag_7,0.1817,False,0.0,0.0
+43,PERSONAL CARE,sales_lag_7,0.1817,False,0.0,0.0
+44,HOME AND KITCHEN I,sales_rolling_mean_7,0.1817,False,0.0,0.0
+47,HARDWARE,sales_rolling_mean_7,0.1817,False,0.0,0.0
+49,AUTOMOTIVE,sales_lag_7,0.1817,False,0.0,0.0
+52,LINGERIE,sales_lag_7,0.1817,False,0.0,0.0
+8,PREPARED FOODS,sales_lag_7,0.1806,False,0.0,0.0
+10,LINGERIE,sales_rolling_mean_7,0.1806,False,0.0,0.0
+11,FROZEN FOODS,sales_lag_7,0.1806,False,0.0,0.0
+17,BREAD/BAKERY,sales_lag_7,0.1806,False,0.0,0.0
+21,DAIRY,sales_lag_7,0.1806,False,0.0,0.0
+23,MEATS,sales_lag_7,0.1806,False,0.0,0.0
+26,PREPARED FOODS,sales_lag_7,0.1806,False,0.0,0.0
+27,AUTOMOTIVE,sales_lag_7,0.1806,False,0.0,0.0
+27,BREAD/BAKERY,sales_lag_7,0.1806,False,0.0,0.0
+32,FROZEN FOODS,sales_lag_7,0.1806,False,0.0,0.0
+42,EGGS,sales_lag_7,0.1806,False,0.0,0.0
+49,SEAFOOD,sales_lag_7,0.1806,False,0.0,0.0
+53,MAGAZINES,sales_lag_7,0.1806,False,0.0,0.0
+1,HOME APPLIANCES,sales_lag_7,0.1796,False,0.0,0.0
+6,PRODUCE,sales_lag_7,0.1796,False,0.0,0.0
+13,PRODUCE,sales_rolling_mean_7,0.1796,False,0.0,0.0
+16,MEATS,sales_lag_7,0.1796,False,0.0,0.0
+17,MAGAZINES,sales_rolling_mean_7,0.1796,False,0.0,0.0
+20,FROZEN FOODS,sales_lag_7,0.1796,False,0.0,0.0
+24,GROCERY I,sales_lag_7,0.1796,False,0.0,0.0
+24,"LIQUOR,WINE,BEER",sales_lag_7,0.1796,False,0.0,0.0
+30,BEVERAGES,sales_lag_7,0.1796,False,0.0,0.0
+32,MEATS,sales_lag_7,0.1796,False,0.0,0.0
+36,PET SUPPLIES,sales_lag_7,0.1796,False,0.0,0.0
+41,GROCERY I,sales_rolling_mean_7,0.1796,False,0.0,0.0
+44,DELI,sales_lag_7,0.1796,False,0.0,0.0
+44,GROCERY II,sales_lag_7,0.1796,False,0.0,0.0
+46,GROCERY II,sales_lag_7,0.1796,False,0.0,0.0
+7,LINGERIE,sales_rolling_mean_7,0.1785,False,0.0,0.0
+9,PET SUPPLIES,sales_rolling_mean_7,0.1785,False,0.0,0.0
+13,MAGAZINES,sales_rolling_mean_7,0.1785,False,0.0,0.0
+16,DELI,sales_lag_7,0.1785,False,0.0,0.0
+19,EGGS,sales_lag_7,0.1785,False,0.0,0.0
+26,DELI,sales_lag_7,0.1785,False,0.0,0.0
+27,DELI,sales_lag_7,0.1785,False,0.0,0.0
+31,HARDWARE,sales_lag_7,0.1785,False,0.0,0.0
+36,MEATS,sales_lag_7,0.1785,False,0.0,0.0
+37,POULTRY,sales_lag_7,0.1785,False,0.0,0.0
+40,FROZEN FOODS,sales_lag_7,0.1785,False,0.0,0.0
+45,SEAFOOD,sales_lag_7,0.1785,False,0.0,0.0
+46,BREAD/BAKERY,sales_lag_7,0.1785,False,0.0,0.0
+46,DELI,sales_lag_7,0.1785,False,0.0,0.0
+53,CLEANING,sales_lag_7,0.1785,False,0.0,0.0
+53,MEATS,sales_lag_7,0.1785,False,0.0,0.0
+54,AUTOMOTIVE,sales_rolling_mean_7,0.1785,False,0.0,0.0
+8,EGGS,sales_lag_7,0.1774,False,0.0,0.0
+11,CELEBRATION,sales_lag_7,0.1774,False,0.0,0.0
+16,"LIQUOR,WINE,BEER",sales_lag_7,0.1774,False,0.0,0.0
+19,PET SUPPLIES,sales_lag_7,0.1774,False,0.0,0.0
+19,POULTRY,sales_lag_7,0.1774,False,0.0,0.0
+20,BEVERAGES,sales_lag_7,0.1774,False,0.0,0.0
+24,GROCERY II,sales_lag_7,0.1774,False,0.0,0.0
+24,LAWN AND GARDEN,sales_lag_7,0.1774,False,0.0,0.0
+25,HOME APPLIANCES,sales_rolling_mean_7,0.1774,False,0.0,0.0
+30,BREAD/BAKERY,sales_lag_7,0.1774,False,0.0,0.0
+32,AUTOMOTIVE,sales_rolling_mean_7,0.1774,False,0.0,0.0
+39,PRODUCE,sales_lag_7,0.1774,False,0.0,0.0
+42,MAGAZINES,sales_lag_7,0.1774,False,0.0,0.0
+44,DAIRY,sales_lag_7,0.1774,False,0.0,0.0
+48,SEAFOOD,sales_lag_7,0.1774,False,0.0,0.0
+49,BEAUTY,sales_rolling_mean_7,0.1774,False,0.0,0.0
+51,FROZEN FOODS,sales_lag_7,0.1774,False,0.0,0.0
+53,BEVERAGES,sales_lag_7,0.1774,False,0.0,0.0
+12,MEATS,sales_lag_7,0.1763,False,0.0,0.0
+16,CELEBRATION,sales_lag_7,0.1763,False,0.0,0.0
+19,DELI,sales_lag_7,0.1763,False,0.0,0.0
+23,DELI,sales_lag_7,0.1763,False,0.0,0.0
+25,MEATS,sales_rolling_mean_7,0.1763,False,0.0,0.0
+25,SEAFOOD,sales_rolling_mean_7,0.1763,False,0.0,0.0
+35,MEATS,sales_lag_7,0.1763,False,0.0,0.0
+36,CLEANING,sales_lag_7,0.1763,False,0.0,0.0
+37,CELEBRATION,sales_rolling_mean_7,0.1763,False,0.0,0.0
+39,HARDWARE,sales_lag_7,0.1763,False,0.0,0.0
+42,LADIESWEAR,sales_lag_7,0.1763,False,0.0,0.0
+48,GROCERY II,sales_lag_7,0.1763,False,0.0,0.0
+51,LAWN AND GARDEN,sales_lag_7,0.1763,False,0.0,0.0
+51,"LIQUOR,WINE,BEER",sales_lag_7,0.1763,False,0.0,0.0
+5,PLAYERS AND ELECTRONICS,sales_lag_7,0.1753,False,0.0,0.0
+14,MAGAZINES,sales_lag_7,0.1753,False,0.0,0.0
+15,CLEANING,sales_lag_7,0.1753,False,0.0,0.0
+16,MAGAZINES,sales_lag_7,0.1753,False,0.0,0.0
+18,CLEANING,sales_lag_7,0.1753,False,0.0,0.0
+18,EGGS,sales_lag_7,0.1753,False,0.0,0.0
+21,DELI,sales_lag_7,0.1753,False,0.0,0.0
+23,POULTRY,sales_rolling_mean_7,0.1753,False,0.0,0.0
+26,GROCERY I,sales_lag_7,0.1753,False,0.0,0.0
+28,MEATS,sales_lag_7,0.1753,False,0.0,0.0
+35,"LIQUOR,WINE,BEER",sales_lag_7,0.1753,False,0.0,0.0
+42,AUTOMOTIVE,sales_lag_7,0.1753,False,0.0,0.0
+42,DELI,sales_lag_7,0.1753,False,0.0,0.0
+48,POULTRY,sales_lag_7,0.1753,False,0.0,0.0
+2,HOME AND KITCHEN I,sales_lag_7,0.1742,False,0.0,0.0
+4,BEAUTY,sales_rolling_mean_7,0.1742,False,0.0,0.0
+4,GROCERY I,sales_lag_7,0.1742,False,0.0,0.0
+4,"LIQUOR,WINE,BEER",sales_lag_7,0.1742,False,0.0,0.0
+11,PLAYERS AND ELECTRONICS,sales_lag_7,0.1742,False,0.0,0.0
+11,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1742,False,0.0,0.0
+17,HOME APPLIANCES,sales_lag_7,0.1742,False,0.0,0.0
+22,PERSONAL CARE,sales_lag_7,0.1742,False,0.0,0.0
+29,EGGS,sales_lag_7,0.1742,False,0.0,0.0
+31,"LIQUOR,WINE,BEER",sales_lag_7,0.1742,False,0.0,0.0
+41,POULTRY,sales_lag_7,0.1742,False,0.0,0.0
+43,FROZEN FOODS,sales_lag_7,0.1742,False,0.0,0.0
+45,DELI,sales_lag_7,0.1742,False,0.0,0.0
+6,AUTOMOTIVE,sales_lag_7,0.1731,False,0.0,0.0
+14,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1731,False,0.0,0.0
+21,PLAYERS AND ELECTRONICS,sales_lag_7,0.1731,False,0.0,0.0
+24,POULTRY,sales_lag_7,0.1731,False,0.0,0.0
+29,BEAUTY,sales_lag_7,0.1731,False,0.0,0.0
+32,PRODUCE,sales_rolling_mean_7,0.1731,False,0.0,0.0
+36,"LIQUOR,WINE,BEER",sales_lag_7,0.1731,False,0.0,0.0
+37,LINGERIE,sales_lag_7,0.1731,False,0.0,0.0
+38,DAIRY,sales_lag_7,0.1731,False,0.0,0.0
+39,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.1731,False,0.0,0.0
+44,AUTOMOTIVE,sales_lag_7,0.1731,False,0.0,0.0
+46,SEAFOOD,sales_lag_7,0.1731,False,0.0,0.0
+52,BEAUTY,sales_lag_7,0.1731,False,0.0,0.0
+8,"LIQUOR,WINE,BEER",sales_lag_7,0.172,False,0.0,0.0
+10,FROZEN FOODS,sales_lag_7,0.172,False,0.0,0.0
+14,BREAD/BAKERY,sales_lag_7,0.172,False,0.0,0.0
+21,POULTRY,sales_lag_7,0.172,False,0.0,0.0
+22,LINGERIE,sales_lag_7,0.172,False,0.0,0.0
+26,CELEBRATION,sales_lag_7,0.172,False,0.0,0.0
+27,DAIRY,sales_lag_7,0.172,False,0.0,0.0
+27,HARDWARE,sales_lag_7,0.172,False,0.0,0.0
+29,BREAD/BAKERY,sales_lag_7,0.172,False,0.0,0.0
+32,GROCERY II,sales_lag_7,0.172,False,0.0,0.0
+35,AUTOMOTIVE,sales_lag_7,0.172,False,0.0,0.0
+37,LAWN AND GARDEN,sales_lag_7,0.172,False,0.0,0.0
+41,CELEBRATION,sales_lag_7,0.172,False,0.0,0.0
+47,CELEBRATION,sales_lag_7,0.172,False,0.0,0.0
+48,HOME AND KITCHEN I,sales_lag_7,0.172,False,0.0,0.0
+51,AUTOMOTIVE,sales_lag_7,0.172,False,0.0,0.0
+52,DAIRY,sales_lag_7,0.172,False,0.0,0.0
+52,LADIESWEAR,sales_lag_7,0.172,False,0.0,0.0
+52,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.172,False,0.0,0.0
+4,PRODUCE,sales_lag_7,0.171,False,0.0,0.0
+16,FROZEN FOODS,sales_lag_7,0.171,False,0.0,0.0
+19,BREAD/BAKERY,sales_lag_7,0.171,False,0.0,0.0
+20,MAGAZINES,sales_lag_7,0.171,False,0.0,0.0
+25,DELI,sales_lag_7,0.171,False,0.0,0.0
+30,DAIRY,sales_lag_7,0.171,False,0.0,0.0
+30,EGGS,sales_lag_7,0.171,False,0.0,0.0
+42,SEAFOOD,sales_lag_7,0.171,False,0.0,0.0
+43,SEAFOOD,sales_lag_7,0.171,False,0.0,0.0
+1,DELI,sales_rolling_mean_7,0.1699,False,0.0,0.0
+1,PET SUPPLIES,sales_lag_7,0.1699,False,0.0,0.0
+3,POULTRY,sales_rolling_mean_7,0.1699,False,0.0,0.0
+8,BREAD/BAKERY,sales_lag_7,0.1699,False,0.0,0.0
+11,BEAUTY,sales_lag_7,0.1699,False,0.0,0.0
+22,CLEANING,sales_lag_7,0.1699,False,0.0,0.0
+23,CELEBRATION,sales_lag_7,0.1699,False,0.0,0.0
+36,DELI,sales_lag_7,0.1699,False,0.0,0.0
+36,HOME APPLIANCES,sales_lag_7,0.1699,False,0.0,0.0
+37,PREPARED FOODS,sales_lag_7,0.1699,False,0.0,0.0
+41,LAWN AND GARDEN,sales_lag_7,0.1699,False,0.0,0.0
+47,DELI,sales_lag_7,0.1699,False,0.0,0.0
+51,AUTOMOTIVE,sales_rolling_mean_7,0.1699,False,0.0,0.0
+51,PET SUPPLIES,sales_lag_7,0.1699,False,0.0,0.0
+13,PREPARED FOODS,sales_lag_7,0.1688,False,0.0,0.0
+15,PLAYERS AND ELECTRONICS,sales_lag_7,0.1688,False,0.0,0.0
+18,HOME AND KITCHEN II,sales_lag_7,0.1688,False,0.0,0.0
+21,LADIESWEAR,sales_lag_7,0.1688,False,0.0,0.0
+22,DAIRY,sales_lag_7,0.1688,False,0.0,0.0
+24,AUTOMOTIVE,sales_rolling_mean_7,0.1688,False,0.0,0.0
+27,LAWN AND GARDEN,sales_lag_7,0.1688,False,0.0,0.0
+30,DELI,sales_lag_7,0.1688,False,0.0,0.0
+30,GROCERY I,sales_lag_7,0.1688,False,0.0,0.0
+43,DELI,sales_lag_7,0.1688,False,0.0,0.0
+49,HOME AND KITCHEN I,sales_lag_7,0.1688,False,0.0,0.0
+49,PLAYERS AND ELECTRONICS,sales_lag_7,0.1688,False,0.0,0.0
+52,FROZEN FOODS,sales_lag_7,0.1688,False,0.0,0.0
+13,HOME AND KITCHEN I,sales_lag_7,0.1677,False,0.0,0.0
+29,CLEANING,sales_lag_7,0.1677,False,0.0,0.0
+49,LINGERIE,sales_lag_7,0.1677,False,0.0,0.0
+54,PERSONAL CARE,sales_rolling_mean_7,0.1677,False,0.0,0.0
+4,CELEBRATION,sales_lag_7,0.1667,False,0.0,0.0
+35,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.1667,False,0.0,0.0
+36,PRODUCE,sales_rolling_mean_7,0.1667,False,0.0,0.0
+39,POULTRY,sales_lag_7,0.1667,False,0.0,0.0
+41,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1667,False,0.0,0.0
+52,BEAUTY,sales_rolling_mean_7,0.1667,False,0.0,0.0
+53,GROCERY II,sales_rolling_mean_7,0.1667,False,0.0,0.0
+53,PRODUCE,sales_lag_7,0.1667,False,0.0,0.0
+7,DELI,sales_rolling_mean_7,0.1613,False,0.0,0.0
+15,MAGAZINES,sales_rolling_mean_7,0.1613,False,0.0,0.0
+16,PERSONAL CARE,sales_lag_7,0.1613,False,0.0,0.0
+17,CLEANING,sales_rolling_mean_7,0.1613,False,0.0,0.0
+24,MAGAZINES,sales_lag_7,0.1613,False,0.0,0.0
+26,CLEANING,sales_rolling_mean_7,0.1613,False,0.0,0.0
+33,"LIQUOR,WINE,BEER",sales_lag_7,0.1613,False,0.0,0.0
+38,PERSONAL CARE,sales_rolling_mean_7,0.1613,False,0.0,0.0
+40,MAGAZINES,sales_lag_7,0.1613,False,0.0,0.0
+44,CELEBRATION,sales_rolling_mean_7,0.1613,False,0.0,0.0
+48,BEAUTY,sales_rolling_mean_7,0.1613,False,0.0,0.0
+4,FROZEN FOODS,sales_lag_7,0.1602,False,0.0,0.0
+10,POULTRY,sales_lag_7,0.1602,False,0.0,0.0
+18,CELEBRATION,sales_rolling_mean_7,0.1602,False,0.0,0.0
+21,BREAD/BAKERY,sales_rolling_mean_7,0.1602,False,0.0,0.0
+29,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1602,False,0.0,0.0
+30,BEAUTY,sales_rolling_mean_7,0.1602,False,0.0,0.0
+30,GROCERY II,sales_lag_7,0.1602,False,0.0,0.0
+31,DAIRY,sales_lag_7,0.1602,False,0.0,0.0
+31,HOME AND KITCHEN II,sales_lag_7,0.1602,False,0.0,0.0
+32,BEAUTY,sales_rolling_mean_7,0.1602,False,0.0,0.0
+38,HARDWARE,sales_lag_7,0.1602,False,0.0,0.0
+40,CELEBRATION,sales_lag_7,0.1602,False,0.0,0.0
+41,AUTOMOTIVE,sales_lag_7,0.1602,False,0.0,0.0
+42,MEATS,sales_lag_7,0.1602,False,0.0,0.0
+44,LADIESWEAR,sales_lag_7,0.1602,False,0.0,0.0
+50,FROZEN FOODS,sales_lag_7,0.1602,False,0.0,0.0
+51,GROCERY II,sales_lag_7,0.1602,False,0.0,0.0
+8,DELI,sales_lag_7,0.1591,False,0.0,0.0
+11,BEVERAGES,sales_rolling_mean_7,0.1591,False,0.0,0.0
+13,HOME CARE,sales_lag_7,0.1591,False,0.0,0.0
+19,MAGAZINES,sales_lag_7,0.1591,False,0.0,0.0
+22,PET SUPPLIES,sales_lag_7,0.1591,False,0.0,0.0
+27,PRODUCE,sales_lag_7,0.1591,False,0.0,0.0
+28,GROCERY II,sales_lag_7,0.1591,False,0.0,0.0
+31,POULTRY,sales_lag_7,0.1591,False,0.0,0.0
+31,PRODUCE,sales_lag_7,0.1591,False,0.0,0.0
+32,HOME APPLIANCES,sales_rolling_mean_7,0.1591,False,0.0,0.0
+33,DAIRY,sales_lag_7,0.1591,False,0.0,0.0
+37,HARDWARE,sales_lag_7,0.1591,False,0.0,0.0
+39,DAIRY,sales_lag_7,0.1591,False,0.0,0.0
+54,"LIQUOR,WINE,BEER",sales_lag_7,0.1591,False,0.0,0.0
+7,MAGAZINES,sales_lag_7,0.1581,False,0.0,0.0
+8,PET SUPPLIES,sales_lag_7,0.1581,False,0.0,0.0
+9,BEAUTY,sales_lag_7,0.1581,False,0.0,0.0
+18,MAGAZINES,sales_lag_7,0.1581,False,0.0,0.0
+19,HOME AND KITCHEN II,sales_lag_7,0.1581,False,0.0,0.0
+20,LAWN AND GARDEN,sales_rolling_mean_7,0.1581,False,0.0,0.0
+20,MEATS,sales_lag_7,0.1581,False,0.0,0.0
+26,LINGERIE,sales_lag_7,0.1581,False,0.0,0.0
+38,MEATS,sales_rolling_mean_7,0.1581,False,0.0,0.0
+39,LADIESWEAR,sales_lag_7,0.1581,False,0.0,0.0
+44,BEVERAGES,sales_lag_7,0.1581,False,0.0,0.0
+51,PERSONAL CARE,sales_lag_7,0.1581,False,0.0,0.0
+53,PET SUPPLIES,sales_lag_7,0.1581,False,0.0,0.0
+54,BEAUTY,sales_lag_7,0.1581,False,0.0,0.0
+8,CELEBRATION,sales_lag_7,0.157,False,0.0,0.0
+11,AUTOMOTIVE,sales_lag_7,0.157,False,0.0,0.0
+14,HOME CARE,sales_lag_7,0.157,False,0.0,0.0
+19,HARDWARE,sales_lag_7,0.157,False,0.0,0.0
+23,GROCERY II,sales_lag_7,0.157,False,0.0,0.0
+34,"LIQUOR,WINE,BEER",sales_lag_7,0.157,False,0.0,0.0
+36,AUTOMOTIVE,sales_lag_7,0.157,False,0.0,0.0
+44,PERSONAL CARE,sales_lag_7,0.157,False,0.0,0.0
+48,PERSONAL CARE,sales_lag_7,0.157,False,0.0,0.0
+52,HARDWARE,sales_lag_7,0.157,False,0.0,0.0
+6,CLEANING,sales_rolling_mean_7,0.1559,False,0.0,0.0
+8,BEVERAGES,sales_lag_7,0.1559,False,0.0,0.0
+10,"LIQUOR,WINE,BEER",sales_lag_7,0.1559,False,0.0,0.0
+14,PERSONAL CARE,sales_lag_7,0.1559,False,0.0,0.0
+18,FROZEN FOODS,sales_lag_7,0.1559,False,0.0,0.0
+20,BEAUTY,sales_lag_7,0.1559,False,0.0,0.0
+21,GROCERY I,sales_lag_7,0.1559,False,0.0,0.0
+24,PLAYERS AND ELECTRONICS,sales_lag_7,0.1559,False,0.0,0.0
+27,CELEBRATION,sales_lag_7,0.1559,False,0.0,0.0
+30,MEATS,sales_lag_7,0.1559,False,0.0,0.0
+34,GROCERY I,sales_lag_7,0.1559,False,0.0,0.0
+44,PET SUPPLIES,sales_lag_7,0.1559,False,0.0,0.0
+48,AUTOMOTIVE,sales_lag_7,0.1559,False,0.0,0.0
+6,PLAYERS AND ELECTRONICS,sales_rolling_mean_7,0.1548,False,0.0,0.0
+7,PREPARED FOODS,sales_lag_7,0.1548,False,0.0,0.0
+9,DAIRY,sales_lag_7,0.1548,False,0.0,0.0
+17,DELI,sales_rolling_mean_7,0.1548,False,0.0,0.0
+18,CELEBRATION,sales_lag_7,0.1548,False,0.0,0.0
+24,BEVERAGES,sales_lag_7,0.1548,False,0.0,0.0
+24,LINGERIE,sales_lag_7,0.1548,False,0.0,0.0
+25,PERSONAL CARE,sales_lag_7,0.1548,False,0.0,0.0
+28,HOME AND KITCHEN II,sales_lag_7,0.1548,False,0.0,0.0
+31,DELI,sales_lag_7,0.1548,False,0.0,0.0
+37,DELI,sales_lag_7,0.1548,False,0.0,0.0
+41,HARDWARE,sales_lag_7,0.1548,False,0.0,0.0
+41,HARDWARE,sales_rolling_mean_7,0.1548,False,0.0,0.0
+41,MEATS,sales_rolling_mean_7,0.1548,False,0.0,0.0
+45,DAIRY,sales_lag_7,0.1548,False,0.0,0.0
+47,DAIRY,sales_lag_7,0.1548,False,0.0,0.0
+48,DELI,sales_lag_7,0.1548,False,0.0,0.0
+48,GROCERY I,sales_lag_7,0.1548,False,0.0,0.0
+2,PERSONAL CARE,sales_lag_7,0.1538,False,0.0,0.0
+3,GROCERY I,sales_lag_7,0.1538,False,0.0,0.0
+13,PERSONAL CARE,sales_lag_7,0.1538,False,0.0,0.0
+15,FROZEN FOODS,sales_lag_7,0.1538,False,0.0,0.0
+29,POULTRY,sales_lag_7,0.1538,False,0.0,0.0
+33,AUTOMOTIVE,sales_lag_7,0.1538,False,0.0,0.0
+41,LADIESWEAR,sales_lag_7,0.1538,False,0.0,0.0
+47,LINGERIE,sales_lag_7,0.1538,False,0.0,0.0
+49,BEVERAGES,sales_lag_7,0.1538,False,0.0,0.0
+1,POULTRY,sales_lag_7,0.1527,False,0.0,0.0
+6,LADIESWEAR,sales_lag_7,0.1527,False,0.0,0.0
+21,FROZEN FOODS,sales_lag_7,0.1527,False,0.0,0.0
+21,PET SUPPLIES,sales_lag_7,0.1527,False,0.0,0.0
+27,MAGAZINES,sales_lag_7,0.1527,False,0.0,0.0
+31,CLEANING,sales_lag_7,0.1527,False,0.0,0.0
+34,SEAFOOD,sales_lag_7,0.1527,False,0.0,0.0
+42,CLEANING,sales_lag_7,0.1527,False,0.0,0.0
+46,HOME AND KITCHEN I,sales_lag_7,0.1527,False,0.0,0.0
+47,HARDWARE,sales_lag_7,0.1527,False,0.0,0.0
+48,BREAD/BAKERY,sales_lag_7,0.1527,False,0.0,0.0
+48,LAWN AND GARDEN,sales_lag_7,0.1527,False,0.0,0.0
+50,MEATS,sales_lag_7,0.1527,False,0.0,0.0
+51,MAGAZINES,sales_lag_7,0.1527,False,0.0,0.0
+4,PERSONAL CARE,sales_lag_7,0.1516,False,0.0,0.0
+9,AUTOMOTIVE,sales_lag_7,0.1516,False,0.0,0.0
+9,MAGAZINES,sales_lag_7,0.1516,False,0.0,0.0
+13,LADIESWEAR,sales_lag_7,0.1516,False,0.0,0.0
+14,FROZEN FOODS,sales_lag_7,0.1516,False,0.0,0.0
+19,CELEBRATION,sales_lag_7,0.1516,False,0.0,0.0
+21,BREAD/BAKERY,sales_lag_7,0.1516,False,0.0,0.0
+23,AUTOMOTIVE,sales_lag_7,0.1516,False,0.0,0.0
+28,CLEANING,sales_rolling_mean_7,0.1516,False,0.0,0.0
+42,PERSONAL CARE,sales_lag_7,0.1516,False,0.0,0.0
+44,EGGS,sales_lag_7,0.1516,False,0.0,0.0
+47,LADIESWEAR,sales_lag_7,0.1516,False,0.0,0.0
+49,CLEANING,sales_lag_7,0.1516,False,0.0,0.0
+49,MEATS,sales_lag_7,0.1516,False,0.0,0.0
+50,DELI,sales_lag_7,0.1516,False,0.0,0.0
+1,CELEBRATION,sales_lag_7,0.1505,False,0.0,0.0
+1,DELI,sales_lag_7,0.1505,False,0.0,0.0
+11,MEATS,sales_lag_7,0.1505,False,0.0,0.0
+17,MEATS,sales_lag_7,0.1505,False,0.0,0.0
+21,PRODUCE,sales_lag_7,0.1505,False,0.0,0.0
+26,MAGAZINES,sales_lag_7,0.1505,False,0.0,0.0
+30,PRODUCE,sales_lag_7,0.1505,False,0.0,0.0
+33,POULTRY,sales_lag_7,0.1505,False,0.0,0.0
+35,DELI,sales_lag_7,0.1505,False,0.0,0.0
+38,BREAD/BAKERY,sales_lag_7,0.1505,False,0.0,0.0
+41,PLAYERS AND ELECTRONICS,sales_lag_7,0.1505,False,0.0,0.0
+42,BREAD/BAKERY,sales_lag_7,0.1505,False,0.0,0.0
+47,BEVERAGES,sales_lag_7,0.1505,False,0.0,0.0
+54,CELEBRATION,sales_lag_7,0.1505,False,0.0,0.0
+54,HARDWARE,sales_lag_7,0.1505,False,0.0,0.0
+1,HOME AND KITCHEN II,sales_lag_7,0.1495,False,0.0,0.0
+7,PLAYERS AND ELECTRONICS,sales_lag_7,0.1495,False,0.0,0.0
+23,EGGS,sales_lag_7,0.1495,False,0.0,0.0
+26,"LIQUOR,WINE,BEER",sales_lag_7,0.1495,False,0.0,0.0
+26,PRODUCE,sales_lag_7,0.1495,False,0.0,0.0
+28,BREAD/BAKERY,sales_lag_7,0.1495,False,0.0,0.0
+33,CLEANING,sales_lag_7,0.1495,False,0.0,0.0
+50,PLAYERS AND ELECTRONICS,sales_lag_7,0.1495,False,0.0,0.0
+54,DAIRY,sales_lag_7,0.1495,False,0.0,0.0
+2,GROCERY I,sales_lag_7,0.1484,False,0.0,0.0
+3,"LIQUOR,WINE,BEER",sales_lag_7,0.1484,False,0.0,0.0
+8,PET SUPPLIES,sales_rolling_mean_7,0.1484,False,0.0,0.0
+12,"LIQUOR,WINE,BEER",sales_lag_7,0.1484,False,0.0,0.0
+12,MEATS,sales_rolling_mean_7,0.1484,False,0.0,0.0
+17,PRODUCE,sales_lag_7,0.1484,False,0.0,0.0
+21,LINGERIE,sales_lag_7,0.1484,False,0.0,0.0
+24,DAIRY,sales_lag_7,0.1484,False,0.0,0.0
+28,DAIRY,sales_lag_7,0.1484,False,0.0,0.0
+32,PRODUCE,sales_lag_7,0.1484,False,0.0,0.0
+33,GROCERY I,sales_lag_7,0.1484,False,0.0,0.0
+35,FROZEN FOODS,sales_lag_7,0.1484,False,0.0,0.0
+38,GROCERY I,sales_lag_7,0.1484,False,0.0,0.0
+49,POULTRY,sales_lag_7,0.1484,False,0.0,0.0
+53,BREAD/BAKERY,sales_lag_7,0.1484,False,0.0,0.0
+1,LAWN AND GARDEN,sales_lag_7,0.1473,False,0.0,0.0
+2,BREAD/BAKERY,sales_lag_7,0.1473,False,0.0,0.0
+8,SEAFOOD,sales_lag_7,0.1473,False,0.0,0.0
+9,MEATS,sales_lag_7,0.1473,False,0.0,0.0
+9,PERSONAL CARE,sales_lag_7,0.1473,False,0.0,0.0
+9,PRODUCE,sales_lag_7,0.1473,False,0.0,0.0
+14,HOME AND KITCHEN I,sales_lag_7,0.1473,False,0.0,0.0
+17,CLEANING,sales_lag_7,0.1473,False,0.0,0.0
+18,LADIESWEAR,sales_lag_7,0.1473,False,0.0,0.0
+19,BEVERAGES,sales_lag_7,0.1473,False,0.0,0.0
+19,MEATS,sales_lag_7,0.1473,False,0.0,0.0
+21,PERSONAL CARE,sales_lag_7,0.1473,False,0.0,0.0
+23,POULTRY,sales_lag_7,0.1473,False,0.0,0.0
+26,BREAD/BAKERY,sales_lag_7,0.1473,False,0.0,0.0
+26,HARDWARE,sales_lag_7,0.1473,False,0.0,0.0
+26,PET SUPPLIES,sales_rolling_mean_7,0.1473,False,0.0,0.0
+28,PRODUCE,sales_lag_7,0.1473,False,0.0,0.0
+34,DELI,sales_lag_7,0.1473,False,0.0,0.0
+47,EGGS,sales_lag_7,0.1473,False,0.0,0.0
+47,PERSONAL CARE,sales_lag_7,0.1473,False,0.0,0.0
+48,PET SUPPLIES,sales_lag_7,0.1473,False,0.0,0.0
+52,PRODUCE,sales_lag_7,0.1473,False,0.0,0.0
+8,PLAYERS AND ELECTRONICS,sales_lag_7,0.1462,False,0.0,0.0
+10,MAGAZINES,sales_lag_7,0.1462,False,0.0,0.0
+12,SEAFOOD,sales_lag_7,0.1462,False,0.0,0.0
+13,CLEANING,sales_lag_7,0.1462,False,0.0,0.0
+15,HARDWARE,sales_lag_7,0.1462,False,0.0,0.0
+18,DAIRY,sales_lag_7,0.1462,False,0.0,0.0
+21,MEATS,sales_rolling_mean_7,0.1462,False,0.0,0.0
+24,POULTRY,sales_rolling_mean_7,0.1462,False,0.0,0.0
+25,PRODUCE,sales_lag_7,0.1462,False,0.0,0.0
+26,PLAYERS AND ELECTRONICS,sales_lag_7,0.1462,False,0.0,0.0
+27,GROCERY I,sales_rolling_mean_7,0.1462,False,0.0,0.0
+28,DELI,sales_lag_7,0.1462,False,0.0,0.0
+34,AUTOMOTIVE,sales_rolling_mean_7,0.1462,False,0.0,0.0
+3,SEAFOOD,sales_lag_7,0.1452,False,0.0,0.0
+5,LINGERIE,sales_lag_7,0.1452,False,0.0,0.0
+5,PREPARED FOODS,sales_lag_7,0.1452,False,0.0,0.0
+6,CLEANING,sales_lag_7,0.1452,False,0.0,0.0
+22,GROCERY I,sales_lag_7,0.1452,False,0.0,0.0
+31,EGGS,sales_lag_7,0.1452,False,0.0,0.0
+38,LADIESWEAR,sales_lag_7,0.1452,False,0.0,0.0
+39,PET SUPPLIES,sales_lag_7,0.1452,False,0.0,0.0
+47,FROZEN FOODS,sales_lag_7,0.1452,False,0.0,0.0
+6,EGGS,sales_lag_7,0.1441,False,0.0,0.0
+10,DAIRY,sales_lag_7,0.1441,False,0.0,0.0
+11,AUTOMOTIVE,sales_rolling_mean_7,0.1441,False,0.0,0.0
+11,LADIESWEAR,sales_lag_7,0.1441,False,0.0,0.0
+20,"LIQUOR,WINE,BEER",sales_lag_7,0.1441,False,0.0,0.0
+22,MEATS,sales_lag_7,0.1441,False,0.0,0.0
+26,PET SUPPLIES,sales_lag_7,0.1441,False,0.0,0.0
+28,PLAYERS AND ELECTRONICS,sales_lag_7,0.1441,False,0.0,0.0
+35,BEAUTY,sales_lag_7,0.1441,False,0.0,0.0
+35,PLAYERS AND ELECTRONICS,sales_lag_7,0.1441,False,0.0,0.0
+36,LINGERIE,sales_lag_7,0.1441,False,0.0,0.0
+38,HOME AND KITCHEN II,sales_lag_7,0.1441,False,0.0,0.0
+54,PRODUCE,sales_lag_7,0.1441,False,0.0,0.0
+2,HOME APPLIANCES,sales_lag_7,0.143,False,0.0,0.0
+18,PERSONAL CARE,sales_lag_7,0.143,False,0.0,0.0
+20,PERSONAL CARE,sales_lag_7,0.143,False,0.0,0.0
+22,HOME APPLIANCES,sales_lag_7,0.143,False,0.0,0.0
+24,FROZEN FOODS,sales_lag_7,0.143,False,0.0,0.0
+28,EGGS,sales_rolling_mean_7,0.143,False,0.0,0.0
+33,PRODUCE,sales_lag_7,0.143,False,0.0,0.0
+37,BEVERAGES,sales_lag_7,0.143,False,0.0,0.0
+39,EGGS,sales_lag_7,0.143,False,0.0,0.0
+41,AUTOMOTIVE,sales_rolling_mean_7,0.143,False,0.0,0.0
+42,HARDWARE,sales_lag_7,0.143,False,0.0,0.0
+44,"LIQUOR,WINE,BEER",sales_lag_7,0.143,False,0.0,0.0
+54,CLEANING,sales_lag_7,0.143,False,0.0,0.0
+3,PREPARED FOODS,sales_lag_7,0.1419,False,0.0,0.0
+5,LAWN AND GARDEN,sales_lag_7,0.1419,False,0.0,0.0
+7,DELI,sales_lag_7,0.1419,False,0.0,0.0
+7,LADIESWEAR,sales_lag_7,0.1419,False,0.0,0.0
+11,LAWN AND GARDEN,sales_lag_7,0.1419,False,0.0,0.0
+16,DAIRY,sales_lag_7,0.1419,False,0.0,0.0
+25,DAIRY,sales_lag_7,0.1419,False,0.0,0.0
+25,FROZEN FOODS,sales_lag_7,0.1419,False,0.0,0.0
+29,BEVERAGES,sales_rolling_mean_7,0.1419,False,0.0,0.0
+36,SEAFOOD,sales_lag_7,0.1419,False,0.0,0.0
+37,GROCERY II,sales_lag_7,0.1419,False,0.0,0.0
+39,FROZEN FOODS,sales_lag_7,0.1419,False,0.0,0.0
+42,PREPARED FOODS,sales_lag_7,0.1419,False,0.0,0.0
+43,HOME AND KITCHEN I,sales_lag_7,0.1419,False,0.0,0.0
+48,CELEBRATION,sales_lag_7,0.1419,False,0.0,0.0
+51,DAIRY,sales_lag_7,0.1419,False,0.0,0.0
+6,DELI,sales_lag_7,0.1409,False,0.0,0.0
+7,AUTOMOTIVE,sales_lag_7,0.1409,False,0.0,0.0
+14,HOME AND KITCHEN II,sales_lag_7,0.1409,False,0.0,0.0
+15,LADIESWEAR,sales_lag_7,0.1409,False,0.0,0.0
+29,BEVERAGES,sales_lag_7,0.1409,False,0.0,0.0
+39,GROCERY II,sales_lag_7,0.1409,False,0.0,0.0
+41,DELI,sales_lag_7,0.1409,False,0.0,0.0
+43,GROCERY II,sales_lag_7,0.1409,False,0.0,0.0
+44,PREPARED FOODS,sales_lag_7,0.1409,False,0.0,0.0
+47,LAWN AND GARDEN,sales_lag_7,0.1409,False,0.0,0.0
+47,"LIQUOR,WINE,BEER",sales_lag_7,0.1409,False,0.0,0.0
+50,PRODUCE,sales_lag_7,0.1409,False,0.0,0.0
+4,LADIESWEAR,sales_lag_7,0.1398,False,0.0,0.0
+9,HOME APPLIANCES,sales_lag_7,0.1398,False,0.0,0.0
+10,EGGS,sales_lag_7,0.1398,False,0.0,0.0
+15,GROCERY II,sales_lag_7,0.1398,False,0.0,0.0
+17,HARDWARE,sales_lag_7,0.1398,False,0.0,0.0
+20,PRODUCE,sales_lag_7,0.1398,False,0.0,0.0
+22,MEATS,sales_rolling_mean_7,0.1398,False,0.0,0.0
+28,"LIQUOR,WINE,BEER",sales_lag_7,0.1398,False,0.0,0.0
+29,BABY CARE,sales_lag_7,0.1398,False,0.0,0.0
+32,EGGS,sales_lag_7,0.1398,False,0.0,0.0
+33,PLAYERS AND ELECTRONICS,sales_lag_7,0.1398,False,0.0,0.0
+35,HOME APPLIANCES,sales_lag_7,0.1398,False,0.0,0.0
+42,"LIQUOR,WINE,BEER",sales_lag_7,0.1398,False,0.0,0.0
+46,"LIQUOR,WINE,BEER",sales_lag_7,0.1398,False,0.0,0.0
+46,POULTRY,sales_lag_7,0.1398,False,0.0,0.0
+2,BEAUTY,sales_lag_7,0.1387,False,0.0,0.0
+20,GROCERY I,sales_lag_7,0.1387,False,0.0,0.0
+24,PRODUCE,sales_lag_7,0.1387,False,0.0,0.0
+33,PERSONAL CARE,sales_lag_7,0.1387,False,0.0,0.0
+38,PLAYERS AND ELECTRONICS,sales_lag_7,0.1387,False,0.0,0.0
+41,HOME AND KITCHEN II,sales_lag_7,0.1387,False,0.0,0.0
+43,MAGAZINES,sales_lag_7,0.1387,False,0.0,0.0
+45,FROZEN FOODS,sales_lag_7,0.1387,False,0.0,0.0
+50,PERSONAL CARE,sales_lag_7,0.1387,False,0.0,0.0
+54,DELI,sales_lag_7,0.1387,False,0.0,0.0
+2,PRODUCE,sales_lag_7,0.1376,False,0.0,0.0
+6,BEAUTY,sales_lag_7,0.1376,False,0.0,0.0
+7,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1376,False,0.0,0.0
+13,MEATS,sales_lag_7,0.1376,False,0.0,0.0
+16,BEVERAGES,sales_lag_7,0.1376,False,0.0,0.0
+23,CLEANING,sales_rolling_mean_7,0.1376,False,0.0,0.0
+25,EGGS,sales_lag_7,0.1376,False,0.0,0.0
+44,FROZEN FOODS,sales_lag_7,0.1376,False,0.0,0.0
+44,HOME AND KITCHEN I,sales_lag_7,0.1376,False,0.0,0.0
+47,GROCERY I,sales_lag_7,0.1376,False,0.0,0.0
+48,PREPARED FOODS,sales_lag_7,0.1376,False,0.0,0.0
+51,BREAD/BAKERY,sales_lag_7,0.1376,False,0.0,0.0
+53,AUTOMOTIVE,sales_lag_7,0.1376,False,0.0,0.0
+53,FROZEN FOODS,sales_lag_7,0.1376,False,0.0,0.0
+4,GROCERY II,sales_lag_7,0.1366,False,0.0,0.0
+14,PLAYERS AND ELECTRONICS,sales_lag_7,0.1366,False,0.0,0.0
+17,LADIESWEAR,sales_lag_7,0.1366,False,0.0,0.0
+24,PREPARED FOODS,sales_lag_7,0.1366,False,0.0,0.0
+27,PREPARED FOODS,sales_rolling_mean_7,0.1366,False,0.0,0.0
+33,LINGERIE,sales_rolling_mean_7,0.1366,False,0.0,0.0
+38,BEVERAGES,sales_lag_7,0.1366,False,0.0,0.0
+45,POULTRY,sales_lag_7,0.1366,False,0.0,0.0
+52,EGGS,sales_lag_7,0.1366,False,0.0,0.0
+3,PET SUPPLIES,sales_lag_7,0.1355,False,0.0,0.0
+8,PRODUCE,sales_lag_7,0.1355,False,0.0,0.0
+12,CELEBRATION,sales_lag_7,0.1355,False,0.0,0.0
+13,"LIQUOR,WINE,BEER",sales_lag_7,0.1355,False,0.0,0.0
+17,GROCERY I,sales_lag_7,0.1355,False,0.0,0.0
+24,AUTOMOTIVE,sales_lag_7,0.1355,False,0.0,0.0
+26,HOME AND KITCHEN II,sales_lag_7,0.1355,False,0.0,0.0
+37,BEAUTY,sales_lag_7,0.1355,False,0.0,0.0
+37,PLAYERS AND ELECTRONICS,sales_lag_7,0.1355,False,0.0,0.0
+38,POULTRY,sales_lag_7,0.1355,False,0.0,0.0
+47,PRODUCE,sales_lag_7,0.1355,False,0.0,0.0
+49,PRODUCE,sales_lag_7,0.1355,False,0.0,0.0
+50,PREPARED FOODS,sales_lag_7,0.1355,False,0.0,0.0
+54,HOME AND KITCHEN II,sales_lag_7,0.1355,False,0.0,0.0
+2,MAGAZINES,sales_lag_7,0.1344,False,0.0,0.0
+3,LINGERIE,sales_lag_7,0.1344,False,0.0,0.0
+12,HOME APPLIANCES,sales_lag_7,0.1344,False,0.0,0.0
+20,HOME APPLIANCES,sales_rolling_mean_7,0.1344,False,0.0,0.0
+23,"LIQUOR,WINE,BEER",sales_lag_7,0.1344,False,0.0,0.0
+29,AUTOMOTIVE,sales_lag_7,0.1344,False,0.0,0.0
+31,PLAYERS AND ELECTRONICS,sales_lag_7,0.1344,False,0.0,0.0
+35,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1344,False,0.0,0.0
+36,LAWN AND GARDEN,sales_lag_7,0.1344,False,0.0,0.0
+36,PLAYERS AND ELECTRONICS,sales_lag_7,0.1344,False,0.0,0.0
+40,MAGAZINES,sales_rolling_mean_7,0.1344,False,0.0,0.0
+45,BEVERAGES,sales_rolling_mean_7,0.1344,False,0.0,0.0
+46,LINGERIE,sales_lag_7,0.1344,False,0.0,0.0
+49,BEAUTY,sales_lag_7,0.1344,False,0.0,0.0
+50,MAGAZINES,sales_lag_7,0.1344,False,0.0,0.0
+2,BABY CARE,sales_lag_7,0.1333,False,0.0,0.0
+3,MEATS,sales_lag_7,0.1333,False,0.0,0.0
+3,POULTRY,sales_lag_7,0.1333,False,0.0,0.0
+5,PERSONAL CARE,sales_lag_7,0.1333,False,0.0,0.0
+7,CLEANING,sales_lag_7,0.1333,False,0.0,0.0
+8,POULTRY,sales_lag_7,0.1333,False,0.0,0.0
+10,LADIESWEAR,sales_lag_7,0.1333,False,0.0,0.0
+12,BABY CARE,sales_lag_7,0.1333,False,0.0,0.0
+23,CELEBRATION,sales_rolling_mean_7,0.1333,False,0.0,0.0
+26,POULTRY,sales_lag_7,0.1333,False,0.0,0.0
+30,PREPARED FOODS,sales_rolling_mean_7,0.1333,False,0.0,0.0
+31,BABY CARE,sales_lag_7,0.1333,False,0.0,0.0
+40,DAIRY,sales_rolling_mean_7,0.1333,False,0.0,0.0
+43,EGGS,sales_lag_7,0.1333,False,0.0,0.0
+44,MEATS,sales_lag_7,0.1333,False,0.0,0.0
+49,LAWN AND GARDEN,sales_lag_7,0.1333,False,0.0,0.0
+2,AUTOMOTIVE,sales_lag_7,0.129,False,0.0,0.0
+3,FROZEN FOODS,sales_lag_7,0.129,False,0.0,0.0
+3,LAWN AND GARDEN,sales_lag_7,0.129,False,0.0,0.0
+5,HARDWARE,sales_lag_7,0.129,False,0.0,0.0
+12,BREAD/BAKERY,sales_rolling_mean_7,0.129,False,0.0,0.0
+16,BABY CARE,sales_rolling_mean_7,0.129,False,0.0,0.0
+22,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.129,False,0.0,0.0
+28,CELEBRATION,sales_lag_7,0.129,False,0.0,0.0
+28,FROZEN FOODS,sales_rolling_mean_7,0.129,False,0.0,0.0
+32,PET SUPPLIES,sales_lag_7,0.129,False,0.0,0.0
+36,CLEANING,sales_rolling_mean_7,0.129,False,0.0,0.0
+41,GROCERY II,sales_lag_7,0.129,False,0.0,0.0
+43,AUTOMOTIVE,sales_lag_7,0.129,False,0.0,0.0
+43,BABY CARE,sales_lag_7,0.129,False,0.0,0.0
+43,HARDWARE,sales_rolling_mean_7,0.129,False,0.0,0.0
+43,HOME APPLIANCES,sales_lag_7,0.129,False,0.0,0.0
+47,MEATS,sales_rolling_mean_7,0.129,False,0.0,0.0
+49,EGGS,sales_lag_7,0.129,False,0.0,0.0
+50,PREPARED FOODS,sales_rolling_mean_7,0.129,False,0.0,0.0
+54,GROCERY II,sales_lag_7,0.129,False,0.0,0.0
+54,SEAFOOD,sales_rolling_mean_7,0.129,False,0.0,0.0
+21,BEAUTY,sales_lag_7,0.128,False,0.0,0.0
+21,HOME AND KITCHEN II,sales_lag_7,0.128,False,0.0,0.0
+25,MAGAZINES,sales_lag_7,0.128,False,0.0,0.0
+31,PERSONAL CARE,sales_lag_7,0.128,False,0.0,0.0
+35,CLEANING,sales_lag_7,0.128,False,0.0,0.0
+44,POULTRY,sales_lag_7,0.128,False,0.0,0.0
+45,LADIESWEAR,sales_lag_7,0.128,False,0.0,0.0
+47,MAGAZINES,sales_lag_7,0.128,False,0.0,0.0
+4,DELI,sales_rolling_mean_7,0.1269,False,0.0,0.0
+11,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1269,False,0.0,0.0
+34,MAGAZINES,sales_rolling_mean_7,0.1269,False,0.0,0.0
+34,PET SUPPLIES,sales_lag_7,0.1269,False,0.0,0.0
+38,PRODUCE,sales_lag_7,0.1269,False,0.0,0.0
+46,BEVERAGES,sales_lag_7,0.1269,False,0.0,0.0
+46,PRODUCE,sales_lag_7,0.1269,False,0.0,0.0
+51,EGGS,sales_lag_7,0.1269,False,0.0,0.0
+5,HOME AND KITCHEN I,sales_lag_7,0.1258,False,0.0,0.0
+7,CELEBRATION,sales_lag_7,0.1258,False,0.0,0.0
+13,CELEBRATION,sales_lag_7,0.1258,False,0.0,0.0
+18,CLEANING,sales_rolling_mean_7,0.1258,False,0.0,0.0
+25,MEATS,sales_lag_7,0.1258,False,0.0,0.0
+29,GROCERY I,sales_lag_7,0.1258,False,0.0,0.0
+29,PRODUCE,sales_lag_7,0.1258,False,0.0,0.0
+34,CELEBRATION,sales_lag_7,0.1258,False,0.0,0.0
+39,MAGAZINES,sales_lag_7,0.1258,False,0.0,0.0
+44,CELEBRATION,sales_lag_7,0.1258,False,0.0,0.0
+53,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1258,False,0.0,0.0
+1,LINGERIE,sales_lag_7,0.1247,False,0.0,0.0
+12,AUTOMOTIVE,sales_lag_7,0.1247,False,0.0,0.0
+19,CLEANING,sales_lag_7,0.1247,False,0.0,0.0
+32,PLAYERS AND ELECTRONICS,sales_lag_7,0.1247,False,0.0,0.0
+38,GROCERY II,sales_lag_7,0.1247,False,0.0,0.0
+39,BEAUTY,sales_lag_7,0.1247,False,0.0,0.0
+45,GROCERY I,sales_lag_7,0.1247,False,0.0,0.0
+48,LADIESWEAR,sales_lag_7,0.1247,False,0.0,0.0
+52,PLAYERS AND ELECTRONICS,sales_lag_7,0.1247,False,0.0,0.0
+2,LADIESWEAR,sales_lag_7,0.1237,False,0.0,0.0
+6,PLAYERS AND ELECTRONICS,sales_lag_7,0.1237,False,0.0,0.0
+7,HOME APPLIANCES,sales_lag_7,0.1237,False,0.0,0.0
+14,BEVERAGES,sales_lag_7,0.1237,False,0.0,0.0
+17,PERSONAL CARE,sales_lag_7,0.1237,False,0.0,0.0
+25,HOME AND KITCHEN II,sales_lag_7,0.1237,False,0.0,0.0
+27,GROCERY I,sales_lag_7,0.1237,False,0.0,0.0
+44,PRODUCE,sales_lag_7,0.1237,False,0.0,0.0
+47,AUTOMOTIVE,sales_lag_7,0.1237,False,0.0,0.0
+50,EGGS,sales_lag_7,0.1237,False,0.0,0.0
+51,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1237,False,0.0,0.0
+2,BEVERAGES,sales_lag_7,0.1226,False,0.0,0.0
+3,AUTOMOTIVE,sales_lag_7,0.1226,False,0.0,0.0
+8,HOME AND KITCHEN I,sales_lag_7,0.1226,False,0.0,0.0
+15,MAGAZINES,sales_lag_7,0.1226,False,0.0,0.0
+17,DELI,sales_lag_7,0.1226,False,0.0,0.0
+25,BEAUTY,sales_rolling_mean_7,0.1226,False,0.0,0.0
+28,CLEANING,sales_lag_7,0.1226,False,0.0,0.0
+32,CLEANING,sales_lag_7,0.1226,False,0.0,0.0
+37,PET SUPPLIES,sales_lag_7,0.1226,False,0.0,0.0
+2,LINGERIE,sales_lag_7,0.1215,False,0.0,0.0
+3,DELI,sales_lag_7,0.1215,False,0.0,0.0
+3,PRODUCE,sales_lag_7,0.1215,False,0.0,0.0
+4,POULTRY,sales_lag_7,0.1215,False,0.0,0.0
+22,FROZEN FOODS,sales_lag_7,0.1215,False,0.0,0.0
+26,AUTOMOTIVE,sales_lag_7,0.1215,False,0.0,0.0
+33,GROCERY II,sales_lag_7,0.1215,False,0.0,0.0
+41,DAIRY,sales_lag_7,0.1215,False,0.0,0.0
+41,GROCERY I,sales_lag_7,0.1215,False,0.0,0.0
+43,CLEANING,sales_lag_7,0.1215,False,0.0,0.0
+45,BEAUTY,sales_lag_7,0.1215,False,0.0,0.0
+45,HOME APPLIANCES,sales_lag_7,0.1215,False,0.0,0.0
+1,PREPARED FOODS,sales_lag_7,0.1204,False,0.0,0.0
+3,BABY CARE,sales_lag_7,0.1204,False,0.0,0.0
+22,SEAFOOD,sales_lag_7,0.1204,False,0.0,0.0
+31,SEAFOOD,sales_lag_7,0.1204,False,0.0,0.0
+34,MAGAZINES,sales_lag_7,0.1204,False,0.0,0.0
+42,BEVERAGES,sales_lag_7,0.1204,False,0.0,0.0
+43,DAIRY,sales_lag_7,0.1204,False,0.0,0.0
+53,DAIRY,sales_lag_7,0.1204,False,0.0,0.0
+20,DELI,sales_lag_7,0.1194,False,0.0,0.0
+32,SEAFOOD,sales_lag_7,0.1194,False,0.0,0.0
+33,MEATS,sales_lag_7,0.1194,False,0.0,0.0
+47,PLAYERS AND ELECTRONICS,sales_lag_7,0.1194,False,0.0,0.0
+48,MEATS,sales_lag_7,0.1194,False,0.0,0.0
+51,LADIESWEAR,sales_lag_7,0.1194,False,0.0,0.0
+53,GROCERY I,sales_lag_7,0.1194,False,0.0,0.0
+2,"LIQUOR,WINE,BEER",sales_lag_7,0.1183,False,0.0,0.0
+2,POULTRY,sales_lag_7,0.1183,False,0.0,0.0
+9,BREAD/BAKERY,sales_lag_7,0.1183,False,0.0,0.0
+9,LAWN AND GARDEN,sales_lag_7,0.1183,False,0.0,0.0
+21,LAWN AND GARDEN,sales_lag_7,0.1183,False,0.0,0.0
+24,CLEANING,sales_lag_7,0.1183,False,0.0,0.0
+26,LAWN AND GARDEN,sales_lag_7,0.1183,False,0.0,0.0
+41,MAGAZINES,sales_lag_7,0.1183,False,0.0,0.0
+49,DELI,sales_lag_7,0.1183,False,0.0,0.0
+51,BEVERAGES,sales_lag_7,0.1183,False,0.0,0.0
+13,MAGAZINES,sales_lag_7,0.1172,False,0.0,0.0
+48,HARDWARE,sales_lag_7,0.1172,False,0.0,0.0
+4,HOME AND KITCHEN II,sales_lag_7,0.1161,False,0.0,0.0
+11,BEVERAGES,sales_lag_7,0.1161,False,0.0,0.0
+12,BEAUTY,sales_lag_7,0.1161,False,0.0,0.0
+17,PET SUPPLIES,sales_rolling_mean_7,0.1161,False,0.0,0.0
+21,AUTOMOTIVE,sales_lag_7,0.1161,False,0.0,0.0
+23,FROZEN FOODS,sales_lag_7,0.1161,False,0.0,0.0
+24,HARDWARE,sales_lag_7,0.1161,False,0.0,0.0
+26,DELI,sales_rolling_mean_7,0.1161,False,0.0,0.0
+34,DAIRY,sales_lag_7,0.1161,False,0.0,0.0
+38,MEATS,sales_lag_7,0.1161,False,0.0,0.0
+40,HOME AND KITCHEN I,sales_lag_7,0.1161,False,0.0,0.0
+44,GROCERY I,sales_lag_7,0.1161,False,0.0,0.0
+53,PREPARED FOODS,sales_lag_7,0.1161,False,0.0,0.0
+1,MAGAZINES,sales_lag_7,0.1151,False,0.0,0.0
+5,PREPARED FOODS,sales_rolling_mean_7,0.1151,False,0.0,0.0
+14,PREPARED FOODS,sales_lag_7,0.1151,False,0.0,0.0
+25,BEAUTY,sales_lag_7,0.1151,False,0.0,0.0
+37,"LIQUOR,WINE,BEER",sales_lag_7,0.1151,False,0.0,0.0
+53,POULTRY,sales_lag_7,0.1151,False,0.0,0.0
+3,HARDWARE,sales_lag_7,0.114,False,0.0,0.0
+4,DAIRY,sales_lag_7,0.114,False,0.0,0.0
+10,BREAD/BAKERY,sales_lag_7,0.114,False,0.0,0.0
+13,LINGERIE,sales_lag_7,0.114,False,0.0,0.0
+18,MEATS,sales_lag_7,0.114,False,0.0,0.0
+20,PLAYERS AND ELECTRONICS,sales_lag_7,0.114,False,0.0,0.0
+25,SEAFOOD,sales_lag_7,0.114,False,0.0,0.0
+33,MAGAZINES,sales_lag_7,0.114,False,0.0,0.0
+38,MAGAZINES,sales_lag_7,0.114,False,0.0,0.0
+40,DELI,sales_lag_7,0.114,False,0.0,0.0
+50,BEVERAGES,sales_lag_7,0.114,False,0.0,0.0
+50,DAIRY,sales_lag_7,0.114,False,0.0,0.0
+54,PERSONAL CARE,sales_lag_7,0.114,False,0.0,0.0
+6,"LIQUOR,WINE,BEER",sales_lag_7,0.1129,False,0.0,0.0
+13,PET SUPPLIES,sales_lag_7,0.1129,False,0.0,0.0
+15,HOME AND KITCHEN II,sales_lag_7,0.1129,False,0.0,0.0
+16,PRODUCE,sales_lag_7,0.1129,False,0.0,0.0
+30,BABY CARE,sales_rolling_mean_7,0.1129,False,0.0,0.0
+33,PET SUPPLIES,sales_lag_7,0.1129,False,0.0,0.0
+40,HARDWARE,sales_lag_7,0.1129,False,0.0,0.0
+52,PERSONAL CARE,sales_lag_7,0.1129,False,0.0,0.0
+53,GROCERY II,sales_lag_7,0.1129,False,0.0,0.0
+9,HARDWARE,sales_lag_7,0.1118,False,0.0,0.0
+9,LINGERIE,sales_lag_7,0.1118,False,0.0,0.0
+23,PET SUPPLIES,sales_lag_7,0.1118,False,0.0,0.0
+28,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1118,False,0.0,0.0
+45,BEVERAGES,sales_lag_7,0.1118,False,0.0,0.0
+46,HARDWARE,sales_lag_7,0.1118,False,0.0,0.0
+48,"LIQUOR,WINE,BEER",sales_lag_7,0.1118,False,0.0,0.0
+48,PRODUCE,sales_lag_7,0.1118,False,0.0,0.0
+51,PRODUCE,sales_lag_7,0.1118,False,0.0,0.0
+53,SEAFOOD,sales_lag_7,0.1118,False,0.0,0.0
+54,AUTOMOTIVE,sales_lag_7,0.1118,False,0.0,0.0
+6,GROCERY I,sales_lag_7,0.1108,False,0.0,0.0
+17,"LIQUOR,WINE,BEER",sales_lag_7,0.1108,False,0.0,0.0
+21,"LIQUOR,WINE,BEER",sales_lag_7,0.1108,False,0.0,0.0
+26,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1108,False,0.0,0.0
+28,MAGAZINES,sales_lag_7,0.1108,False,0.0,0.0
+29,PREPARED FOODS,sales_lag_7,0.1108,False,0.0,0.0
+40,DAIRY,sales_lag_7,0.1108,False,0.0,0.0
+48,HOME AND KITCHEN II,sales_lag_7,0.1108,False,0.0,0.0
+54,POULTRY,sales_lag_7,0.1108,False,0.0,0.0
+28,HARDWARE,sales_lag_7,0.1097,False,0.0,0.0
+30,POULTRY,sales_lag_7,0.1097,False,0.0,0.0
+32,MAGAZINES,sales_rolling_mean_7,0.1097,False,0.0,0.0
+39,MEATS,sales_lag_7,0.1097,False,0.0,0.0
+41,BREAD/BAKERY,sales_lag_7,0.1097,False,0.0,0.0
+45,PLAYERS AND ELECTRONICS,sales_lag_7,0.1097,False,0.0,0.0
+10,HOME AND KITCHEN II,sales_lag_7,0.1086,False,0.0,0.0
+15,AUTOMOTIVE,sales_lag_7,0.1086,False,0.0,0.0
+16,HARDWARE,sales_lag_7,0.1086,False,0.0,0.0
+25,BEVERAGES,sales_lag_7,0.1086,False,0.0,0.0
+34,CLEANING,sales_lag_7,0.1086,False,0.0,0.0
+46,CLEANING,sales_lag_7,0.1086,False,0.0,0.0
+12,FROZEN FOODS,sales_lag_7,0.1075,False,0.0,0.0
+13,BREAD/BAKERY,sales_lag_7,0.1075,False,0.0,0.0
+29,DELI,sales_lag_7,0.1075,False,0.0,0.0
+35,PREPARED FOODS,sales_lag_7,0.1075,False,0.0,0.0
+45,PRODUCE,sales_lag_7,0.1075,False,0.0,0.0
+54,HOME AND KITCHEN II,sales_rolling_mean_7,0.1075,False,0.0,0.0
+54,MAGAZINES,sales_lag_7,0.1075,False,0.0,0.0
+1,BOOKS,sales_lag_7,0.1065,False,0.0,0.0
+5,HOME AND KITCHEN II,sales_lag_7,0.1065,False,0.0,0.0
+12,HARDWARE,sales_lag_7,0.1065,False,0.0,0.0
+24,BOOKS,sales_lag_7,0.1065,False,0.0,0.0
+29,FROZEN FOODS,sales_lag_7,0.1065,False,0.0,0.0
+43,CELEBRATION,sales_lag_7,0.1065,False,0.0,0.0
+50,POULTRY,sales_lag_7,0.1065,False,0.0,0.0
+20,HARDWARE,sales_lag_7,0.1054,False,0.0,0.0
+42,GROCERY II,sales_lag_7,0.1054,False,0.0,0.0
+51,POULTRY,sales_lag_7,0.1054,False,0.0,0.0
+2,SEAFOOD,sales_lag_7,0.1043,False,0.0,0.0
+5,AUTOMOTIVE,sales_lag_7,0.1043,False,0.0,0.0
+20,AUTOMOTIVE,sales_lag_7,0.1043,False,0.0,0.0
+28,BEAUTY,sales_lag_7,0.1043,False,0.0,0.0
+29,DAIRY,sales_lag_7,0.1043,False,0.0,0.0
+41,PRODUCE,sales_lag_7,0.1043,False,0.0,0.0
+45,CELEBRATION,sales_lag_7,0.1043,False,0.0,0.0
+54,PLAYERS AND ELECTRONICS,sales_lag_7,0.1043,False,0.0,0.0
+9,BABY CARE,sales_lag_7,0.1032,False,0.0,0.0
+10,MAGAZINES,sales_rolling_mean_7,0.1032,False,0.0,0.0
+18,HARDWARE,sales_lag_7,0.1032,False,0.0,0.0
+19,AUTOMOTIVE,sales_lag_7,0.1032,False,0.0,0.0
+28,FROZEN FOODS,sales_lag_7,0.1032,False,0.0,0.0
+49,HOME AND KITCHEN II,sales_lag_7,0.1032,False,0.0,0.0
+2,HARDWARE,sales_lag_7,0.1022,False,0.0,0.0
+5,HOME APPLIANCES,sales_rolling_mean_7,0.1022,False,0.0,0.0
+10,HARDWARE,sales_lag_7,0.1022,False,0.0,0.0
+22,BABY CARE,sales_lag_7,0.1022,False,0.0,0.0
+28,AUTOMOTIVE,sales_lag_7,0.1022,False,0.0,0.0
+31,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1022,False,0.0,0.0
+50,"LIQUOR,WINE,BEER",sales_lag_7,0.1022,False,0.0,0.0
+51,LINGERIE,sales_lag_7,0.1022,False,0.0,0.0
+4,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.1011,False,0.0,0.0
+10,CELEBRATION,sales_lag_7,0.1011,False,0.0,0.0
+13,HARDWARE,sales_lag_7,0.1011,False,0.0,0.0
+15,HOME CARE,sales_lag_7,0.1011,False,0.0,0.0
+42,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.1011,False,0.0,0.0
+46,PREPARED FOODS,sales_lag_7,0.1011,False,0.0,0.0
+4,DELI,sales_lag_7,0.1,False,0.0,0.0
+15,"LIQUOR,WINE,BEER",sales_rolling_mean_7,0.1,False,0.0,0.0
+27,MAGAZINES,sales_rolling_mean_7,0.1,False,0.0,0.0
+30,PET SUPPLIES,sales_lag_7,0.1,False,0.0,0.0
+31,HOME APPLIANCES,sales_lag_7,0.1,False,0.0,0.0
+36,PRODUCE,sales_lag_7,0.1,False,0.0,0.0
+44,PLAYERS AND ELECTRONICS,sales_lag_7,0.1,False,0.0,0.0
+50,SEAFOOD,sales_lag_7,0.1,False,0.0,0.0
+4,BOOKS,sales_rolling_mean_7,0.0968,False,0.0,0.0
+21,MEATS,sales_lag_7,0.0968,False,0.0,0.0
+38,DELI,sales_lag_7,0.0968,False,0.0,0.0
+44,BOOKS,sales_lag_7,0.0968,False,0.0,0.0
+5,PET SUPPLIES,sales_lag_7,0.0957,False,0.0,0.0
+13,FROZEN FOODS,sales_lag_7,0.0957,False,0.0,0.0
+24,BABY CARE,sales_lag_7,0.0957,False,0.0,0.0
+29,HOME AND KITCHEN I,sales_lag_7,0.0957,False,0.0,0.0
+35,LINGERIE,sales_lag_7,0.0957,False,0.0,0.0
+40,PET SUPPLIES,sales_lag_7,0.0957,False,0.0,0.0
+11,HARDWARE,sales_lag_7,0.0946,False,0.0,0.0
+30,HARDWARE,sales_lag_7,0.0946,False,0.0,0.0
+6,HOME AND KITCHEN I,sales_lag_7,0.0935,False,0.0,0.0
+17,MAGAZINES,sales_lag_7,0.0935,False,0.0,0.0
+17,PET SUPPLIES,sales_lag_7,0.0935,False,0.0,0.0
+20,LAWN AND GARDEN,sales_lag_7,0.0935,False,0.0,0.0
+32,CELEBRATION,sales_lag_7,0.0935,False,0.0,0.0
+45,PERSONAL CARE,sales_lag_7,0.0935,False,0.0,0.0
+5,BABY CARE,sales_lag_7,0.0925,False,0.0,0.0
+31,MAGAZINES,sales_lag_7,0.0925,False,0.0,0.0
+32,AUTOMOTIVE,sales_lag_7,0.0925,False,0.0,0.0
+38,HOME APPLIANCES,sales_lag_7,0.0914,False,0.0,0.0
+6,PET SUPPLIES,sales_lag_7,0.0903,False,0.0,0.0
+12,MAGAZINES,sales_lag_7,0.0903,False,0.0,0.0
+39,BABY CARE,sales_lag_7,0.0903,False,0.0,0.0
+54,HOME APPLIANCES,sales_lag_7,0.0903,False,0.0,0.0
+2,DELI,sales_lag_7,0.0892,False,0.0,0.0
+7,LINGERIE,sales_lag_7,0.0892,False,0.0,0.0
+15,PERSONAL CARE,sales_lag_7,0.0892,False,0.0,0.0
+43,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0892,False,0.0,0.0
+39,LAWN AND GARDEN,sales_lag_7,0.0882,False,0.0,0.0
+1,LADIESWEAR,sales_lag_7,0.0871,False,0.0,0.0
+1,PLAYERS AND ELECTRONICS,sales_lag_7,0.0871,False,0.0,0.0
+10,LINGERIE,sales_lag_7,0.0871,False,0.0,0.0
+17,CELEBRATION,sales_lag_7,0.0871,False,0.0,0.0
+19,SEAFOOD,sales_lag_7,0.0871,False,0.0,0.0
+4,HOME APPLIANCES,sales_lag_7,0.086,False,0.0,0.0
+33,SEAFOOD,sales_lag_7,0.086,False,0.0,0.0
+3,HOME APPLIANCES,sales_lag_7,0.0849,False,0.0,0.0
+13,BEAUTY,sales_lag_7,0.0849,False,0.0,0.0
+51,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0849,False,0.0,0.0
+33,HARDWARE,sales_lag_7,0.0839,False,0.0,0.0
+5,BEAUTY,sales_lag_7,0.0817,False,0.0,0.0
+5,POULTRY,sales_lag_7,0.0817,False,0.0,0.0
+19,LADIESWEAR,sales_lag_7,0.0817,False,0.0,0.0
+36,HARDWARE,sales_lag_7,0.0796,False,0.0,0.0
+39,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0796,False,0.0,0.0
+25,POULTRY,sales_lag_7,0.0785,False,0.0,0.0
+45,HARDWARE,sales_lag_7,0.0785,False,0.0,0.0
+14,POULTRY,sales_lag_7,0.0753,False,0.0,0.0
+18,AUTOMOTIVE,sales_lag_7,0.0742,False,0.0,0.0
+30,HOME APPLIANCES,sales_lag_7,0.0742,False,0.0,0.0
+39,HOME APPLIANCES,sales_lag_7,0.0742,False,0.0,0.0
+5,HOME APPLIANCES,sales_lag_7,0.0731,False,0.0,0.0
+32,HARDWARE,sales_lag_7,0.0731,False,0.0,0.0
+12,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.071,False,0.0,0.0
+23,HARDWARE,sales_lag_7,0.071,False,0.0,0.0
+32,MAGAZINES,sales_lag_7,0.071,False,0.0,0.0
+4,PLAYERS AND ELECTRONICS,sales_lag_7,0.0699,False,0.0,0.0
+10,HOME APPLIANCES,sales_lag_7,0.0699,False,0.0,0.0
+20,HOME APPLIANCES,sales_lag_7,0.0699,False,0.0,0.0
+27,BOOKS,sales_lag_7,0.0699,False,0.0,0.0
+13,HOME APPLIANCES,sales_lag_7,0.0688,False,0.0,0.0
+15,HOME APPLIANCES,sales_lag_7,0.0688,False,0.0,0.0
+40,BABY CARE,sales_lag_7,0.0688,False,0.0,0.0
+20,BABY CARE,sales_lag_7,0.0677,False,0.0,0.0
+25,HOME APPLIANCES,sales_lag_7,0.0677,False,0.0,0.0
+46,MAGAZINES,sales_lag_7,0.0677,False,0.0,0.0
+2,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0667,False,0.0,0.0
+14,HOME APPLIANCES,sales_lag_7,0.0667,False,0.0,0.0
+42,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0667,False,0.0,0.0
+4,BABY CARE,sales_rolling_mean_7,0.0645,False,0.0,0.0
+19,HOME APPLIANCES,sales_lag_7,0.0645,False,0.0,0.0
+21,BABY CARE,sales_lag_7,0.0645,False,0.0,0.0
+35,BABY CARE,sales_lag_7,0.0645,False,0.0,0.0
+18,BABY CARE,sales_lag_7,0.0634,False,0.0,0.0
+47,BOOKS,sales_lag_7,0.0634,False,0.0,0.0
+17,HARDWARE,sales_rolling_mean_7,0.0624,False,0.0,0.0
+37,MAGAZINES,sales_lag_7,0.0624,False,0.0,0.0
+51,BOOKS,sales_lag_7,0.0624,False,0.0,0.0
+53,HARDWARE,sales_lag_7,0.0624,False,0.0,0.0
+54,PET SUPPLIES,sales_lag_7,0.0624,False,0.0,0.0
+7,BABY CARE,sales_lag_7,0.0613,False,0.0,0.0
+49,HARDWARE,sales_lag_7,0.0602,False,0.0,0.0
+53,HOME APPLIANCES,sales_lag_7,0.0602,False,0.0,0.0
+22,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0591,False,0.0,0.0
+9,PET SUPPLIES,sales_lag_7,0.057,False,0.0,0.0
+23,LINGERIE,sales_lag_7,0.0559,False,0.0,0.0
+4,MAGAZINES,sales_lag_7,0.0516,False,0.0,0.0
+14,PET SUPPLIES,sales_lag_7,0.0473,False,0.0,0.0
+30,BEAUTY,sales_lag_7,0.0452,False,0.0,0.0
+16,SEAFOOD,sales_lag_7,0.0441,False,0.0,0.0
+30,BABY CARE,sales_lag_7,0.043,False,0.0,0.0
+33,HOME APPLIANCES,sales_lag_7,0.043,False,0.0,0.0
+35,PET SUPPLIES,sales_lag_7,0.0398,False,0.0,0.0
+23,BEAUTY,sales_lag_7,0.0387,False,0.0,0.0
+25,HARDWARE,sales_lag_7,0.0387,False,0.0,0.0
+35,HARDWARE,sales_lag_7,0.0376,False,0.0,0.0
+35,MAGAZINES,sales_lag_7,0.0376,False,0.0,0.0
+16,HOME APPLIANCES,sales_lag_7,0.0366,False,0.0,0.0
+27,HOME APPLIANCES,sales_lag_7,0.0355,False,0.0,0.0
+8,BABY CARE,sales_lag_7,0.0344,False,0.0,0.0
+36,BABY CARE,sales_lag_7,0.0344,False,0.0,0.0
+48,BOOKS,sales_lag_7,0.0344,False,0.0,0.0
+2,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0333,False,0.0,0.0
+16,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0333,False,0.0,0.0
+16,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0333,False,0.0,0.0
+17,BABY CARE,sales_lag_7,0.0333,False,0.0,0.0
+17,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0333,False,0.0,0.0
+26,BEAUTY,sales_lag_7,0.0333,False,0.0,0.0
+27,BABY CARE,sales_lag_7,0.0333,False,0.0,0.0
+30,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0333,False,0.0,0.0
+38,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0333,False,0.0,0.0
+43,HARDWARE,sales_lag_7,0.0333,False,0.0,0.0
+8,BOOKS,sales_lag_7,0.0323,False,0.0,0.0
+14,HARDWARE,sales_lag_7,0.0323,False,0.0,0.0
+23,HOME APPLIANCES,sales_lag_7,0.0323,False,0.0,0.0
+28,BABY CARE,sales_lag_7,0.0323,False,0.0,0.0
+32,BEAUTY,sales_lag_7,0.0323,False,0.0,0.0
+38,BOOKS,sales_lag_7,0.0323,False,0.0,0.0
+40,HOME APPLIANCES,sales_lag_7,0.0323,False,0.0,0.0
+45,BOOKS,sales_lag_7,0.0323,False,0.0,0.0
+25,BABY CARE,sales_lag_7,0.0312,False,0.0,0.0
+7,BOOKS,sales_lag_7,0.029,False,0.0,0.0
+46,BOOKS,sales_lag_7,0.0269,False,0.0,0.0
+4,BOOKS,sales_lag_7,0.0032,False,0.0,0.0
+50,BOOKS,sales_lag_7,0.0022,False,0.0,0.0
+32,HOME APPLIANCES,sales_lag_7,0.0011,False,0.0,0.0
+49,BOOKS,sales_lag_7,0.0011,False,0.0,0.0
+1,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+1,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+1,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+1,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+2,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+2,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+4,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+5,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+5,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+6,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+6,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+6,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+6,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+9,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+9,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+10,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+10,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+10,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+10,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+10,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+10,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+10,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+10,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+11,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+11,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+12,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+12,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+12,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+12,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+13,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+13,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+13,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+13,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+13,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+13,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+13,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+13,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+14,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+14,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+14,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+14,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+14,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+14,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+15,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+15,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+15,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+15,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+15,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+15,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+16,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+16,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+16,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+16,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+16,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+16,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+16,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+17,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+17,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+17,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+17,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+18,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+18,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+19,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+19,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+19,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+19,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+19,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+19,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+20,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+20,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+21,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+21,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+22,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+22,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+22,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+22,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+23,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+23,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+23,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+23,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+23,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+23,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+24,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+24,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+25,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+25,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+25,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+25,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+26,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+26,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+26,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+26,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+28,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+28,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+28,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+28,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+29,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+29,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+29,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+29,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+30,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+30,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+30,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+30,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+31,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+31,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+32,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+32,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+32,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+32,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+32,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+32,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+32,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+32,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+33,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+33,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+33,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+33,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+33,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+33,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+33,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+33,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+33,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+33,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+34,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+34,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+35,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+35,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+35,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+35,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+35,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+35,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+36,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+36,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+36,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+36,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+37,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+37,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+37,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+37,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+38,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+38,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+39,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+39,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+40,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+40,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+40,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+40,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+40,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+40,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0
+41,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+41,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+42,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+42,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+42,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+42,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+43,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+43,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+43,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+43,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+44,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+44,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+45,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+45,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+46,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+46,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+47,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+47,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+48,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+48,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+49,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+49,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+50,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+50,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+51,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+51,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+52,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+52,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+52,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+52,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+53,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+53,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+54,BABY CARE,sales_lag_7,0.0,False,0.0,0.0
+54,BABY CARE,sales_rolling_mean_7,0.0,False,0.0,0.0
+54,BOOKS,sales_lag_7,0.0,False,0.0,0.0
+54,BOOKS,sales_rolling_mean_7,0.0,False,0.0,0.0
+54,LADIESWEAR,sales_lag_7,0.0,False,0.0,0.0
+54,LADIESWEAR,sales_rolling_mean_7,0.0,False,0.0,0.0
+54,LAWN AND GARDEN,sales_lag_7,0.0,False,0.0,0.0
+54,LAWN AND GARDEN,sales_rolling_mean_7,0.0,False,0.0,0.0
+54,SCHOOL AND OFFICE SUPPLIES,sales_lag_7,0.0,False,0.0,0.0
+54,SCHOOL AND OFFICE SUPPLIES,sales_rolling_mean_7,0.0,False,0.0,0.0

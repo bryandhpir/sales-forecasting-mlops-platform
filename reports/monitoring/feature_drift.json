@@ -1,0 +1,29 @@
+{
+  "reference_rows": 53460,
+  "current_rows": 55242,
+  "threshold": 0.2,
+  "features": {
+    "sales_lag_7": {
+      "ks_statistic": 0.0046,
+      "drift_detected": false,
+      "reference_missing_rate": 0.0,
+      "current_missing_rate": 0.0
+    },
+    "sales_rolling_mean_7": {
+      "ks_statistic": 0.0069,
+      "drift_detected": false,
+      "reference_missing_rate": 0.0,
+      "current_missing_rate": 0.0
+    }
+  },
+  "generated_at_utc": "2026-11-11T23:51:10.271351+00:00",
+  "reference_period": {
+    "start": "2017-06-01",
+    "end": "2017-06-30"
+  },
+  "current_period": {
+    "start": "2017-07-01",
+    "end": "2017-07-31"
+  },
+  "drift_detected": false
+}
